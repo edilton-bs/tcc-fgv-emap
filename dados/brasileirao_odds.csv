@@ -1,1161 +1,1141 @@
 Year,Time,Home Team,Home Score,Away Score,Away Team,Odd 1,Odd X,Odd 2
-2021,21:30,America MG,2,0,Sao Paulo,2.00,3.32,3.98
-2021,21:30,Atletico GO,2,0,Flamengo RJ,1.72,3.89,4.57
-2021,21:30,Bragantino,1,0,Internacional,1.90,3.65,4.01
-2021,21:30,Juventude,1,0,Corinthians,2.25,3.10,3.52
-2021,21:30,Fluminense,3,0,Chapecoense-SC,1.19,6.62,15.82
-2021,21:30,Fortaleza,2,1,Bahia,2.49,3.23,2.92
-2021,21:30,Gremio,4,3,Atletico-MG,1.53,4.37,5.75
-2021,21:30,Palmeiras,1,0,Ceara,4.06,3.75,1.85
-2021,21:30,Santos,1,1,Cuiaba,2.08,3.04,4.11
-2021,21:30,Sport Recife,1,1,Athletico-PR,1.71,3.59,5.27
-2021,21:00,Chapecoense-SC,0,1,Sport Recife,3.02,3.11,2.48
-2021,20:00,Cuiaba,1,0,Fortaleza,2.10,3.08,3.92
-2021,20:00,Flamengo RJ,0,1,Santos,1.52,4.56,5.80
-2021,20:00,Internacional,1,2,Atletico GO,1.55,4.00,6.16
-2021,19:00,Athletico-PR,0,0,Palmeiras,1.42,4.45,7.86
-2021,19:00,Sao Paulo,3,1,Juventude,1.63,3.58,6.14
-2021,19:00,Ceara,0,0,America MG,2.13,3.21,3.66
-2021,16:00,Atletico-MG,4,3,Bragantino,1.95,3.43,4.04
-2021,16:00,Bahia,2,0,Fluminense,2.04,3.18,3.99
-2021,16:00,Corinthians,1,1,Gremio,2.26,3.35,3.17
-2021,21:00,Fortaleza,1,0,Juventude,1.71,3.53,5.27
-2021,20:00,Chapecoense-SC,0,1,Atletico GO,3.73,3.21,2.10
-2021,20:00,Sport Recife,1,1,Flamengo RJ,4.73,3.81,1.72
-2021,19:00,Athletico-PR,1,0,Cuiaba,1.73,3.22,5.98
-2021,20:00,Gremio,3,0,Sao Paulo,2.19,3.19,3.49
-2021,18:00,Bahia,2,3,Atletico-MG,4.19,3.20,1.99
-2021,22:00,Cuiaba,1,3,Palmeiras,1.74,3.49,5.13
-2021,21:00,America MG,3,0,Chapecoense-SC,1.27,5.53,11.36
-2021,20:00,Flamengo RJ,2,1,Ceara,1.43,4.59,7.06
-2021,19:00,Juventude,1,0,Bragantino,2.43,2.99,3.25
-2021,19:00,Atletico GO,2,1,Bahia,2.54,3.04,3.01
-2021,19:00,Internacional,1,1,Santos,1.58,3.92,6.13
-2021,16:00,Atletico-MG,2,1,Fluminense,1.38,4.63,9.08
-2021,16:00,Corinthians,1,0,Athletico-PR,1.99,3.12,4.30
-2021,21:30,Sao Paulo,2,0,Sport Recife,1.49,4.09,7.18
-2021,19:30,Bragantino,1,1,America MG,1.96,3.41,4.10
-2021,19:00,Bahia,3,1,Gremio,2.59,3.12,2.89
-2021,20:00,Ceara,2,1,Corinthians,2.36,3.09,3.30
-2021,19:00,Santos,2,0,Fortaleza,2.78,2.98,2.82
-2021,21:30,Fluminense,1,0,Internacional,2.39,3.04,3.26
-2021,21:30,Sao Paulo,0,0,Athletico-PR,1.84,3.26,4.85
-2021,21:30,Palmeiras,2,2,Atletico-MG,4.64,3.58,1.79
-2021,21:00,Gremio,2,2,Flamengo RJ,2.03,3.56,3.55
-2021,19:00,Atletico GO,1,1,Juventude,2.13,3.02,3.97
-2021,19:00,Bahia,0,0,Cuiaba,1.85,3.31,4.67
-2021,17:00,Fluminense,2,0,America MG,2.17,3.16,3.61
-2021,16:00,Corinthians,2,0,Santos,1.74,3.35,5.67
-2021,21:30,Internacional,1,2,Flamengo RJ,3.89,3.44,2.00
-2021,21:00,Atletico GO,1,1,Ceara,2.28,3.14,3.38
-2021,19:00,Atletico-MG,2,0,Juventude,1.32,5.06,10.13
-2021,21:30,America MG,2,0,Sao Paulo,2.00,3.32,3.98
-2021,21:30,Atletico GO,2,0,Flamengo RJ,1.72,3.89,4.57
-2021,21:30,Bragantino,1,0,Internacional,1.90,3.65,4.01
-2021,21:30,Juventude,1,0,Corinthians,2.25,3.10,3.52
-2021,21:30,Fluminense,3,0,Chapecoense-SC,1.19,6.62,15.82
-2021,21:30,Fortaleza,2,1,Bahia,2.49,3.23,2.92
-2021,21:30,Gremio,4,3,Atletico-MG,1.53,4.37,5.75
-2021,21:30,Palmeiras,1,0,Ceara,4.06,3.75,1.85
-2021,21:30,Santos,1,1,Cuiaba,2.08,3.04,4.11
-2021,21:30,Sport Recife,1,1,Athletico-PR,1.71,3.59,5.27
-2021,21:00,Chapecoense-SC,0,1,Sport Recife,3.02,3.11,2.48
-2021,20:00,Cuiaba,1,0,Fortaleza,2.10,3.08,3.92
-2021,20:00,Flamengo RJ,0,1,Santos,1.52,4.56,5.80
-2021,20:00,Internacional,1,2,Atletico GO,1.55,4.00,6.16
-2021,19:00,Athletico-PR,0,0,Palmeiras,1.42,4.45,7.86
-2021,19:00,Sao Paulo,3,1,Juventude,1.63,3.58,6.14
-2021,19:00,Ceara,0,0,America MG,2.13,3.21,3.66
-2021,16:00,Atletico-MG,4,3,Bragantino,1.95,3.43,4.04
-2021,16:00,Bahia,2,0,Fluminense,2.04,3.18,3.99
-2021,16:00,Corinthians,1,1,Gremio,2.26,3.35,3.17
-2021,21:00,Fortaleza,1,0,Juventude,1.71,3.53,5.27
-2021,20:00,Chapecoense-SC,0,1,Atletico GO,3.73,3.21,2.10
-2021,20:00,Sport Recife,1,1,Flamengo RJ,4.73,3.81,1.72
-2021,19:00,Athletico-PR,1,0,Cuiaba,1.73,3.22,5.98
-2021,20:00,Gremio,3,0,Sao Paulo,2.19,3.19,3.49
-2021,18:00,Bahia,2,3,Atletico-MG,4.19,3.20,1.99
-2021,22:00,Cuiaba,1,3,Palmeiras,1.74,3.49,5.13
-2021,21:00,America MG,3,0,Chapecoense-SC,1.27,5.53,11.36
-2021,20:00,Flamengo RJ,2,1,Ceara,1.43,4.59,7.06
-2021,19:00,Juventude,1,0,Bragantino,2.43,2.99,3.25
-2021,19:00,Atletico GO,2,1,Bahia,2.54,3.04,3.01
-2021,19:00,Internacional,1,1,Santos,1.58,3.92,6.13
-2021,16:00,Atletico-MG,2,1,Fluminense,1.38,4.63,9.08
-2021,16:00,Corinthians,1,0,Athletico-PR,1.99,3.12,4.30
-2021,21:30,Sao Paulo,2,0,Sport Recife,1.49,4.09,7.18
-2021,19:30,Bragantino,1,1,America MG,1.96,3.41,4.10
-2021,19:00,Bahia,3,1,Gremio,2.59,3.12,2.89
-2021,20:00,Ceara,2,1,Corinthians,2.36,3.09,3.30
-2021,19:00,Santos,2,0,Fortaleza,2.78,2.98,2.82
-2021,21:30,Fluminense,1,0,Internacional,2.39,3.04,3.26
-2021,21:30,Sao Paulo,0,0,Athletico-PR,1.84,3.26,4.85
-2021,21:30,Palmeiras,2,2,Atletico-MG,4.64,3.58,1.79
-2021,21:00,Gremio,2,2,Flamengo RJ,2.03,3.56,3.55
-2021,19:00,Atletico GO,1,1,Juventude,2.13,3.02,3.97
-2021,19:00,Bahia,0,0,Cuiaba,1.85,3.31,4.67
-2021,17:00,Fluminense,2,0,America MG,2.17,3.16,3.61
-2021,16:00,Corinthians,2,0,Santos,1.74,3.35,5.67
-2021,21:30,Internacional,1,2,Flamengo RJ,3.89,3.44,2.00
-2021,21:00,Atletico GO,1,1,Ceara,2.28,3.14,3.38
-2021,19:00,Atletico-MG,2,0,Juventude,1.32,5.06,10.13
-2021,21:30,America MG,2,0,Sao Paulo,2.00,3.32,3.98
-2021,21:30,Atletico GO,2,0,Flamengo RJ,1.72,3.89,4.57
-2021,21:30,Bragantino,1,0,Internacional,1.90,3.65,4.01
-2021,21:30,Juventude,1,0,Corinthians,2.25,3.10,3.52
-2021,21:30,Fluminense,3,0,Chapecoense-SC,1.19,6.62,15.82
-2021,21:30,Fortaleza,2,1,Bahia,2.49,3.23,2.92
-2021,21:30,Gremio,4,3,Atletico-MG,1.53,4.37,5.75
-2021,21:30,Palmeiras,1,0,Ceara,4.06,3.75,1.85
-2021,21:30,Santos,1,1,Cuiaba,2.08,3.04,4.11
-2021,21:30,Sport Recife,1,1,Athletico-PR,1.71,3.59,5.27
-2021,21:00,Chapecoense-SC,0,1,Sport Recife,3.02,3.11,2.48
-2021,20:00,Cuiaba,1,0,Fortaleza,2.10,3.08,3.92
-2021,20:00,Flamengo RJ,0,1,Santos,1.52,4.56,5.80
-2021,20:00,Internacional,1,2,Atletico GO,1.55,4.00,6.16
-2021,19:00,Athletico-PR,0,0,Palmeiras,1.42,4.45,7.86
-2021,19:00,Sao Paulo,3,1,Juventude,1.63,3.58,6.14
-2021,19:00,Ceara,0,0,America MG,2.13,3.21,3.66
-2021,16:00,Atletico-MG,4,3,Bragantino,1.95,3.43,4.04
-2021,16:00,Bahia,2,0,Fluminense,2.04,3.18,3.99
-2021,16:00,Corinthians,1,1,Gremio,2.26,3.35,3.17
-2021,21:00,Fortaleza,1,0,Juventude,1.71,3.53,5.27
-2021,20:00,Chapecoense-SC,0,1,Atletico GO,3.73,3.21,2.10
-2021,20:00,Sport Recife,1,1,Flamengo RJ,4.73,3.81,1.72
-2021,19:00,Athletico-PR,1,0,Cuiaba,1.73,3.22,5.98
-2021,20:00,Gremio,3,0,Sao Paulo,2.19,3.19,3.49
-2021,18:00,Bahia,2,3,Atletico-MG,4.19,3.20,1.99
-2021,22:00,Cuiaba,1,3,Palmeiras,1.74,3.49,5.13
-2021,21:00,America MG,3,0,Chapecoense-SC,1.27,5.53,11.36
-2021,20:00,Flamengo RJ,2,1,Ceara,1.43,4.59,7.06
-2021,19:00,Juventude,1,0,Bragantino,2.43,2.99,3.25
-2021,19:00,Atletico GO,2,1,Bahia,2.54,3.04,3.01
-2021,19:00,Internacional,1,1,Santos,1.58,3.92,6.13
-2021,16:00,Atletico-MG,2,1,Fluminense,1.38,4.63,9.08
-2021,16:00,Corinthians,1,0,Athletico-PR,1.99,3.12,4.30
-2021,21:30,Sao Paulo,2,0,Sport Recife,1.49,4.09,7.18
-2021,19:30,Bragantino,1,1,America MG,1.96,3.41,4.10
-2021,19:00,Bahia,3,1,Gremio,2.59,3.12,2.89
-2021,20:00,Ceara,2,1,Corinthians,2.36,3.09,3.30
-2021,19:00,Santos,2,0,Fortaleza,2.78,2.98,2.82
-2021,21:30,Fluminense,1,0,Internacional,2.39,3.04,3.26
-2021,21:30,Sao Paulo,0,0,Athletico-PR,1.84,3.26,4.85
-2021,21:30,Palmeiras,2,2,Atletico-MG,4.64,3.58,1.79
-2021,21:00,Gremio,2,2,Flamengo RJ,2.03,3.56,3.55
-2021,19:00,Atletico GO,1,1,Juventude,2.13,3.02,3.97
-2021,19:00,Bahia,0,0,Cuiaba,1.85,3.31,4.67
-2021,17:00,Fluminense,2,0,America MG,2.17,3.16,3.61
-2021,16:00,Corinthians,2,0,Santos,1.74,3.35,5.67
-2021,21:30,Internacional,1,2,Flamengo RJ,3.89,3.44,2.00
-2021,21:00,Atletico GO,1,1,Ceara,2.28,3.14,3.38
-2021,19:00,Atletico-MG,2,0,Juventude,1.32,5.06,10.13
-2021,21:30,America MG,2,0,Sao Paulo,2.00,3.32,3.98
-2021,21:30,Atletico GO,2,0,Flamengo RJ,1.72,3.89,4.57
-2021,21:30,Bragantino,1,0,Internacional,1.90,3.65,4.01
-2021,21:30,Juventude,1,0,Corinthians,2.25,3.10,3.52
-2021,21:30,Fluminense,3,0,Chapecoense-SC,1.19,6.62,15.82
-2021,21:30,Fortaleza,2,1,Bahia,2.49,3.23,2.92
-2021,21:30,Gremio,4,3,Atletico-MG,1.53,4.37,5.75
-2021,21:30,Palmeiras,1,0,Ceara,4.06,3.75,1.85
-2021,21:30,Santos,1,1,Cuiaba,2.08,3.04,4.11
-2021,21:30,Sport Recife,1,1,Athletico-PR,1.71,3.59,5.27
-2021,21:00,Chapecoense-SC,0,1,Sport Recife,3.02,3.11,2.48
-2021,20:00,Cuiaba,1,0,Fortaleza,2.10,3.08,3.92
-2021,20:00,Flamengo RJ,0,1,Santos,1.52,4.56,5.80
-2021,20:00,Internacional,1,2,Atletico GO,1.55,4.00,6.16
-2021,19:00,Athletico-PR,0,0,Palmeiras,1.42,4.45,7.86
-2021,19:00,Sao Paulo,3,1,Juventude,1.63,3.58,6.14
-2021,19:00,Ceara,0,0,America MG,2.13,3.21,3.66
-2021,16:00,Atletico-MG,4,3,Bragantino,1.95,3.43,4.04
-2021,16:00,Bahia,2,0,Fluminense,2.04,3.18,3.99
-2021,16:00,Corinthians,1,1,Gremio,2.26,3.35,3.17
-2021,21:00,Fortaleza,1,0,Juventude,1.71,3.53,5.27
-2021,20:00,Chapecoense-SC,0,1,Atletico GO,3.73,3.21,2.10
-2021,20:00,Sport Recife,1,1,Flamengo RJ,4.73,3.81,1.72
-2021,19:00,Athletico-PR,1,0,Cuiaba,1.73,3.22,5.98
-2021,20:00,Gremio,3,0,Sao Paulo,2.19,3.19,3.49
-2021,18:00,Bahia,2,3,Atletico-MG,4.19,3.20,1.99
-2021,22:00,Cuiaba,1,3,Palmeiras,1.74,3.49,5.13
-2021,21:00,America MG,3,0,Chapecoense-SC,1.27,5.53,11.36
-2021,20:00,Flamengo RJ,2,1,Ceara,1.43,4.59,7.06
-2021,19:00,Juventude,1,0,Bragantino,2.43,2.99,3.25
-2021,19:00,Atletico GO,2,1,Bahia,2.54,3.04,3.01
-2021,19:00,Internacional,1,1,Santos,1.58,3.92,6.13
-2021,16:00,Atletico-MG,2,1,Fluminense,1.38,4.63,9.08
-2021,16:00,Corinthians,1,0,Athletico-PR,1.99,3.12,4.30
-2021,21:30,Sao Paulo,2,0,Sport Recife,1.49,4.09,7.18
-2021,19:30,Bragantino,1,1,America MG,1.96,3.41,4.10
-2021,19:00,Bahia,3,1,Gremio,2.59,3.12,2.89
-2021,20:00,Ceara,2,1,Corinthians,2.36,3.09,3.30
-2021,19:00,Santos,2,0,Fortaleza,2.78,2.98,2.82
-2021,21:30,Fluminense,1,0,Internacional,2.39,3.04,3.26
-2021,21:30,Sao Paulo,0,0,Athletico-PR,1.84,3.26,4.85
-2021,21:30,Palmeiras,2,2,Atletico-MG,4.64,3.58,1.79
-2021,21:00,Gremio,2,2,Flamengo RJ,2.03,3.56,3.55
-2021,19:00,Atletico GO,1,1,Juventude,2.13,3.02,3.97
-2021,19:00,Bahia,0,0,Cuiaba,1.85,3.31,4.67
-2021,17:00,Fluminense,2,0,America MG,2.17,3.16,3.61
-2021,16:00,Corinthians,2,0,Santos,1.74,3.35,5.67
-2021,21:30,Internacional,1,2,Flamengo RJ,3.89,3.44,2.00
-2021,21:00,Atletico GO,1,1,Ceara,2.28,3.14,3.38
-2021,19:00,Atletico-MG,2,0,Juventude,1.32,5.06,10.13
-2021,21:30,America MG,2,0,Sao Paulo,2.00,3.32,3.98
-2021,21:30,Atletico GO,2,0,Flamengo RJ,1.72,3.89,4.57
-2021,21:30,Bragantino,1,0,Internacional,1.90,3.65,4.01
-2021,21:30,Juventude,1,0,Corinthians,2.25,3.10,3.52
-2021,21:30,Fluminense,3,0,Chapecoense-SC,1.19,6.62,15.82
-2021,21:30,Fortaleza,2,1,Bahia,2.49,3.23,2.92
-2021,21:30,Gremio,4,3,Atletico-MG,1.53,4.37,5.75
-2021,21:30,Palmeiras,1,0,Ceara,4.06,3.75,1.85
-2021,21:30,Santos,1,1,Cuiaba,2.08,3.04,4.11
-2021,21:30,Sport Recife,1,1,Athletico-PR,1.71,3.59,5.27
-2021,21:00,Chapecoense-SC,0,1,Sport Recife,3.02,3.11,2.48
-2021,20:00,Cuiaba,1,0,Fortaleza,2.10,3.08,3.92
-2021,20:00,Flamengo RJ,0,1,Santos,1.52,4.56,5.80
-2021,20:00,Internacional,1,2,Atletico GO,1.55,4.00,6.16
-2021,19:00,Athletico-PR,0,0,Palmeiras,1.42,4.45,7.86
-2021,19:00,Sao Paulo,3,1,Juventude,1.63,3.58,6.14
-2021,19:00,Ceara,0,0,America MG,2.13,3.21,3.66
-2021,16:00,Atletico-MG,4,3,Bragantino,1.95,3.43,4.04
-2021,16:00,Bahia,2,0,Fluminense,2.04,3.18,3.99
-2021,16:00,Corinthians,1,1,Gremio,2.26,3.35,3.17
-2021,21:00,Fortaleza,1,0,Juventude,1.71,3.53,5.27
-2021,20:00,Chapecoense-SC,0,1,Atletico GO,3.73,3.21,2.10
-2021,20:00,Sport Recife,1,1,Flamengo RJ,4.73,3.81,1.72
-2021,19:00,Athletico-PR,1,0,Cuiaba,1.73,3.22,5.98
-2021,20:00,Gremio,3,0,Sao Paulo,2.19,3.19,3.49
-2021,18:00,Bahia,2,3,Atletico-MG,4.19,3.20,1.99
-2021,22:00,Cuiaba,1,3,Palmeiras,1.74,3.49,5.13
-2021,21:00,America MG,3,0,Chapecoense-SC,1.27,5.53,11.36
-2021,20:00,Flamengo RJ,2,1,Ceara,1.43,4.59,7.06
-2021,19:00,Juventude,1,0,Bragantino,2.43,2.99,3.25
-2021,19:00,Atletico GO,2,1,Bahia,2.54,3.04,3.01
-2021,19:00,Internacional,1,1,Santos,1.58,3.92,6.13
-2021,16:00,Atletico-MG,2,1,Fluminense,1.38,4.63,9.08
-2021,16:00,Corinthians,1,0,Athletico-PR,1.99,3.12,4.30
-2021,21:30,Sao Paulo,2,0,Sport Recife,1.49,4.09,7.18
-2021,19:30,Bragantino,1,1,America MG,1.96,3.41,4.10
-2021,19:00,Bahia,3,1,Gremio,2.59,3.12,2.89
-2021,20:00,Ceara,2,1,Corinthians,2.36,3.09,3.30
-2021,19:00,Santos,2,0,Fortaleza,2.78,2.98,2.82
-2021,21:30,Fluminense,1,0,Internacional,2.39,3.04,3.26
-2021,21:30,Sao Paulo,0,0,Athletico-PR,1.84,3.26,4.85
-2021,21:30,Palmeiras,2,2,Atletico-MG,4.64,3.58,1.79
-2021,21:00,Gremio,2,2,Flamengo RJ,2.03,3.56,3.55
-2021,19:00,Atletico GO,1,1,Juventude,2.13,3.02,3.97
-2021,19:00,Bahia,0,0,Cuiaba,1.85,3.31,4.67
-2021,17:00,Fluminense,2,0,America MG,2.17,3.16,3.61
-2021,16:00,Corinthians,2,0,Santos,1.74,3.35,5.67
-2021,21:30,Internacional,1,2,Flamengo RJ,3.89,3.44,2.00
-2021,21:00,Atletico GO,1,1,Ceara,2.28,3.14,3.38
-2021,19:00,Atletico-MG,2,0,Juventude,1.32,5.06,10.13
-2021,21:30,America MG,2,0,Sao Paulo,2.00,3.32,3.98
-2021,21:30,Atletico GO,2,0,Flamengo RJ,1.72,3.89,4.57
-2021,21:30,Bragantino,1,0,Internacional,1.90,3.65,4.01
-2021,21:30,Juventude,1,0,Corinthians,2.25,3.10,3.52
-2021,21:30,Fluminense,3,0,Chapecoense-SC,1.19,6.62,15.82
-2021,21:30,Fortaleza,2,1,Bahia,2.49,3.23,2.92
-2021,21:30,Gremio,4,3,Atletico-MG,1.53,4.37,5.75
-2021,21:30,Palmeiras,1,0,Ceara,4.06,3.75,1.85
-2021,21:30,Santos,1,1,Cuiaba,2.08,3.04,4.11
-2021,21:30,Sport Recife,1,1,Athletico-PR,1.71,3.59,5.27
-2021,21:00,Chapecoense-SC,0,1,Sport Recife,3.02,3.11,2.48
-2021,20:00,Cuiaba,1,0,Fortaleza,2.10,3.08,3.92
-2021,20:00,Flamengo RJ,0,1,Santos,1.52,4.56,5.80
-2021,20:00,Internacional,1,2,Atletico GO,1.55,4.00,6.16
-2021,19:00,Athletico-PR,0,0,Palmeiras,1.42,4.45,7.86
-2021,19:00,Sao Paulo,3,1,Juventude,1.63,3.58,6.14
-2021,19:00,Ceara,0,0,America MG,2.13,3.21,3.66
-2021,16:00,Atletico-MG,4,3,Bragantino,1.95,3.43,4.04
-2021,16:00,Bahia,2,0,Fluminense,2.04,3.18,3.99
-2021,16:00,Corinthians,1,1,Gremio,2.26,3.35,3.17
-2021,21:00,Fortaleza,1,0,Juventude,1.71,3.53,5.27
-2021,20:00,Chapecoense-SC,0,1,Atletico GO,3.73,3.21,2.10
-2021,20:00,Sport Recife,1,1,Flamengo RJ,4.73,3.81,1.72
-2021,19:00,Athletico-PR,1,0,Cuiaba,1.73,3.22,5.98
-2021,20:00,Gremio,3,0,Sao Paulo,2.19,3.19,3.49
-2021,18:00,Bahia,2,3,Atletico-MG,4.19,3.20,1.99
-2021,22:00,Cuiaba,1,3,Palmeiras,1.74,3.49,5.13
-2021,21:00,America MG,3,0,Chapecoense-SC,1.27,5.53,11.36
-2021,20:00,Flamengo RJ,2,1,Ceara,1.43,4.59,7.06
-2021,19:00,Juventude,1,0,Bragantino,2.43,2.99,3.25
-2021,19:00,Atletico GO,2,1,Bahia,2.54,3.04,3.01
-2021,19:00,Internacional,1,1,Santos,1.58,3.92,6.13
-2021,16:00,Atletico-MG,2,1,Fluminense,1.38,4.63,9.08
-2021,16:00,Corinthians,1,0,Athletico-PR,1.99,3.12,4.30
-2021,21:30,Sao Paulo,2,0,Sport Recife,1.49,4.09,7.18
-2021,19:30,Bragantino,1,1,America MG,1.96,3.41,4.10
-2021,19:00,Bahia,3,1,Gremio,2.59,3.12,2.89
-2021,20:00,Ceara,2,1,Corinthians,2.36,3.09,3.30
-2021,19:00,Santos,2,0,Fortaleza,2.78,2.98,2.82
-2021,21:30,Fluminense,1,0,Internacional,2.39,3.04,3.26
-2021,21:30,Sao Paulo,0,0,Athletico-PR,1.84,3.26,4.85
-2021,21:30,Palmeiras,2,2,Atletico-MG,4.64,3.58,1.79
-2021,21:00,Gremio,2,2,Flamengo RJ,2.03,3.56,3.55
-2021,19:00,Atletico GO,1,1,Juventude,2.13,3.02,3.97
-2021,19:00,Bahia,0,0,Cuiaba,1.85,3.31,4.67
-2021,17:00,Fluminense,2,0,America MG,2.17,3.16,3.61
-2021,16:00,Corinthians,2,0,Santos,1.74,3.35,5.67
-2021,21:30,Internacional,1,2,Flamengo RJ,3.89,3.44,2.00
-2021,21:00,Atletico GO,1,1,Ceara,2.28,3.14,3.38
-2021,19:00,Atletico-MG,2,0,Juventude,1.32,5.06,10.13
-2021,21:30,America MG,2,0,Sao Paulo,2.00,3.32,3.98
-2021,21:30,Atletico GO,2,0,Flamengo RJ,1.72,3.89,4.57
-2021,21:30,Bragantino,1,0,Internacional,1.90,3.65,4.01
-2021,21:30,Juventude,1,0,Corinthians,2.25,3.10,3.52
-2021,21:30,Fluminense,3,0,Chapecoense-SC,1.19,6.62,15.82
-2021,21:30,Fortaleza,2,1,Bahia,2.49,3.23,2.92
-2021,21:30,Gremio,4,3,Atletico-MG,1.53,4.37,5.75
-2021,21:30,Palmeiras,1,0,Ceara,4.06,3.75,1.85
-2021,21:30,Santos,1,1,Cuiaba,2.08,3.04,4.11
-2021,21:30,Sport Recife,1,1,Athletico-PR,1.71,3.59,5.27
-2021,21:00,Chapecoense-SC,0,1,Sport Recife,3.02,3.11,2.48
-2021,20:00,Cuiaba,1,0,Fortaleza,2.10,3.08,3.92
-2021,20:00,Flamengo RJ,0,1,Santos,1.52,4.56,5.80
-2021,20:00,Internacional,1,2,Atletico GO,1.55,4.00,6.16
-2021,19:00,Athletico-PR,0,0,Palmeiras,1.42,4.45,7.86
-2021,19:00,Sao Paulo,3,1,Juventude,1.63,3.58,6.14
-2021,19:00,Ceara,0,0,America MG,2.13,3.21,3.66
-2021,16:00,Atletico-MG,4,3,Bragantino,1.95,3.43,4.04
-2021,16:00,Bahia,2,0,Fluminense,2.04,3.18,3.99
-2021,16:00,Corinthians,1,1,Gremio,2.26,3.35,3.17
-2021,21:00,Fortaleza,1,0,Juventude,1.71,3.53,5.27
-2021,20:00,Chapecoense-SC,0,1,Atletico GO,3.73,3.21,2.10
-2021,20:00,Sport Recife,1,1,Flamengo RJ,4.73,3.81,1.72
-2021,19:00,Athletico-PR,1,0,Cuiaba,1.73,3.22,5.98
-2021,20:00,Gremio,3,0,Sao Paulo,2.19,3.19,3.49
-2021,18:00,Bahia,2,3,Atletico-MG,4.19,3.20,1.99
-2021,22:00,Cuiaba,1,3,Palmeiras,1.74,3.49,5.13
-2021,21:00,America MG,3,0,Chapecoense-SC,1.27,5.53,11.36
-2021,20:00,Flamengo RJ,2,1,Ceara,1.43,4.59,7.06
-2021,19:00,Juventude,1,0,Bragantino,2.43,2.99,3.25
-2021,19:00,Atletico GO,2,1,Bahia,2.54,3.04,3.01
-2021,19:00,Internacional,1,1,Santos,1.58,3.92,6.13
-2021,16:00,Atletico-MG,2,1,Fluminense,1.38,4.63,9.08
-2021,16:00,Corinthians,1,0,Athletico-PR,1.99,3.12,4.30
-2021,21:30,Sao Paulo,2,0,Sport Recife,1.49,4.09,7.18
-2021,19:30,Bragantino,1,1,America MG,1.96,3.41,4.10
-2021,19:00,Bahia,3,1,Gremio,2.59,3.12,2.89
-2021,20:00,Ceara,2,1,Corinthians,2.36,3.09,3.30
-2021,19:00,Santos,2,0,Fortaleza,2.78,2.98,2.82
-2021,21:30,Fluminense,1,0,Internacional,2.39,3.04,3.26
-2021,21:30,Sao Paulo,0,0,Athletico-PR,1.84,3.26,4.85
-2021,21:30,Palmeiras,2,2,Atletico-MG,4.64,3.58,1.79
-2021,21:00,Gremio,2,2,Flamengo RJ,2.03,3.56,3.55
-2021,19:00,Atletico GO,1,1,Juventude,2.13,3.02,3.97
-2021,19:00,Bahia,0,0,Cuiaba,1.85,3.31,4.67
-2021,17:00,Fluminense,2,0,America MG,2.17,3.16,3.61
-2021,16:00,Corinthians,2,0,Santos,1.74,3.35,5.67
-2021,21:30,Internacional,1,2,Flamengo RJ,3.89,3.44,2.00
-2021,21:00,Atletico GO,1,1,Ceara,2.28,3.14,3.38
-2021,19:00,Atletico-MG,2,0,Juventude,1.32,5.06,10.13
-2021,21:30,America MG,2,0,Sao Paulo,2.00,3.32,3.98
-2021,21:30,Atletico GO,2,0,Flamengo RJ,1.72,3.89,4.57
-2021,21:30,Bragantino,1,0,Internacional,1.90,3.65,4.01
-2021,21:30,Juventude,1,0,Corinthians,2.25,3.10,3.52
-2021,21:30,Fluminense,3,0,Chapecoense-SC,1.19,6.62,15.82
-2021,21:30,Fortaleza,2,1,Bahia,2.49,3.23,2.92
-2021,21:30,Gremio,4,3,Atletico-MG,1.53,4.37,5.75
-2021,21:30,Palmeiras,1,0,Ceara,4.06,3.75,1.85
-2021,21:30,Santos,1,1,Cuiaba,2.08,3.04,4.11
-2021,21:30,Sport Recife,1,1,Athletico-PR,1.71,3.59,5.27
-2021,21:00,Chapecoense-SC,0,1,Sport Recife,3.02,3.11,2.48
-2021,20:00,Cuiaba,1,0,Fortaleza,2.10,3.08,3.92
-2021,20:00,Flamengo RJ,0,1,Santos,1.52,4.56,5.80
-2021,20:00,Internacional,1,2,Atletico GO,1.55,4.00,6.16
-2021,19:00,Athletico-PR,0,0,Palmeiras,1.42,4.45,7.86
-2021,19:00,Sao Paulo,3,1,Juventude,1.63,3.58,6.14
-2021,19:00,Ceara,0,0,America MG,2.13,3.21,3.66
-2021,16:00,Atletico-MG,4,3,Bragantino,1.95,3.43,4.04
-2021,16:00,Bahia,2,0,Fluminense,2.04,3.18,3.99
-2021,16:00,Corinthians,1,1,Gremio,2.26,3.35,3.17
-2021,21:00,Fortaleza,1,0,Juventude,1.71,3.53,5.27
-2021,20:00,Chapecoense-SC,0,1,Atletico GO,3.73,3.21,2.10
-2021,20:00,Sport Recife,1,1,Flamengo RJ,4.73,3.81,1.72
-2021,19:00,Athletico-PR,1,0,Cuiaba,1.73,3.22,5.98
-2021,20:00,Gremio,3,0,Sao Paulo,2.19,3.19,3.49
-2021,18:00,Bahia,2,3,Atletico-MG,4.19,3.20,1.99
-2021,22:00,Cuiaba,1,3,Palmeiras,1.74,3.49,5.13
-2021,21:00,America MG,3,0,Chapecoense-SC,1.27,5.53,11.36
-2021,20:00,Flamengo RJ,2,1,Ceara,1.43,4.59,7.06
-2021,19:00,Juventude,1,0,Bragantino,2.43,2.99,3.25
-2021,19:00,Atletico GO,2,1,Bahia,2.54,3.04,3.01
-2021,19:00,Internacional,1,1,Santos,1.58,3.92,6.13
-2021,16:00,Atletico-MG,2,1,Fluminense,1.38,4.63,9.08
-2021,16:00,Corinthians,1,0,Athletico-PR,1.99,3.12,4.30
-2021,21:30,Sao Paulo,2,0,Sport Recife,1.49,4.09,7.18
-2021,19:30,Bragantino,1,1,America MG,1.96,3.41,4.10
-2021,19:00,Bahia,3,1,Gremio,2.59,3.12,2.89
-2021,20:00,Ceara,2,1,Corinthians,2.36,3.09,3.30
-2021,19:00,Santos,2,0,Fortaleza,2.78,2.98,2.82
-2021,21:30,Fluminense,1,0,Internacional,2.39,3.04,3.26
-2021,21:30,Sao Paulo,0,0,Athletico-PR,1.84,3.26,4.85
-2021,21:30,Palmeiras,2,2,Atletico-MG,4.64,3.58,1.79
-2021,21:00,Gremio,2,2,Flamengo RJ,2.03,3.56,3.55
-2021,19:00,Atletico GO,1,1,Juventude,2.13,3.02,3.97
-2021,19:00,Bahia,0,0,Cuiaba,1.85,3.31,4.67
-2021,17:00,Fluminense,2,0,America MG,2.17,3.16,3.61
-2021,16:00,Corinthians,2,0,Santos,1.74,3.35,5.67
-2021,21:30,Internacional,1,2,Flamengo RJ,3.89,3.44,2.00
-2021,21:00,Atletico GO,1,1,Ceara,2.28,3.14,3.38
-2021,19:00,Atletico-MG,2,0,Juventude,1.32,5.06,10.13
-2022,16:00,America MG,1,1,Atletico GO,1.59,4.30,5.21
-2022,16:00,Athletico-PR,3,0,Botafogo RJ,2.18,3.27,3.45
-2022,16:00,Bragantino,0,1,Fluminense,2.44,3.53,2.79
-2022,16:00,Ceara,4,1,Juventude,1.67,3.89,5.07
-2022,16:00,Corinthians,0,1,Atletico-MG,3.05,3.11,2.48
-2022,16:00,Cuiaba,2,1,Coritiba,1.94,3.41,4.07
-2022,16:00,Goias,0,4,Sao Paulo,4.92,3.83,1.70
-2022,16:00,Internacional,3,0,Palmeiras,2.52,3.46,2.74
-2022,16:00,Santos,0,2,Fortaleza,3.30,3.31,2.24
-2022,16:00,Flamengo RJ,1,2,Avai,1.17,7.58,15.88
-2022,20:00,Atletico-MG,3,0,Cuiaba,1.47,4.20,7.34
-2022,20:00,Botafogo RJ,3,0,Santos,2.21,3.27,3.40
-2022,21:30,Atletico GO,1,1,Athletico-PR,2.10,3.43,3.50
-2022,21:30,Juventude,2,2,Flamengo RJ,5.56,3.79,1.64
-2022,21:30,Palmeiras,2,1,America MG,1.52,4.52,5.65
-2022,20:30,Fortaleza,6,0,Bragantino,1.81,3.60,4.47
-2022,19:00,Avai,2,0,Ceara,4.08,3.35,1.96
-2022,19:00,Coritiba,2,2,Corinthians,2.86,2.96,2.74
-2022,19:00,Fluminense,3,0,Goias,1.37,5.09,7.83
-2022,21:30,Sao Paulo,0,1,Internacional,1.86,3.52,4.29
-2022,20:00,Atletico-MG,0,2,Botafogo RJ,1.62,3.76,5.98
-2022,18:30,Cuiaba,1,1,Palmeiras,3.69,3.42,2.04
-2022,16:00,Coritiba,1,0,Flamengo RJ,3.55,3.31,2.13
-2022,16:00,Fortaleza,1,1,Atletico GO,1.66,3.87,5.27
-2022,21:00,Internacional,2,0,Athletico-PR,1.88,3.48,4.35
-2022,20:30,Corinthians,1,0,Ceara,1.87,3.29,4.62
-2022,19:00,Bragantino,1,4,America MG,2.00,3.51,3.74
-2022,19:00,Goias,1,0,Juventude,1.68,3.79,5.28
-2022,16:30,Fluminense,3,1,Sao Paulo,2.06,3.49,3.63
-2022,16:30,Santos,1,1,Avai,1.39,4.58,8.85
-2022,21:30,Flamengo RJ,1,2,Corinthians,1.70,3.68,5.15
-2022,21:30,Palmeiras,4,0,Fortaleza,1.45,4.60,6.91
-2022,19:00,Atletico GO,2,3,Santos,1.97,3.37,4.01
-2022,19:00,Avai,1,2,Bragantino,3.42,3.28,2.20
-2022,19:00,Juventude,0,1,Coritiba,2.55,3.18,2.87
-2022,16:00,America MG,1,0,Internacional,2.39,3.22,3.10
-2022,16:00,Athletico-PR,3,2,Goias,1.59,4.01,5.80
-2022,21:30,Sao Paulo,2,2,Atletico-MG,2.52,2.97,3.13
-2022,19:00,Botafogo RJ,0,2,Cuiaba,1.86,3.30,4.73
-2022,20:00,Ceara,0,1,Fluminense,3.36,3.22,2.25
-2022,19:30,Goias,0,0,Corinthians,2.82,3.01,2.74
-2022,20:00,Cuiaba,1,0,Avai,1.84,3.39,4.60
-2022,19:30,Atletico-MG,1,0,Juventude,1.21,6.50,14.30
-2022,19:00,Fortaleza,3,1,Coritiba,1.47,4.30,7.00
-2022,19:00,Sao Paulo,2,1,Atletico GO,1.65,3.80,5.40
-2022,16:00,America MG,1,1,Atletico GO,1.59,4.30,5.21
-2022,16:00,Athletico-PR,3,0,Botafogo RJ,2.18,3.27,3.45
-2022,16:00,Bragantino,0,1,Fluminense,2.44,3.53,2.79
-2022,16:00,Ceara,4,1,Juventude,1.67,3.89,5.07
-2022,16:00,Corinthians,0,1,Atletico-MG,3.05,3.11,2.48
-2022,16:00,Cuiaba,2,1,Coritiba,1.94,3.41,4.07
-2022,16:00,Goias,0,4,Sao Paulo,4.92,3.83,1.70
-2022,16:00,Internacional,3,0,Palmeiras,2.52,3.46,2.74
-2022,16:00,Santos,0,2,Fortaleza,3.30,3.31,2.24
-2022,16:00,Flamengo RJ,1,2,Avai,1.17,7.58,15.88
-2022,20:00,Atletico-MG,3,0,Cuiaba,1.47,4.20,7.34
-2022,20:00,Botafogo RJ,3,0,Santos,2.21,3.27,3.40
-2022,21:30,Atletico GO,1,1,Athletico-PR,2.10,3.43,3.50
-2022,21:30,Juventude,2,2,Flamengo RJ,5.56,3.79,1.64
-2022,21:30,Palmeiras,2,1,America MG,1.52,4.52,5.65
-2022,20:30,Fortaleza,6,0,Bragantino,1.81,3.60,4.47
-2022,19:00,Avai,2,0,Ceara,4.08,3.35,1.96
-2022,19:00,Coritiba,2,2,Corinthians,2.86,2.96,2.74
-2022,19:00,Fluminense,3,0,Goias,1.37,5.09,7.83
-2022,21:30,Sao Paulo,0,1,Internacional,1.86,3.52,4.29
-2022,20:00,Atletico-MG,0,2,Botafogo RJ,1.62,3.76,5.98
-2022,18:30,Cuiaba,1,1,Palmeiras,3.69,3.42,2.04
-2022,16:00,Coritiba,1,0,Flamengo RJ,3.55,3.31,2.13
-2022,16:00,Fortaleza,1,1,Atletico GO,1.66,3.87,5.27
-2022,21:00,Internacional,2,0,Athletico-PR,1.88,3.48,4.35
-2022,20:30,Corinthians,1,0,Ceara,1.87,3.29,4.62
-2022,19:00,Bragantino,1,4,America MG,2.00,3.51,3.74
-2022,19:00,Goias,1,0,Juventude,1.68,3.79,5.28
-2022,16:30,Fluminense,3,1,Sao Paulo,2.06,3.49,3.63
-2022,16:30,Santos,1,1,Avai,1.39,4.58,8.85
-2022,21:30,Flamengo RJ,1,2,Corinthians,1.70,3.68,5.15
-2022,21:30,Palmeiras,4,0,Fortaleza,1.45,4.60,6.91
-2022,19:00,Atletico GO,2,3,Santos,1.97,3.37,4.01
-2022,19:00,Avai,1,2,Bragantino,3.42,3.28,2.20
-2022,19:00,Juventude,0,1,Coritiba,2.55,3.18,2.87
-2022,16:00,America MG,1,0,Internacional,2.39,3.22,3.10
-2022,16:00,Athletico-PR,3,2,Goias,1.59,4.01,5.80
-2022,21:30,Sao Paulo,2,2,Atletico-MG,2.52,2.97,3.13
-2022,19:00,Botafogo RJ,0,2,Cuiaba,1.86,3.30,4.73
-2022,20:00,Ceara,0,1,Fluminense,3.36,3.22,2.25
-2022,19:30,Goias,0,0,Corinthians,2.82,3.01,2.74
-2022,20:00,Cuiaba,1,0,Avai,1.84,3.39,4.60
-2022,19:30,Atletico-MG,1,0,Juventude,1.21,6.50,14.30
-2022,19:00,Fortaleza,3,1,Coritiba,1.47,4.30,7.00
-2022,19:00,Sao Paulo,2,1,Atletico GO,1.65,3.80,5.40
-2022,16:00,America MG,1,1,Atletico GO,1.59,4.30,5.21
-2022,16:00,Athletico-PR,3,0,Botafogo RJ,2.18,3.27,3.45
-2022,16:00,Bragantino,0,1,Fluminense,2.44,3.53,2.79
-2022,16:00,Ceara,4,1,Juventude,1.67,3.89,5.07
-2022,16:00,Corinthians,0,1,Atletico-MG,3.05,3.11,2.48
-2022,16:00,Cuiaba,2,1,Coritiba,1.94,3.41,4.07
-2022,16:00,Goias,0,4,Sao Paulo,4.92,3.83,1.70
-2022,16:00,Internacional,3,0,Palmeiras,2.52,3.46,2.74
-2022,16:00,Santos,0,2,Fortaleza,3.30,3.31,2.24
-2022,16:00,Flamengo RJ,1,2,Avai,1.17,7.58,15.88
-2022,20:00,Atletico-MG,3,0,Cuiaba,1.47,4.20,7.34
-2022,20:00,Botafogo RJ,3,0,Santos,2.21,3.27,3.40
-2022,21:30,Atletico GO,1,1,Athletico-PR,2.10,3.43,3.50
-2022,21:30,Juventude,2,2,Flamengo RJ,5.56,3.79,1.64
-2022,21:30,Palmeiras,2,1,America MG,1.52,4.52,5.65
-2022,20:30,Fortaleza,6,0,Bragantino,1.81,3.60,4.47
-2022,19:00,Avai,2,0,Ceara,4.08,3.35,1.96
-2022,19:00,Coritiba,2,2,Corinthians,2.86,2.96,2.74
-2022,19:00,Fluminense,3,0,Goias,1.37,5.09,7.83
-2022,21:30,Sao Paulo,0,1,Internacional,1.86,3.52,4.29
-2022,20:00,Atletico-MG,0,2,Botafogo RJ,1.62,3.76,5.98
-2022,18:30,Cuiaba,1,1,Palmeiras,3.69,3.42,2.04
-2022,16:00,Coritiba,1,0,Flamengo RJ,3.55,3.31,2.13
-2022,16:00,Fortaleza,1,1,Atletico GO,1.66,3.87,5.27
-2022,21:00,Internacional,2,0,Athletico-PR,1.88,3.48,4.35
-2022,20:30,Corinthians,1,0,Ceara,1.87,3.29,4.62
-2022,19:00,Bragantino,1,4,America MG,2.00,3.51,3.74
-2022,19:00,Goias,1,0,Juventude,1.68,3.79,5.28
-2022,16:30,Fluminense,3,1,Sao Paulo,2.06,3.49,3.63
-2022,16:30,Santos,1,1,Avai,1.39,4.58,8.85
-2022,21:30,Flamengo RJ,1,2,Corinthians,1.70,3.68,5.15
-2022,21:30,Palmeiras,4,0,Fortaleza,1.45,4.60,6.91
-2022,19:00,Atletico GO,2,3,Santos,1.97,3.37,4.01
-2022,19:00,Avai,1,2,Bragantino,3.42,3.28,2.20
-2022,19:00,Juventude,0,1,Coritiba,2.55,3.18,2.87
-2022,16:00,America MG,1,0,Internacional,2.39,3.22,3.10
-2022,16:00,Athletico-PR,3,2,Goias,1.59,4.01,5.80
-2022,21:30,Sao Paulo,2,2,Atletico-MG,2.52,2.97,3.13
-2022,19:00,Botafogo RJ,0,2,Cuiaba,1.86,3.30,4.73
-2022,20:00,Ceara,0,1,Fluminense,3.36,3.22,2.25
-2022,19:30,Goias,0,0,Corinthians,2.82,3.01,2.74
-2022,20:00,Cuiaba,1,0,Avai,1.84,3.39,4.60
-2022,19:30,Atletico-MG,1,0,Juventude,1.21,6.50,14.30
-2022,19:00,Fortaleza,3,1,Coritiba,1.47,4.30,7.00
-2022,19:00,Sao Paulo,2,1,Atletico GO,1.65,3.80,5.40
-2022,16:00,America MG,1,1,Atletico GO,1.59,4.30,5.21
-2022,16:00,Athletico-PR,3,0,Botafogo RJ,2.18,3.27,3.45
-2022,16:00,Bragantino,0,1,Fluminense,2.44,3.53,2.79
-2022,16:00,Ceara,4,1,Juventude,1.67,3.89,5.07
-2022,16:00,Corinthians,0,1,Atletico-MG,3.05,3.11,2.48
-2022,16:00,Cuiaba,2,1,Coritiba,1.94,3.41,4.07
-2022,16:00,Goias,0,4,Sao Paulo,4.92,3.83,1.70
-2022,16:00,Internacional,3,0,Palmeiras,2.52,3.46,2.74
-2022,16:00,Santos,0,2,Fortaleza,3.30,3.31,2.24
-2022,16:00,Flamengo RJ,1,2,Avai,1.17,7.58,15.88
-2022,20:00,Atletico-MG,3,0,Cuiaba,1.47,4.20,7.34
-2022,20:00,Botafogo RJ,3,0,Santos,2.21,3.27,3.40
-2022,21:30,Atletico GO,1,1,Athletico-PR,2.10,3.43,3.50
-2022,21:30,Juventude,2,2,Flamengo RJ,5.56,3.79,1.64
-2022,21:30,Palmeiras,2,1,America MG,1.52,4.52,5.65
-2022,20:30,Fortaleza,6,0,Bragantino,1.81,3.60,4.47
-2022,19:00,Avai,2,0,Ceara,4.08,3.35,1.96
-2022,19:00,Coritiba,2,2,Corinthians,2.86,2.96,2.74
-2022,19:00,Fluminense,3,0,Goias,1.37,5.09,7.83
-2022,21:30,Sao Paulo,0,1,Internacional,1.86,3.52,4.29
-2022,20:00,Atletico-MG,0,2,Botafogo RJ,1.62,3.76,5.98
-2022,18:30,Cuiaba,1,1,Palmeiras,3.69,3.42,2.04
-2022,16:00,Coritiba,1,0,Flamengo RJ,3.55,3.31,2.13
-2022,16:00,Fortaleza,1,1,Atletico GO,1.66,3.87,5.27
-2022,21:00,Internacional,2,0,Athletico-PR,1.88,3.48,4.35
-2022,20:30,Corinthians,1,0,Ceara,1.87,3.29,4.62
-2022,19:00,Bragantino,1,4,America MG,2.00,3.51,3.74
-2022,19:00,Goias,1,0,Juventude,1.68,3.79,5.28
-2022,16:30,Fluminense,3,1,Sao Paulo,2.06,3.49,3.63
-2022,16:30,Santos,1,1,Avai,1.39,4.58,8.85
-2022,21:30,Flamengo RJ,1,2,Corinthians,1.70,3.68,5.15
-2022,21:30,Palmeiras,4,0,Fortaleza,1.45,4.60,6.91
-2022,19:00,Atletico GO,2,3,Santos,1.97,3.37,4.01
-2022,19:00,Avai,1,2,Bragantino,3.42,3.28,2.20
-2022,19:00,Juventude,0,1,Coritiba,2.55,3.18,2.87
-2022,16:00,America MG,1,0,Internacional,2.39,3.22,3.10
-2022,16:00,Athletico-PR,3,2,Goias,1.59,4.01,5.80
-2022,21:30,Sao Paulo,2,2,Atletico-MG,2.52,2.97,3.13
-2022,19:00,Botafogo RJ,0,2,Cuiaba,1.86,3.30,4.73
-2022,20:00,Ceara,0,1,Fluminense,3.36,3.22,2.25
-2022,19:30,Goias,0,0,Corinthians,2.82,3.01,2.74
-2022,20:00,Cuiaba,1,0,Avai,1.84,3.39,4.60
-2022,19:30,Atletico-MG,1,0,Juventude,1.21,6.50,14.30
-2022,19:00,Fortaleza,3,1,Coritiba,1.47,4.30,7.00
-2022,19:00,Sao Paulo,2,1,Atletico GO,1.65,3.80,5.40
-2022,16:00,America MG,1,1,Atletico GO,1.59,4.30,5.21
-2022,16:00,Athletico-PR,3,0,Botafogo RJ,2.18,3.27,3.45
-2022,16:00,Bragantino,0,1,Fluminense,2.44,3.53,2.79
-2022,16:00,Ceara,4,1,Juventude,1.67,3.89,5.07
-2022,16:00,Corinthians,0,1,Atletico-MG,3.05,3.11,2.48
-2022,16:00,Cuiaba,2,1,Coritiba,1.94,3.41,4.07
-2022,16:00,Goias,0,4,Sao Paulo,4.92,3.83,1.70
-2022,16:00,Internacional,3,0,Palmeiras,2.52,3.46,2.74
-2022,16:00,Santos,0,2,Fortaleza,3.30,3.31,2.24
-2022,16:00,Flamengo RJ,1,2,Avai,1.17,7.58,15.88
-2022,20:00,Atletico-MG,3,0,Cuiaba,1.47,4.20,7.34
-2022,20:00,Botafogo RJ,3,0,Santos,2.21,3.27,3.40
-2022,21:30,Atletico GO,1,1,Athletico-PR,2.10,3.43,3.50
-2022,21:30,Juventude,2,2,Flamengo RJ,5.56,3.79,1.64
-2022,21:30,Palmeiras,2,1,America MG,1.52,4.52,5.65
-2022,20:30,Fortaleza,6,0,Bragantino,1.81,3.60,4.47
-2022,19:00,Avai,2,0,Ceara,4.08,3.35,1.96
-2022,19:00,Coritiba,2,2,Corinthians,2.86,2.96,2.74
-2022,19:00,Fluminense,3,0,Goias,1.37,5.09,7.83
-2022,21:30,Sao Paulo,0,1,Internacional,1.86,3.52,4.29
-2022,20:00,Atletico-MG,0,2,Botafogo RJ,1.62,3.76,5.98
-2022,18:30,Cuiaba,1,1,Palmeiras,3.69,3.42,2.04
-2022,16:00,Coritiba,1,0,Flamengo RJ,3.55,3.31,2.13
-2022,16:00,Fortaleza,1,1,Atletico GO,1.66,3.87,5.27
-2022,21:00,Internacional,2,0,Athletico-PR,1.88,3.48,4.35
-2022,20:30,Corinthians,1,0,Ceara,1.87,3.29,4.62
-2022,19:00,Bragantino,1,4,America MG,2.00,3.51,3.74
-2022,19:00,Goias,1,0,Juventude,1.68,3.79,5.28
-2022,16:30,Fluminense,3,1,Sao Paulo,2.06,3.49,3.63
-2022,16:30,Santos,1,1,Avai,1.39,4.58,8.85
-2022,21:30,Flamengo RJ,1,2,Corinthians,1.70,3.68,5.15
-2022,21:30,Palmeiras,4,0,Fortaleza,1.45,4.60,6.91
-2022,19:00,Atletico GO,2,3,Santos,1.97,3.37,4.01
-2022,19:00,Avai,1,2,Bragantino,3.42,3.28,2.20
-2022,19:00,Juventude,0,1,Coritiba,2.55,3.18,2.87
-2022,16:00,America MG,1,0,Internacional,2.39,3.22,3.10
-2022,16:00,Athletico-PR,3,2,Goias,1.59,4.01,5.80
-2022,21:30,Sao Paulo,2,2,Atletico-MG,2.52,2.97,3.13
-2022,19:00,Botafogo RJ,0,2,Cuiaba,1.86,3.30,4.73
-2022,20:00,Ceara,0,1,Fluminense,3.36,3.22,2.25
-2022,19:30,Goias,0,0,Corinthians,2.82,3.01,2.74
-2022,20:00,Cuiaba,1,0,Avai,1.84,3.39,4.60
-2022,19:30,Atletico-MG,1,0,Juventude,1.21,6.50,14.30
-2022,19:00,Fortaleza,3,1,Coritiba,1.47,4.30,7.00
-2022,19:00,Sao Paulo,2,1,Atletico GO,1.65,3.80,5.40
-2022,16:00,America MG,1,1,Atletico GO,1.59,4.30,5.21
-2022,16:00,Athletico-PR,3,0,Botafogo RJ,2.18,3.27,3.45
-2022,16:00,Bragantino,0,1,Fluminense,2.44,3.53,2.79
-2022,16:00,Ceara,4,1,Juventude,1.67,3.89,5.07
-2022,16:00,Corinthians,0,1,Atletico-MG,3.05,3.11,2.48
-2022,16:00,Cuiaba,2,1,Coritiba,1.94,3.41,4.07
-2022,16:00,Goias,0,4,Sao Paulo,4.92,3.83,1.70
-2022,16:00,Internacional,3,0,Palmeiras,2.52,3.46,2.74
-2022,16:00,Santos,0,2,Fortaleza,3.30,3.31,2.24
-2022,16:00,Flamengo RJ,1,2,Avai,1.17,7.58,15.88
-2022,20:00,Atletico-MG,3,0,Cuiaba,1.47,4.20,7.34
-2022,20:00,Botafogo RJ,3,0,Santos,2.21,3.27,3.40
-2022,21:30,Atletico GO,1,1,Athletico-PR,2.10,3.43,3.50
-2022,21:30,Juventude,2,2,Flamengo RJ,5.56,3.79,1.64
-2022,21:30,Palmeiras,2,1,America MG,1.52,4.52,5.65
-2022,20:30,Fortaleza,6,0,Bragantino,1.81,3.60,4.47
-2022,19:00,Avai,2,0,Ceara,4.08,3.35,1.96
-2022,19:00,Coritiba,2,2,Corinthians,2.86,2.96,2.74
-2022,19:00,Fluminense,3,0,Goias,1.37,5.09,7.83
-2022,21:30,Sao Paulo,0,1,Internacional,1.86,3.52,4.29
-2022,20:00,Atletico-MG,0,2,Botafogo RJ,1.62,3.76,5.98
-2022,18:30,Cuiaba,1,1,Palmeiras,3.69,3.42,2.04
-2022,16:00,Coritiba,1,0,Flamengo RJ,3.55,3.31,2.13
-2022,16:00,Fortaleza,1,1,Atletico GO,1.66,3.87,5.27
-2022,21:00,Internacional,2,0,Athletico-PR,1.88,3.48,4.35
-2022,20:30,Corinthians,1,0,Ceara,1.87,3.29,4.62
-2022,19:00,Bragantino,1,4,America MG,2.00,3.51,3.74
-2022,19:00,Goias,1,0,Juventude,1.68,3.79,5.28
-2022,16:30,Fluminense,3,1,Sao Paulo,2.06,3.49,3.63
-2022,16:30,Santos,1,1,Avai,1.39,4.58,8.85
-2022,21:30,Flamengo RJ,1,2,Corinthians,1.70,3.68,5.15
-2022,21:30,Palmeiras,4,0,Fortaleza,1.45,4.60,6.91
-2022,19:00,Atletico GO,2,3,Santos,1.97,3.37,4.01
-2022,19:00,Avai,1,2,Bragantino,3.42,3.28,2.20
-2022,19:00,Juventude,0,1,Coritiba,2.55,3.18,2.87
-2022,16:00,America MG,1,0,Internacional,2.39,3.22,3.10
-2022,16:00,Athletico-PR,3,2,Goias,1.59,4.01,5.80
-2022,21:30,Sao Paulo,2,2,Atletico-MG,2.52,2.97,3.13
-2022,19:00,Botafogo RJ,0,2,Cuiaba,1.86,3.30,4.73
-2022,20:00,Ceara,0,1,Fluminense,3.36,3.22,2.25
-2022,19:30,Goias,0,0,Corinthians,2.82,3.01,2.74
-2022,20:00,Cuiaba,1,0,Avai,1.84,3.39,4.60
-2022,19:30,Atletico-MG,1,0,Juventude,1.21,6.50,14.30
-2022,19:00,Fortaleza,3,1,Coritiba,1.47,4.30,7.00
-2022,19:00,Sao Paulo,2,1,Atletico GO,1.65,3.80,5.40
-2022,16:00,America MG,1,1,Atletico GO,1.59,4.30,5.21
-2022,16:00,Athletico-PR,3,0,Botafogo RJ,2.18,3.27,3.45
-2022,16:00,Bragantino,0,1,Fluminense,2.44,3.53,2.79
-2022,16:00,Ceara,4,1,Juventude,1.67,3.89,5.07
-2022,16:00,Corinthians,0,1,Atletico-MG,3.05,3.11,2.48
-2022,16:00,Cuiaba,2,1,Coritiba,1.94,3.41,4.07
-2022,16:00,Goias,0,4,Sao Paulo,4.92,3.83,1.70
-2022,16:00,Internacional,3,0,Palmeiras,2.52,3.46,2.74
-2022,16:00,Santos,0,2,Fortaleza,3.30,3.31,2.24
-2022,16:00,Flamengo RJ,1,2,Avai,1.17,7.58,15.88
-2022,20:00,Atletico-MG,3,0,Cuiaba,1.47,4.20,7.34
-2022,20:00,Botafogo RJ,3,0,Santos,2.21,3.27,3.40
-2022,21:30,Atletico GO,1,1,Athletico-PR,2.10,3.43,3.50
-2022,21:30,Juventude,2,2,Flamengo RJ,5.56,3.79,1.64
-2022,21:30,Palmeiras,2,1,America MG,1.52,4.52,5.65
-2022,20:30,Fortaleza,6,0,Bragantino,1.81,3.60,4.47
-2022,19:00,Avai,2,0,Ceara,4.08,3.35,1.96
-2022,19:00,Coritiba,2,2,Corinthians,2.86,2.96,2.74
-2022,19:00,Fluminense,3,0,Goias,1.37,5.09,7.83
-2022,21:30,Sao Paulo,0,1,Internacional,1.86,3.52,4.29
-2022,20:00,Atletico-MG,0,2,Botafogo RJ,1.62,3.76,5.98
-2022,18:30,Cuiaba,1,1,Palmeiras,3.69,3.42,2.04
-2022,16:00,Coritiba,1,0,Flamengo RJ,3.55,3.31,2.13
-2022,16:00,Fortaleza,1,1,Atletico GO,1.66,3.87,5.27
-2022,21:00,Internacional,2,0,Athletico-PR,1.88,3.48,4.35
-2022,20:30,Corinthians,1,0,Ceara,1.87,3.29,4.62
-2022,19:00,Bragantino,1,4,America MG,2.00,3.51,3.74
-2022,19:00,Goias,1,0,Juventude,1.68,3.79,5.28
-2022,16:30,Fluminense,3,1,Sao Paulo,2.06,3.49,3.63
-2022,16:30,Santos,1,1,Avai,1.39,4.58,8.85
-2022,21:30,Flamengo RJ,1,2,Corinthians,1.70,3.68,5.15
-2022,21:30,Palmeiras,4,0,Fortaleza,1.45,4.60,6.91
-2022,19:00,Atletico GO,2,3,Santos,1.97,3.37,4.01
-2022,19:00,Avai,1,2,Bragantino,3.42,3.28,2.20
-2022,19:00,Juventude,0,1,Coritiba,2.55,3.18,2.87
-2022,16:00,America MG,1,0,Internacional,2.39,3.22,3.10
-2022,16:00,Athletico-PR,3,2,Goias,1.59,4.01,5.80
-2022,21:30,Sao Paulo,2,2,Atletico-MG,2.52,2.97,3.13
-2022,19:00,Botafogo RJ,0,2,Cuiaba,1.86,3.30,4.73
-2022,20:00,Ceara,0,1,Fluminense,3.36,3.22,2.25
-2022,19:30,Goias,0,0,Corinthians,2.82,3.01,2.74
-2022,20:00,Cuiaba,1,0,Avai,1.84,3.39,4.60
-2022,19:30,Atletico-MG,1,0,Juventude,1.21,6.50,14.30
-2022,19:00,Fortaleza,3,1,Coritiba,1.47,4.30,7.00
-2022,19:00,Sao Paulo,2,1,Atletico GO,1.65,3.80,5.40
-2022,16:00,America MG,1,1,Atletico GO,1.59,4.30,5.21
-2022,16:00,Athletico-PR,3,0,Botafogo RJ,2.18,3.27,3.45
-2022,16:00,Bragantino,0,1,Fluminense,2.44,3.53,2.79
-2022,16:00,Ceara,4,1,Juventude,1.67,3.89,5.07
-2022,16:00,Corinthians,0,1,Atletico-MG,3.05,3.11,2.48
-2022,16:00,Cuiaba,2,1,Coritiba,1.94,3.41,4.07
-2022,16:00,Goias,0,4,Sao Paulo,4.92,3.83,1.70
-2022,16:00,Internacional,3,0,Palmeiras,2.52,3.46,2.74
-2022,16:00,Santos,0,2,Fortaleza,3.30,3.31,2.24
-2022,16:00,Flamengo RJ,1,2,Avai,1.17,7.58,15.88
-2022,20:00,Atletico-MG,3,0,Cuiaba,1.47,4.20,7.34
-2022,20:00,Botafogo RJ,3,0,Santos,2.21,3.27,3.40
-2022,21:30,Atletico GO,1,1,Athletico-PR,2.10,3.43,3.50
-2022,21:30,Juventude,2,2,Flamengo RJ,5.56,3.79,1.64
-2022,21:30,Palmeiras,2,1,America MG,1.52,4.52,5.65
-2022,20:30,Fortaleza,6,0,Bragantino,1.81,3.60,4.47
-2022,19:00,Avai,2,0,Ceara,4.08,3.35,1.96
-2022,19:00,Coritiba,2,2,Corinthians,2.86,2.96,2.74
-2022,19:00,Fluminense,3,0,Goias,1.37,5.09,7.83
-2022,21:30,Sao Paulo,0,1,Internacional,1.86,3.52,4.29
-2022,20:00,Atletico-MG,0,2,Botafogo RJ,1.62,3.76,5.98
-2022,18:30,Cuiaba,1,1,Palmeiras,3.69,3.42,2.04
-2022,16:00,Coritiba,1,0,Flamengo RJ,3.55,3.31,2.13
-2022,16:00,Fortaleza,1,1,Atletico GO,1.66,3.87,5.27
-2022,21:00,Internacional,2,0,Athletico-PR,1.88,3.48,4.35
-2022,20:30,Corinthians,1,0,Ceara,1.87,3.29,4.62
-2022,19:00,Bragantino,1,4,America MG,2.00,3.51,3.74
-2022,19:00,Goias,1,0,Juventude,1.68,3.79,5.28
-2022,16:30,Fluminense,3,1,Sao Paulo,2.06,3.49,3.63
-2022,16:30,Santos,1,1,Avai,1.39,4.58,8.85
-2022,21:30,Flamengo RJ,1,2,Corinthians,1.70,3.68,5.15
-2022,21:30,Palmeiras,4,0,Fortaleza,1.45,4.60,6.91
-2022,19:00,Atletico GO,2,3,Santos,1.97,3.37,4.01
-2022,19:00,Avai,1,2,Bragantino,3.42,3.28,2.20
-2022,19:00,Juventude,0,1,Coritiba,2.55,3.18,2.87
-2022,16:00,America MG,1,0,Internacional,2.39,3.22,3.10
-2022,16:00,Athletico-PR,3,2,Goias,1.59,4.01,5.80
-2022,21:30,Sao Paulo,2,2,Atletico-MG,2.52,2.97,3.13
-2022,19:00,Botafogo RJ,0,2,Cuiaba,1.86,3.30,4.73
-2022,20:00,Ceara,0,1,Fluminense,3.36,3.22,2.25
-2022,19:30,Goias,0,0,Corinthians,2.82,3.01,2.74
-2022,20:00,Cuiaba,1,0,Avai,1.84,3.39,4.60
-2022,19:30,Atletico-MG,1,0,Juventude,1.21,6.50,14.30
-2022,19:00,Fortaleza,3,1,Coritiba,1.47,4.30,7.00
-2022,19:00,Sao Paulo,2,1,Atletico GO,1.65,3.80,5.40
-2023,21:30,Bahia,4,1,Atletico-MG,2.53,3.53,2.70
-2023,21:30,Coritiba,0,2,Corinthians,3.27,3.23,2.31
-2023,21:30,Cruzeiro,1,1,Palmeiras,3.93,2.86,2.26
-2023,21:30,Cuiaba,3,0,Athletico-PR,2.31,3.11,3.39
-2023,21:30,Fluminense,2,3,Gremio,2.08,3.79,3.28
-2023,21:30,Internacional,3,1,Botafogo RJ,2.09,3.36,3.66
-2023,21:30,Santos,1,2,Fortaleza,1.94,3.30,4.37
-2023,21:30,Sao Paulo,1,0,Flamengo RJ,3.37,3.31,2.22
-2023,21:30,Vasco,2,1,Bragantino,2.18,3.33,3.45
-2023,19:00,Goias,1,0,America MG,1.72,3.99,4.56
-2023,18:30,America MG,3,2,Bahia,3.74,3.68,1.96
-2023,18:30,Athletico-PR,3,0,Santos,1.97,3.38,4.08
-2023,18:30,Botafogo RJ,0,0,Cruzeiro,1.92,3.44,4.18
-2023,18:30,Bragantino,1,0,Coritiba,1.20,7.19,12.99
-2023,18:30,Fortaleza,1,0,Goias,1.41,4.53,8.25
-2023,18:30,Gremio,1,0,Vasco,1.84,3.57,4.42
-2023,16:00,Flamengo RJ,2,1,Cuiaba,1.37,4.69,9.55
-2023,16:00,Palmeiras,1,0,Fluminense,1.27,5.84,10.74
-2023,21:00,Atletico-MG,2,1,Sao Paulo,1.66,3.62,6.03
-2023,18:00,Corinthians,1,2,Internacional,2.54,2.86,3.31
-2023,20:30,Bragantino,1,2,Fortaleza,1.80,3.65,4.58
-2023,20:00,Cruzeiro,1,1,Athletico-PR,2.01,3.37,3.98
-2023,19:00,Gremio,2,1,Goias,1.53,4.36,6.08
-2023,21:30,Coritiba,1,1,Botafogo RJ,4.76,3.70,1.76
-2023,21:30,Palmeiras,4,0,America MG,1.19,7.36,13.69
-2023,20:00,Bahia,0,1,Sao Paulo,2.27,3.12,3.48
-2023,20:00,Cuiaba,0,2,Internacional,3.09,2.84,2.70
-2023,19:30,Flamengo RJ,0,3,Atletico-MG,1.74,3.64,5.13
-2023,19:00,Santos,0,3,Fluminense,2.43,3.21,3.07
-2023,21:30,Vasco,2,4,Corinthians,1.99,3.15,4.34
-2023,21:00,Goias,0,1,Cruzeiro,2.84,3.09,2.70
-2023,18:30,America MG,0,3,Flamengo RJ,7.74,4.84,1.40
-2023,18:30,Fortaleza,2,2,Palmeiras,3.21,3.16,2.38
-2023,18:30,Internacional,1,0,Bragantino,2.49,3.31,2.90
-2023,18:30,Sao Paulo,0,0,Cuiaba,1.66,3.50,6.35
-2023,16:00,Atletico-MG,3,0,Gremio,1.75,3.67,4.88
-2023,16:00,Botafogo RJ,1,1,Santos,1.82,3.46,4.73
-2023,21:00,Fluminense,2,1,Coritiba,1.34,5.11,9.41
-2023,19:30,Athletico-PR,0,0,Vasco,1.95,3.40,4.15
-2023,21:00,Corinthians,1,5,Bahia,2.07,3.21,3.95
-2023,21:30,Flamengo RJ,1,0,Bragantino,2.11,3.43,3.54
-2023,19:00,Fortaleza,2,2,Botafogo RJ,2.16,3.39,3.44
-2023,21:30,Fluminense,1,0,Sao Paulo,2.19,3.16,3.60
-2023,19:00,Cruzeiro,2,2,Vasco,2.14,3.06,3.91
-2023,18:30,Fortaleza,0,1,Cruzeiro,1.96,3.18,4.46
-2023,18:30,Atletico-MG,2,1,Goias,1.57,3.86,6.50
-2023,18:30,Bahia,1,1,Athletico-PR,2.30,3.27,3.23
-2023,18:30,Cuiaba,2,1,Fortaleza,2.77,2.84,2.96
-2023,18:30,Santos,0,0,Sao Paulo,2.68,3.01,2.88
-2023,18:30,Vasco,2,1,America MG,1.48,4.33,7.06
-2023,21:30,Bahia,4,1,Atletico-MG,2.53,3.53,2.70
-2023,21:30,Coritiba,0,2,Corinthians,3.27,3.23,2.31
-2023,21:30,Cruzeiro,1,1,Palmeiras,3.93,2.86,2.26
-2023,21:30,Cuiaba,3,0,Athletico-PR,2.31,3.11,3.39
-2023,21:30,Fluminense,2,3,Gremio,2.08,3.79,3.28
-2023,21:30,Internacional,3,1,Botafogo RJ,2.09,3.36,3.66
-2023,21:30,Santos,1,2,Fortaleza,1.94,3.30,4.37
-2023,21:30,Sao Paulo,1,0,Flamengo RJ,3.37,3.31,2.22
-2023,21:30,Vasco,2,1,Bragantino,2.18,3.33,3.45
-2023,19:00,Goias,1,0,America MG,1.72,3.99,4.56
-2023,18:30,America MG,3,2,Bahia,3.74,3.68,1.96
-2023,18:30,Athletico-PR,3,0,Santos,1.97,3.38,4.08
-2023,18:30,Botafogo RJ,0,0,Cruzeiro,1.92,3.44,4.18
-2023,18:30,Bragantino,1,0,Coritiba,1.20,7.19,12.99
-2023,18:30,Fortaleza,1,0,Goias,1.41,4.53,8.25
-2023,18:30,Gremio,1,0,Vasco,1.84,3.57,4.42
-2023,16:00,Flamengo RJ,2,1,Cuiaba,1.37,4.69,9.55
-2023,16:00,Palmeiras,1,0,Fluminense,1.27,5.84,10.74
-2023,21:00,Atletico-MG,2,1,Sao Paulo,1.66,3.62,6.03
-2023,18:00,Corinthians,1,2,Internacional,2.54,2.86,3.31
-2023,20:30,Bragantino,1,2,Fortaleza,1.80,3.65,4.58
-2023,20:00,Cruzeiro,1,1,Athletico-PR,2.01,3.37,3.98
-2023,19:00,Gremio,2,1,Goias,1.53,4.36,6.08
-2023,21:30,Coritiba,1,1,Botafogo RJ,4.76,3.70,1.76
-2023,21:30,Palmeiras,4,0,America MG,1.19,7.36,13.69
-2023,20:00,Bahia,0,1,Sao Paulo,2.27,3.12,3.48
-2023,20:00,Cuiaba,0,2,Internacional,3.09,2.84,2.70
-2023,19:30,Flamengo RJ,0,3,Atletico-MG,1.74,3.64,5.13
-2023,19:00,Santos,0,3,Fluminense,2.43,3.21,3.07
-2023,21:30,Vasco,2,4,Corinthians,1.99,3.15,4.34
-2023,21:00,Goias,0,1,Cruzeiro,2.84,3.09,2.70
-2023,18:30,America MG,0,3,Flamengo RJ,7.74,4.84,1.40
-2023,18:30,Fortaleza,2,2,Palmeiras,3.21,3.16,2.38
-2023,18:30,Internacional,1,0,Bragantino,2.49,3.31,2.90
-2023,18:30,Sao Paulo,0,0,Cuiaba,1.66,3.50,6.35
-2023,16:00,Atletico-MG,3,0,Gremio,1.75,3.67,4.88
-2023,16:00,Botafogo RJ,1,1,Santos,1.82,3.46,4.73
-2023,21:00,Fluminense,2,1,Coritiba,1.34,5.11,9.41
-2023,19:30,Athletico-PR,0,0,Vasco,1.95,3.40,4.15
-2023,21:00,Corinthians,1,5,Bahia,2.07,3.21,3.95
-2023,21:30,Flamengo RJ,1,0,Bragantino,2.11,3.43,3.54
-2023,19:00,Fortaleza,2,2,Botafogo RJ,2.16,3.39,3.44
-2023,21:30,Fluminense,1,0,Sao Paulo,2.19,3.16,3.60
-2023,19:00,Cruzeiro,2,2,Vasco,2.14,3.06,3.91
-2023,18:30,Fortaleza,0,1,Cruzeiro,1.96,3.18,4.46
-2023,18:30,Atletico-MG,2,1,Goias,1.57,3.86,6.50
-2023,18:30,Bahia,1,1,Athletico-PR,2.30,3.27,3.23
-2023,18:30,Cuiaba,2,1,Fortaleza,2.77,2.84,2.96
-2023,18:30,Santos,0,0,Sao Paulo,2.68,3.01,2.88
-2023,18:30,Vasco,2,1,America MG,1.48,4.33,7.06
-2023,21:30,Bahia,4,1,Atletico-MG,2.53,3.53,2.70
-2023,21:30,Coritiba,0,2,Corinthians,3.27,3.23,2.31
-2023,21:30,Cruzeiro,1,1,Palmeiras,3.93,2.86,2.26
-2023,21:30,Cuiaba,3,0,Athletico-PR,2.31,3.11,3.39
-2023,21:30,Fluminense,2,3,Gremio,2.08,3.79,3.28
-2023,21:30,Internacional,3,1,Botafogo RJ,2.09,3.36,3.66
-2023,21:30,Santos,1,2,Fortaleza,1.94,3.30,4.37
-2023,21:30,Sao Paulo,1,0,Flamengo RJ,3.37,3.31,2.22
-2023,21:30,Vasco,2,1,Bragantino,2.18,3.33,3.45
-2023,19:00,Goias,1,0,America MG,1.72,3.99,4.56
-2023,18:30,America MG,3,2,Bahia,3.74,3.68,1.96
-2023,18:30,Athletico-PR,3,0,Santos,1.97,3.38,4.08
-2023,18:30,Botafogo RJ,0,0,Cruzeiro,1.92,3.44,4.18
-2023,18:30,Bragantino,1,0,Coritiba,1.20,7.19,12.99
-2023,18:30,Fortaleza,1,0,Goias,1.41,4.53,8.25
-2023,18:30,Gremio,1,0,Vasco,1.84,3.57,4.42
-2023,16:00,Flamengo RJ,2,1,Cuiaba,1.37,4.69,9.55
-2023,16:00,Palmeiras,1,0,Fluminense,1.27,5.84,10.74
-2023,21:00,Atletico-MG,2,1,Sao Paulo,1.66,3.62,6.03
-2023,18:00,Corinthians,1,2,Internacional,2.54,2.86,3.31
-2023,20:30,Bragantino,1,2,Fortaleza,1.80,3.65,4.58
-2023,20:00,Cruzeiro,1,1,Athletico-PR,2.01,3.37,3.98
-2023,19:00,Gremio,2,1,Goias,1.53,4.36,6.08
-2023,21:30,Coritiba,1,1,Botafogo RJ,4.76,3.70,1.76
-2023,21:30,Palmeiras,4,0,America MG,1.19,7.36,13.69
-2023,20:00,Bahia,0,1,Sao Paulo,2.27,3.12,3.48
-2023,20:00,Cuiaba,0,2,Internacional,3.09,2.84,2.70
-2023,19:30,Flamengo RJ,0,3,Atletico-MG,1.74,3.64,5.13
-2023,19:00,Santos,0,3,Fluminense,2.43,3.21,3.07
-2023,21:30,Vasco,2,4,Corinthians,1.99,3.15,4.34
-2023,21:00,Goias,0,1,Cruzeiro,2.84,3.09,2.70
-2023,18:30,America MG,0,3,Flamengo RJ,7.74,4.84,1.40
-2023,18:30,Fortaleza,2,2,Palmeiras,3.21,3.16,2.38
-2023,18:30,Internacional,1,0,Bragantino,2.49,3.31,2.90
-2023,18:30,Sao Paulo,0,0,Cuiaba,1.66,3.50,6.35
-2023,16:00,Atletico-MG,3,0,Gremio,1.75,3.67,4.88
-2023,16:00,Botafogo RJ,1,1,Santos,1.82,3.46,4.73
-2023,21:00,Fluminense,2,1,Coritiba,1.34,5.11,9.41
-2023,19:30,Athletico-PR,0,0,Vasco,1.95,3.40,4.15
-2023,21:00,Corinthians,1,5,Bahia,2.07,3.21,3.95
-2023,21:30,Flamengo RJ,1,0,Bragantino,2.11,3.43,3.54
-2023,19:00,Fortaleza,2,2,Botafogo RJ,2.16,3.39,3.44
-2023,21:30,Fluminense,1,0,Sao Paulo,2.19,3.16,3.60
-2023,19:00,Cruzeiro,2,2,Vasco,2.14,3.06,3.91
-2023,18:30,Fortaleza,0,1,Cruzeiro,1.96,3.18,4.46
-2023,18:30,Atletico-MG,2,1,Goias,1.57,3.86,6.50
-2023,18:30,Bahia,1,1,Athletico-PR,2.30,3.27,3.23
-2023,18:30,Cuiaba,2,1,Fortaleza,2.77,2.84,2.96
-2023,18:30,Santos,0,0,Sao Paulo,2.68,3.01,2.88
-2023,18:30,Vasco,2,1,America MG,1.48,4.33,7.06
-2023,21:30,Bahia,4,1,Atletico-MG,2.53,3.53,2.70
-2023,21:30,Coritiba,0,2,Corinthians,3.27,3.23,2.31
-2023,21:30,Cruzeiro,1,1,Palmeiras,3.93,2.86,2.26
-2023,21:30,Cuiaba,3,0,Athletico-PR,2.31,3.11,3.39
-2023,21:30,Fluminense,2,3,Gremio,2.08,3.79,3.28
-2023,21:30,Internacional,3,1,Botafogo RJ,2.09,3.36,3.66
-2023,21:30,Santos,1,2,Fortaleza,1.94,3.30,4.37
-2023,21:30,Sao Paulo,1,0,Flamengo RJ,3.37,3.31,2.22
-2023,21:30,Vasco,2,1,Bragantino,2.18,3.33,3.45
-2023,19:00,Goias,1,0,America MG,1.72,3.99,4.56
-2023,18:30,America MG,3,2,Bahia,3.74,3.68,1.96
-2023,18:30,Athletico-PR,3,0,Santos,1.97,3.38,4.08
-2023,18:30,Botafogo RJ,0,0,Cruzeiro,1.92,3.44,4.18
-2023,18:30,Bragantino,1,0,Coritiba,1.20,7.19,12.99
-2023,18:30,Fortaleza,1,0,Goias,1.41,4.53,8.25
-2023,18:30,Gremio,1,0,Vasco,1.84,3.57,4.42
-2023,16:00,Flamengo RJ,2,1,Cuiaba,1.37,4.69,9.55
-2023,16:00,Palmeiras,1,0,Fluminense,1.27,5.84,10.74
-2023,21:00,Atletico-MG,2,1,Sao Paulo,1.66,3.62,6.03
-2023,18:00,Corinthians,1,2,Internacional,2.54,2.86,3.31
-2023,20:30,Bragantino,1,2,Fortaleza,1.80,3.65,4.58
-2023,20:00,Cruzeiro,1,1,Athletico-PR,2.01,3.37,3.98
-2023,19:00,Gremio,2,1,Goias,1.53,4.36,6.08
-2023,21:30,Coritiba,1,1,Botafogo RJ,4.76,3.70,1.76
-2023,21:30,Palmeiras,4,0,America MG,1.19,7.36,13.69
-2023,20:00,Bahia,0,1,Sao Paulo,2.27,3.12,3.48
-2023,20:00,Cuiaba,0,2,Internacional,3.09,2.84,2.70
-2023,19:30,Flamengo RJ,0,3,Atletico-MG,1.74,3.64,5.13
-2023,19:00,Santos,0,3,Fluminense,2.43,3.21,3.07
-2023,21:30,Vasco,2,4,Corinthians,1.99,3.15,4.34
-2023,21:00,Goias,0,1,Cruzeiro,2.84,3.09,2.70
-2023,18:30,America MG,0,3,Flamengo RJ,7.74,4.84,1.40
-2023,18:30,Fortaleza,2,2,Palmeiras,3.21,3.16,2.38
-2023,18:30,Internacional,1,0,Bragantino,2.49,3.31,2.90
-2023,18:30,Sao Paulo,0,0,Cuiaba,1.66,3.50,6.35
-2023,16:00,Atletico-MG,3,0,Gremio,1.75,3.67,4.88
-2023,16:00,Botafogo RJ,1,1,Santos,1.82,3.46,4.73
-2023,21:00,Fluminense,2,1,Coritiba,1.34,5.11,9.41
-2023,19:30,Athletico-PR,0,0,Vasco,1.95,3.40,4.15
-2023,21:00,Corinthians,1,5,Bahia,2.07,3.21,3.95
-2023,21:30,Flamengo RJ,1,0,Bragantino,2.11,3.43,3.54
-2023,19:00,Fortaleza,2,2,Botafogo RJ,2.16,3.39,3.44
-2023,21:30,Fluminense,1,0,Sao Paulo,2.19,3.16,3.60
-2023,19:00,Cruzeiro,2,2,Vasco,2.14,3.06,3.91
-2023,18:30,Fortaleza,0,1,Cruzeiro,1.96,3.18,4.46
-2023,18:30,Atletico-MG,2,1,Goias,1.57,3.86,6.50
-2023,18:30,Bahia,1,1,Athletico-PR,2.30,3.27,3.23
-2023,18:30,Cuiaba,2,1,Fortaleza,2.77,2.84,2.96
-2023,18:30,Santos,0,0,Sao Paulo,2.68,3.01,2.88
-2023,18:30,Vasco,2,1,America MG,1.48,4.33,7.06
-2023,21:30,Bahia,4,1,Atletico-MG,2.53,3.53,2.70
-2023,21:30,Coritiba,0,2,Corinthians,3.27,3.23,2.31
-2023,21:30,Cruzeiro,1,1,Palmeiras,3.93,2.86,2.26
-2023,21:30,Cuiaba,3,0,Athletico-PR,2.31,3.11,3.39
-2023,21:30,Fluminense,2,3,Gremio,2.08,3.79,3.28
-2023,21:30,Internacional,3,1,Botafogo RJ,2.09,3.36,3.66
-2023,21:30,Santos,1,2,Fortaleza,1.94,3.30,4.37
-2023,21:30,Sao Paulo,1,0,Flamengo RJ,3.37,3.31,2.22
-2023,21:30,Vasco,2,1,Bragantino,2.18,3.33,3.45
-2023,19:00,Goias,1,0,America MG,1.72,3.99,4.56
-2023,18:30,America MG,3,2,Bahia,3.74,3.68,1.96
-2023,18:30,Athletico-PR,3,0,Santos,1.97,3.38,4.08
-2023,18:30,Botafogo RJ,0,0,Cruzeiro,1.92,3.44,4.18
-2023,18:30,Bragantino,1,0,Coritiba,1.20,7.19,12.99
-2023,18:30,Fortaleza,1,0,Goias,1.41,4.53,8.25
-2023,18:30,Gremio,1,0,Vasco,1.84,3.57,4.42
-2023,16:00,Flamengo RJ,2,1,Cuiaba,1.37,4.69,9.55
-2023,16:00,Palmeiras,1,0,Fluminense,1.27,5.84,10.74
-2023,21:00,Atletico-MG,2,1,Sao Paulo,1.66,3.62,6.03
-2023,18:00,Corinthians,1,2,Internacional,2.54,2.86,3.31
-2023,20:30,Bragantino,1,2,Fortaleza,1.80,3.65,4.58
-2023,20:00,Cruzeiro,1,1,Athletico-PR,2.01,3.37,3.98
-2023,19:00,Gremio,2,1,Goias,1.53,4.36,6.08
-2023,21:30,Coritiba,1,1,Botafogo RJ,4.76,3.70,1.76
-2023,21:30,Palmeiras,4,0,America MG,1.19,7.36,13.69
-2023,20:00,Bahia,0,1,Sao Paulo,2.27,3.12,3.48
-2023,20:00,Cuiaba,0,2,Internacional,3.09,2.84,2.70
-2023,19:30,Flamengo RJ,0,3,Atletico-MG,1.74,3.64,5.13
-2023,19:00,Santos,0,3,Fluminense,2.43,3.21,3.07
-2023,21:30,Vasco,2,4,Corinthians,1.99,3.15,4.34
-2023,21:00,Goias,0,1,Cruzeiro,2.84,3.09,2.70
-2023,18:30,America MG,0,3,Flamengo RJ,7.74,4.84,1.40
-2023,18:30,Fortaleza,2,2,Palmeiras,3.21,3.16,2.38
-2023,18:30,Internacional,1,0,Bragantino,2.49,3.31,2.90
-2023,18:30,Sao Paulo,0,0,Cuiaba,1.66,3.50,6.35
-2023,16:00,Atletico-MG,3,0,Gremio,1.75,3.67,4.88
-2023,16:00,Botafogo RJ,1,1,Santos,1.82,3.46,4.73
-2023,21:00,Fluminense,2,1,Coritiba,1.34,5.11,9.41
-2023,19:30,Athletico-PR,0,0,Vasco,1.95,3.40,4.15
-2023,21:00,Corinthians,1,5,Bahia,2.07,3.21,3.95
-2023,21:30,Flamengo RJ,1,0,Bragantino,2.11,3.43,3.54
-2023,19:00,Fortaleza,2,2,Botafogo RJ,2.16,3.39,3.44
-2023,21:30,Fluminense,1,0,Sao Paulo,2.19,3.16,3.60
-2023,19:00,Cruzeiro,2,2,Vasco,2.14,3.06,3.91
-2023,18:30,Fortaleza,0,1,Cruzeiro,1.96,3.18,4.46
-2023,18:30,Atletico-MG,2,1,Goias,1.57,3.86,6.50
-2023,18:30,Bahia,1,1,Athletico-PR,2.30,3.27,3.23
-2023,18:30,Cuiaba,2,1,Fortaleza,2.77,2.84,2.96
-2023,18:30,Santos,0,0,Sao Paulo,2.68,3.01,2.88
-2023,18:30,Vasco,2,1,America MG,1.48,4.33,7.06
-2023,21:30,Bahia,4,1,Atletico-MG,2.53,3.53,2.70
-2023,21:30,Coritiba,0,2,Corinthians,3.27,3.23,2.31
-2023,21:30,Cruzeiro,1,1,Palmeiras,3.93,2.86,2.26
-2023,21:30,Cuiaba,3,0,Athletico-PR,2.31,3.11,3.39
-2023,21:30,Fluminense,2,3,Gremio,2.08,3.79,3.28
-2023,21:30,Internacional,3,1,Botafogo RJ,2.09,3.36,3.66
-2023,21:30,Santos,1,2,Fortaleza,1.94,3.30,4.37
-2023,21:30,Sao Paulo,1,0,Flamengo RJ,3.37,3.31,2.22
-2023,21:30,Vasco,2,1,Bragantino,2.18,3.33,3.45
-2023,19:00,Goias,1,0,America MG,1.72,3.99,4.56
-2023,18:30,America MG,3,2,Bahia,3.74,3.68,1.96
-2023,18:30,Athletico-PR,3,0,Santos,1.97,3.38,4.08
-2023,18:30,Botafogo RJ,0,0,Cruzeiro,1.92,3.44,4.18
-2023,18:30,Bragantino,1,0,Coritiba,1.20,7.19,12.99
-2023,18:30,Fortaleza,1,0,Goias,1.41,4.53,8.25
-2023,18:30,Gremio,1,0,Vasco,1.84,3.57,4.42
-2023,16:00,Flamengo RJ,2,1,Cuiaba,1.37,4.69,9.55
-2023,16:00,Palmeiras,1,0,Fluminense,1.27,5.84,10.74
-2023,21:00,Atletico-MG,2,1,Sao Paulo,1.66,3.62,6.03
-2023,18:00,Corinthians,1,2,Internacional,2.54,2.86,3.31
-2023,20:30,Bragantino,1,2,Fortaleza,1.80,3.65,4.58
-2023,20:00,Cruzeiro,1,1,Athletico-PR,2.01,3.37,3.98
-2023,19:00,Gremio,2,1,Goias,1.53,4.36,6.08
-2023,21:30,Coritiba,1,1,Botafogo RJ,4.76,3.70,1.76
-2023,21:30,Palmeiras,4,0,America MG,1.19,7.36,13.69
-2023,20:00,Bahia,0,1,Sao Paulo,2.27,3.12,3.48
-2023,20:00,Cuiaba,0,2,Internacional,3.09,2.84,2.70
-2023,19:30,Flamengo RJ,0,3,Atletico-MG,1.74,3.64,5.13
-2023,19:00,Santos,0,3,Fluminense,2.43,3.21,3.07
-2023,21:30,Vasco,2,4,Corinthians,1.99,3.15,4.34
-2023,21:00,Goias,0,1,Cruzeiro,2.84,3.09,2.70
-2023,18:30,America MG,0,3,Flamengo RJ,7.74,4.84,1.40
-2023,18:30,Fortaleza,2,2,Palmeiras,3.21,3.16,2.38
-2023,18:30,Internacional,1,0,Bragantino,2.49,3.31,2.90
-2023,18:30,Sao Paulo,0,0,Cuiaba,1.66,3.50,6.35
-2023,16:00,Atletico-MG,3,0,Gremio,1.75,3.67,4.88
-2023,16:00,Botafogo RJ,1,1,Santos,1.82,3.46,4.73
-2023,21:00,Fluminense,2,1,Coritiba,1.34,5.11,9.41
-2023,19:30,Athletico-PR,0,0,Vasco,1.95,3.40,4.15
-2023,21:00,Corinthians,1,5,Bahia,2.07,3.21,3.95
-2023,21:30,Flamengo RJ,1,0,Bragantino,2.11,3.43,3.54
-2023,19:00,Fortaleza,2,2,Botafogo RJ,2.16,3.39,3.44
-2023,21:30,Fluminense,1,0,Sao Paulo,2.19,3.16,3.60
-2023,19:00,Cruzeiro,2,2,Vasco,2.14,3.06,3.91
-2023,18:30,Fortaleza,0,1,Cruzeiro,1.96,3.18,4.46
-2023,18:30,Atletico-MG,2,1,Goias,1.57,3.86,6.50
-2023,18:30,Bahia,1,1,Athletico-PR,2.30,3.27,3.23
-2023,18:30,Cuiaba,2,1,Fortaleza,2.77,2.84,2.96
-2023,18:30,Santos,0,0,Sao Paulo,2.68,3.01,2.88
-2023,18:30,Vasco,2,1,America MG,1.48,4.33,7.06
-2023,21:30,Bahia,4,1,Atletico-MG,2.53,3.53,2.70
-2023,21:30,Coritiba,0,2,Corinthians,3.27,3.23,2.31
-2023,21:30,Cruzeiro,1,1,Palmeiras,3.93,2.86,2.26
-2023,21:30,Cuiaba,3,0,Athletico-PR,2.31,3.11,3.39
-2023,21:30,Fluminense,2,3,Gremio,2.08,3.79,3.28
-2023,21:30,Internacional,3,1,Botafogo RJ,2.09,3.36,3.66
-2023,21:30,Santos,1,2,Fortaleza,1.94,3.30,4.37
-2023,21:30,Sao Paulo,1,0,Flamengo RJ,3.37,3.31,2.22
-2023,21:30,Vasco,2,1,Bragantino,2.18,3.33,3.45
-2023,19:00,Goias,1,0,America MG,1.72,3.99,4.56
-2023,18:30,America MG,3,2,Bahia,3.74,3.68,1.96
-2023,18:30,Athletico-PR,3,0,Santos,1.97,3.38,4.08
-2023,18:30,Botafogo RJ,0,0,Cruzeiro,1.92,3.44,4.18
-2023,18:30,Bragantino,1,0,Coritiba,1.20,7.19,12.99
-2023,18:30,Fortaleza,1,0,Goias,1.41,4.53,8.25
-2023,18:30,Gremio,1,0,Vasco,1.84,3.57,4.42
-2023,16:00,Flamengo RJ,2,1,Cuiaba,1.37,4.69,9.55
-2023,16:00,Palmeiras,1,0,Fluminense,1.27,5.84,10.74
-2023,21:00,Atletico-MG,2,1,Sao Paulo,1.66,3.62,6.03
-2023,18:00,Corinthians,1,2,Internacional,2.54,2.86,3.31
-2023,20:30,Bragantino,1,2,Fortaleza,1.80,3.65,4.58
-2023,20:00,Cruzeiro,1,1,Athletico-PR,2.01,3.37,3.98
-2023,19:00,Gremio,2,1,Goias,1.53,4.36,6.08
-2023,21:30,Coritiba,1,1,Botafogo RJ,4.76,3.70,1.76
-2023,21:30,Palmeiras,4,0,America MG,1.19,7.36,13.69
-2023,20:00,Bahia,0,1,Sao Paulo,2.27,3.12,3.48
-2023,20:00,Cuiaba,0,2,Internacional,3.09,2.84,2.70
-2023,19:30,Flamengo RJ,0,3,Atletico-MG,1.74,3.64,5.13
-2023,19:00,Santos,0,3,Fluminense,2.43,3.21,3.07
-2023,21:30,Vasco,2,4,Corinthians,1.99,3.15,4.34
-2023,21:00,Goias,0,1,Cruzeiro,2.84,3.09,2.70
-2023,18:30,America MG,0,3,Flamengo RJ,7.74,4.84,1.40
-2023,18:30,Fortaleza,2,2,Palmeiras,3.21,3.16,2.38
-2023,18:30,Internacional,1,0,Bragantino,2.49,3.31,2.90
-2023,18:30,Sao Paulo,0,0,Cuiaba,1.66,3.50,6.35
-2023,16:00,Atletico-MG,3,0,Gremio,1.75,3.67,4.88
-2023,16:00,Botafogo RJ,1,1,Santos,1.82,3.46,4.73
-2023,21:00,Fluminense,2,1,Coritiba,1.34,5.11,9.41
-2023,19:30,Athletico-PR,0,0,Vasco,1.95,3.40,4.15
-2023,21:00,Corinthians,1,5,Bahia,2.07,3.21,3.95
-2023,21:30,Flamengo RJ,1,0,Bragantino,2.11,3.43,3.54
-2023,19:00,Fortaleza,2,2,Botafogo RJ,2.16,3.39,3.44
-2023,21:30,Fluminense,1,0,Sao Paulo,2.19,3.16,3.60
-2023,19:00,Cruzeiro,2,2,Vasco,2.14,3.06,3.91
-2023,18:30,Fortaleza,0,1,Cruzeiro,1.96,3.18,4.46
-2023,18:30,Atletico-MG,2,1,Goias,1.57,3.86,6.50
-2023,18:30,Bahia,1,1,Athletico-PR,2.30,3.27,3.23
-2023,18:30,Cuiaba,2,1,Fortaleza,2.77,2.84,2.96
-2023,18:30,Santos,0,0,Sao Paulo,2.68,3.01,2.88
-2023,18:30,Vasco,2,1,America MG,1.48,4.33,7.06
-2023,21:30,Bahia,4,1,Atletico-MG,2.53,3.53,2.70
-2023,21:30,Coritiba,0,2,Corinthians,3.27,3.23,2.31
-2023,21:30,Cruzeiro,1,1,Palmeiras,3.93,2.86,2.26
-2023,21:30,Cuiaba,3,0,Athletico-PR,2.31,3.11,3.39
-2023,21:30,Fluminense,2,3,Gremio,2.08,3.79,3.28
-2023,21:30,Internacional,3,1,Botafogo RJ,2.09,3.36,3.66
-2023,21:30,Santos,1,2,Fortaleza,1.94,3.30,4.37
-2023,21:30,Sao Paulo,1,0,Flamengo RJ,3.37,3.31,2.22
-2023,21:30,Vasco,2,1,Bragantino,2.18,3.33,3.45
-2023,19:00,Goias,1,0,America MG,1.72,3.99,4.56
-2023,18:30,America MG,3,2,Bahia,3.74,3.68,1.96
-2023,18:30,Athletico-PR,3,0,Santos,1.97,3.38,4.08
-2023,18:30,Botafogo RJ,0,0,Cruzeiro,1.92,3.44,4.18
-2023,18:30,Bragantino,1,0,Coritiba,1.20,7.19,12.99
-2023,18:30,Fortaleza,1,0,Goias,1.41,4.53,8.25
-2023,18:30,Gremio,1,0,Vasco,1.84,3.57,4.42
-2023,16:00,Flamengo RJ,2,1,Cuiaba,1.37,4.69,9.55
-2023,16:00,Palmeiras,1,0,Fluminense,1.27,5.84,10.74
-2023,21:00,Atletico-MG,2,1,Sao Paulo,1.66,3.62,6.03
-2023,18:00,Corinthians,1,2,Internacional,2.54,2.86,3.31
-2023,20:30,Bragantino,1,2,Fortaleza,1.80,3.65,4.58
-2023,20:00,Cruzeiro,1,1,Athletico-PR,2.01,3.37,3.98
-2023,19:00,Gremio,2,1,Goias,1.53,4.36,6.08
-2023,21:30,Coritiba,1,1,Botafogo RJ,4.76,3.70,1.76
-2023,21:30,Palmeiras,4,0,America MG,1.19,7.36,13.69
-2023,20:00,Bahia,0,1,Sao Paulo,2.27,3.12,3.48
-2023,20:00,Cuiaba,0,2,Internacional,3.09,2.84,2.70
-2023,19:30,Flamengo RJ,0,3,Atletico-MG,1.74,3.64,5.13
-2023,19:00,Santos,0,3,Fluminense,2.43,3.21,3.07
-2023,21:30,Vasco,2,4,Corinthians,1.99,3.15,4.34
-2023,21:00,Goias,0,1,Cruzeiro,2.84,3.09,2.70
-2023,18:30,America MG,0,3,Flamengo RJ,7.74,4.84,1.40
-2023,18:30,Fortaleza,2,2,Palmeiras,3.21,3.16,2.38
-2023,18:30,Internacional,1,0,Bragantino,2.49,3.31,2.90
-2023,18:30,Sao Paulo,0,0,Cuiaba,1.66,3.50,6.35
-2023,16:00,Atletico-MG,3,0,Gremio,1.75,3.67,4.88
-2023,16:00,Botafogo RJ,1,1,Santos,1.82,3.46,4.73
-2023,21:00,Fluminense,2,1,Coritiba,1.34,5.11,9.41
-2023,19:30,Athletico-PR,0,0,Vasco,1.95,3.40,4.15
-2023,21:00,Corinthians,1,5,Bahia,2.07,3.21,3.95
-2023,21:30,Flamengo RJ,1,0,Bragantino,2.11,3.43,3.54
-2023,19:00,Fortaleza,2,2,Botafogo RJ,2.16,3.39,3.44
-2023,21:30,Fluminense,1,0,Sao Paulo,2.19,3.16,3.60
-2023,19:00,Cruzeiro,2,2,Vasco,2.14,3.06,3.91
-2023,18:30,Fortaleza,0,1,Cruzeiro,1.96,3.18,4.46
-2023,18:30,Atletico-MG,2,1,Goias,1.57,3.86,6.50
-2023,18:30,Bahia,1,1,Athletico-PR,2.30,3.27,3.23
-2023,18:30,Cuiaba,2,1,Fortaleza,2.77,2.84,2.96
-2023,18:30,Santos,0,0,Sao Paulo,2.68,3.01,2.88
-2023,18:30,Vasco,2,1,America MG,1.48,4.33,7.06
+2021,21:30,America MG,2,0,Sao Paulo,+100,+231,+298
+2021,21:30,Atletico GO,2,0,Flamengo RJ,-139,+289,+357
+2021,21:30,Bragantino,1,0,Internacional,-111,+265,+301
+2021,21:30,Juventude,1,0,Corinthians,+125,+210,+252
+2021,21:30,Fluminense,3,0,Chapecoense-SC,-526,+562,+1482
+2021,21:30,Fortaleza,2,1,Bahia,+149,+223,+192
+2021,21:30,Gremio,4,3,Atletico-MG,-189,+337,+475
+2021,21:30,Palmeiras,1,0,Ceara,+305,+275,-118
+2021,21:30,Santos,1,1,Cuiaba,+108,+204,+311
+2021,21:30,Sport Recife,1,1,Athletico-PR,-141,+259,+426
+2021,21:00,Chapecoense-SC,0,1,Sport Recife,+202,+211,+148
+2021,20:00,Cuiaba,1,0,Fortaleza,+110,+208,+292
+2021,20:00,Flamengo RJ,0,1,Santos,-192,+355,+480
+2021,20:00,Internacional,1,2,Atletico GO,-182,+300,+516
+2021,19:00,Athletico-PR,0,0,Palmeiras,-238,+345,+686
+2021,19:00,Sao Paulo,3,1,Juventude,-159,+258,+514
+2021,19:00,Ceara,0,0,America MG,+112,+221,+266
+2021,16:00,Atletico-MG,4,3,Bragantino,-105,+243,+304
+2021,16:00,Bahia,2,0,Fluminense,+104,+218,+299
+2021,16:00,Corinthians,1,1,Gremio,+125,+235,+217
+2021,21:00,Fortaleza,1,0,Juventude,-141,+252,+426
+2021,20:00,Chapecoense-SC,0,1,Atletico GO,+273,+221,+110
+2021,20:00,Sport Recife,1,1,Flamengo RJ,+373,+281,-139
+2021,19:00,Athletico-PR,1,0,Cuiaba,-137,+222,+498
+2021,20:00,Gremio,3,0,Sao Paulo,+119,+219,+249
+2021,18:00,Bahia,2,3,Atletico-MG,+319,+220,-101
+2021,22:00,Cuiaba,1,3,Palmeiras,-135,+249,+413
+2021,21:00,America MG,3,0,Chapecoense-SC,-370,+453,+1036
+2021,20:00,Flamengo RJ,2,1,Ceara,-233,+359,+606
+2021,19:00,Juventude,1,0,Bragantino,+143,+199,+225
+2021,19:00,Atletico GO,2,1,Bahia,+154,+204,+200
+2021,19:00,Internacional,1,1,Santos,-172,+292,+513
+2021,16:00,Atletico-MG,2,1,Fluminense,-263,+363,+808
+2021,16:00,Corinthians,1,0,Athletico-PR,-101,+212,+330
+2021,21:30,Sao Paulo,2,0,Sport Recife,-204,+309,+618
+2021,19:30,Bragantino,1,1,America MG,-104,+241,+309
+2021,19:00,Bahia,3,1,Gremio,+159,+212,+189
+2021,20:00,Ceara,2,1,Corinthians,+136,+209,+229
+2021,19:00,Santos,2,0,Fortaleza,+177,+198,+181
+2021,21:30,Fluminense,1,0,Internacional,+139,+204,+225
+2021,21:30,Sao Paulo,0,0,Athletico-PR,-119,+225,+384
+2021,21:30,Palmeiras,2,2,Atletico-MG,+363,+258,-127
+2021,21:00,Gremio,2,2,Flamengo RJ,+102,+256,+254
+2021,19:00,Atletico GO,1,1,Juventude,+112,+202,+297
+2021,19:00,Bahia,0,0,Cuiaba,-118,+231,+367
+2021,17:00,Fluminense,2,0,America MG,+117,+216,+261
+2021,16:00,Corinthians,2,0,Santos,-135,+235,+467
+2021,21:30,Internacional,1,2,Flamengo RJ,+289,+244,+100
+2021,21:00,Atletico GO,1,1,Ceara,+127,+214,+238
+2021,19:00,Atletico-MG,2,0,Juventude,-312,+405,+913
+2021,19:00,Chapecoense-SC,1,3,Gremio,+494,+313,-179
+2021,19:00,Fortaleza,1,0,Palmeiras,+163,+215,+183
+2021,21:00,Sport Recife,1,0,Bahia,+177,+200,+177
+2021,21:30,Flamengo RJ,1,0,Corinthians,-111,+238,+336
+2021,20:30,Juventude,1,0,Fluminense,+179,+174,+206
+2021,20:30,Palmeiras,0,2,Sao Paulo,+114,+231,+256
+2021,20:00,Fortaleza,0,4,Ceara,+143,+200,+223
+2021,19:00,America MG,0,0,Atletico GO,-164,+290,+471
+2021,19:00,Cuiaba,1,0,Internacional,+161,+202,+197
+2021,19:00,Santos,2,0,Chapecoense-SC,-270,+363,+819
+2021,18:00,Gremio,3,0,Bragantino,-185,+324,+480
+2021,16:00,Athletico-PR,0,1,Atletico-MG,+550,+313,-192
+2021,19:00,Ceara,2,1,Sport Recife,-128,+239,+405
+2021,19:00,Chapecoense-SC,0,2,Juventude,+234,+213,+131
+2021,18:15,Fluminense,2,1,Palmeiras,+220,+214,+138
+2021,16:00,Sao Paulo,0,4,Flamengo RJ,+174,+235,+161
+2021,21:00,Corinthians,3,2,Cuiaba,-164,+252,+589
+2021,19:00,Bragantino,3,0,Fortaleza,+104,+229,+289
+2021,19:00,Internacional,2,1,Athletico-PR,+114,+215,+280
+2021,18:30,America MG,3,1,Gremio,+110,+225,+276
+2021,17:00,Atletico GO,0,0,Santos,+108,+223,+287
+2021,19:00,Flamengo RJ,3,0,Bahia,-175,+307,+463
+2021,21:30,Juventude,2,1,Internacional,+168,+184,+204
+2021,21:30,Fortaleza,1,1,Sao Paulo,+163,+200,+193
+2021,21:30,Sport Recife,2,3,America MG,+198,+206,+154
+2021,20:30,Palmeiras,4,0,Atletico GO,-270,+367,+810
+2021,19:00,Atletico-MG,3,0,Corinthians,-182,+264,+643
+2021,19:00,Santos,2,0,Bragantino,+154,+216,+192
+2021,18:30,Athletico-PR,2,1,Ceara,-123,+242,+379
+2021,21:30,Gremio,1,0,Fluminense,+135,+193,+247
+2021,20:00,Chapecoense-SC,2,2,Flamengo RJ,+738,+388,-278
+2021,20:30,Ceara,1,0,Cuiaba,-106,+219,+358
+2021,18:15,Bahia,1,0,Sao Paulo,+199,+209,+154
+2021,16:00,Atletico-MG,1,0,America MG,-156,+276,+471
+2021,16:00,Bragantino,0,2,Athletico-PR,+114,+220,+269
+2021,16:00,Santos,0,2,Palmeiras,+278,+229,+108
+2021,21:00,Fluminense,1,0,Sport Recife,-137,+234,+497
+2021,19:00,Internacional,1,0,Gremio,+131,+204,+250
+2021,17:00,Corinthians,1,0,Fortaleza,-120,+241,+399
+2021,21:30,Flamengo RJ,2,0,Atletico GO,-294,+424,+811
+2021,21:00,Cuiaba,0,0,Chapecoense-SC,-147,+250,+479
+2021,21:00,Atletico-MG,2,1,Gremio,-238,+348,+667
+2021,16:00,Athletico-PR,2,2,Flamengo RJ,+231,+225,+125
+2021,21:30,Corinthians,1,0,Chapecoense-SC,-270,+363,+780
+2021,20:00,Cuiaba,1,0,Bragantino,+150,+202,+202
+2021,20:30,Sport Recife,2,0,Atletico GO,+144,+188,+231
+2021,18:15,Sao Paulo,1,0,Internacional,-130,+254,+397
+2021,16:00,Ceara,1,0,Fluminense,+131,+206,+244
+2021,16:00,Gremio,1,3,Palmeiras,+184,+225,+152
+2021,21:00,America MG,2,1,Fortaleza,+102,+200,+263
+2021,19:15,Juventude,0,0,Bahia,+141,+194,+229
+2021,19:00,Flamengo RJ,1,0,Atletico-MG,+125,+229,+227
+2021,17:00,Athletico-PR,0,1,Santos,-125,+242,+374
+2021,19:00,Bragantino,3,0,Sport Recife,-213,+319,+615
+2021,19:00,Bahia,1,1,Ceara,+104,+224,+277
+2021,19:00,Santos,2,0,Fluminense,+154,+199,+202
+2021,21:30,Palmeiras,2,1,Sport Recife,-278,+366,+778
+2021,20:00,Atletico GO,2,0,Gremio,+177,+204,+169
+2021,20:30,Bahia,3,0,Chapecoense-SC,-217,+323,+604
+2021,18:15,Bragantino,1,0,Sao Paulo,+169,+211,+169
+2021,16:00,Atletico-MG,2,1,Cuiaba,-357,+434,+1046
+2021,16:00,Internacional,2,2,Corinthians,+114,+214,+274
+2021,19:15,Fortaleza,3,0,Athletico-PR,-179,+279,+551
+2021,19:00,Fluminense,3,1,Flamengo RJ,+374,+229,-119
+2021,17:00,Juventude,0,0,Ceara,+175,+190,+184
+2021,17:00,Santos,0,2,America MG,+135,+211,+222
+2021,20:00,Internacional,1,1,Bragantino,-120,+254,+328
+2021,19:00,Ceara,1,2,Palmeiras,+209,+216,+140
+2021,20:00,Sao Paulo,1,0,Corinthians,+119,+206,+281
+2021,20:30,Flamengo RJ,0,0,Cuiaba,-385,+468,+1057
+2021,20:30,Sport Recife,0,0,Santos,+162,+197,+197
+2021,18:15,Atletico GO,2,1,Atletico-MG,+417,+250,-137
+2021,18:15,Ceara,2,2,Bragantino,+127,+218,+240
+2021,18:15,Gremio,3,2,Juventude,-141,+242,+457
+2021,16:00,Athletico-PR,0,1,Fluminense,+149,+202,+211
+2021,16:00,Palmeiras,1,0,Internacional,-122,+262,+349
+2021,21:00,America MG,0,0,Bahia,-101,+240,+285
+2021,19:00,Chapecoense-SC,1,2,Fortaleza,+376,+259,-130
+2021,19:00,Cuiaba,1,0,Sport Recife,+112,+196,+308
+2021,19:00,Sao Paulo,1,1,Ceara,-141,+248,+433
+2021,21:30,Internacional,3,1,America MG,-106,+233,+311
+2021,21:00,Corinthians,1,0,Fluminense,-106,+216,+348
+2021,20:30,Fortaleza,1,0,Gremio,-118,+240,+349
+2021,19:00,Atletico-MG,3,1,Santos,-227,+333,+666
+2021,19:00,Chapecoense-SC,1,1,Athletico-PR,+295,+233,-102
+2021,19:00,Flamengo RJ,3,1,Juventude,-278,+378,+794
+2021,21:30,Bahia,0,0,Palmeiras,+209,+224,+134
+2021,19:00,Bragantino,1,0,Atletico GO,-135,+252,+398
+2021,20:00,Cuiaba,0,0,Sao Paulo,+272,+200,+121
+2021,16:00,Santos,1,0,Gremio,+167,+206,+181
+2021,11:00,Internacional,5,2,Chapecoense-SC,-250,+359,+708
+2021,21:00,Juventude,1,1,America MG,+204,+183,+168
+2021,21:00,Palmeiras,2,4,Bragantino,-122,+259,+349
+2021,19:00,Athletico-PR,0,2,Bahia,-149,+268,+437
+2021,19:00,Fortaleza,0,3,Flamengo RJ,+202,+216,+146
+2021,16:30,Atletico-MG,3,1,Ceara,-204,+299,+637
+2021,16:30,Fluminense,0,0,Atletico GO,-109,+215,+362
+2021,16:30,Sport Recife,1,0,Corinthians,+308,+187,+117
+2021,18:30,Sao Paulo,1,1,Santos,-141,+257,+433
+2021,21:30,Fluminense,0,2,Fortaleza,+138,+208,+218
+2021,21:30,America MG,2,1,Palmeiras,+169,+208,+177
+2021,21:30,Gremio,2,2,Cuiaba,-189,+273,+613
+2021,20:30,Bragantino,1,1,Flamengo RJ,+215,+234,+127
+2021,19:00,Atletico GO,0,2,Athletico-PR,+167,+192,+191
+2021,19:00,Ceara,0,0,Internacional,+142,+195,+224
+2021,19:00,Chapecoense-SC,2,2,Atletico-MG,+632,+321,-217
+2021,19:00,Sport Recife,3,1,Juventude,+150,+177,+237
+2021,21:30,Corinthians,3,1,Bahia,-159,+256,+512
+2021,20:30,Gremio,1,2,Sport Recife,-227,+313,+727
+2021,18:15,Palmeiras,1,1,Juventude,-244,+336,+721
+2021,16:00,Chapecoense-SC,1,1,Sao Paulo,+333,+236,-111
+2021,16:00,Flamengo RJ,3,0,Athletico-PR,-500,+571,+1139
+2021,21:00,Atletico-MG,1,0,Internacional,-172,+299,+491
+2021,19:00,Bragantino,2,2,Corinthians,+189,+200,+168
+2021,17:00,Cuiaba,0,2,America MG,+187,+198,+170
+2021,17:00,Fortaleza,0,3,Atletico GO,-161,+280,+480
+2021,20:30,Atletico GO,0,0,Cuiaba,+134,+189,+250
+2021,18:15,Athletico-PR,4,2,Gremio,+204,+200,+152
+2021,18:15,Sport Recife,0,1,Fortaleza,+291,+213,+108
+2021,16:00,Juventude,3,0,Santos,+190,+196,+168
+2021,16:00,Fluminense,2,1,Bragantino,-135,+250,+405
+2021,16:00,Internacional,2,0,Bahia,-135,+263,+382
+2021,11:00,America MG,1,1,Flamengo RJ,+273,+246,+100
+2021,21:00,Sao Paulo,0,0,Atletico-MG,+242,+206,+129
+2021,19:00,Corinthians,2,1,Palmeiras,+217,+198,+150
+2021,17:00,Ceara,1,0,Chapecoense-SC,-125,+243,+391
+2021,20:30,Sao Paulo,0,0,America MG,+104,+229,+283
+2021,20:00,Cuiaba,2,2,Fluminense,+237,+184,+148
+2021,20:30,Flamengo RJ,0,1,Gremio,-217,+330,+601
+2021,18:15,Corinthians,1,1,America MG,+100,+216,+316
+2021,16:00,Sao Paulo,2,1,Atletico GO,-169,+289,+513
+2021,11:00,Internacional,1,0,Fortaleza,+102,+236,+279
+2021,21:00,Bahia,1,1,Bragantino,+136,+225,+209
+2021,21:00,Ceara,0,0,Santos,+129,+204,+245
+2021,19:00,Atletico-MG,3,0,Sport Recife,-385,+434,+1184
+2021,18:45,Athletico-PR,2,1,Juventude,+108,+208,+295
+2021,17:00,Chapecoense-SC,0,2,Palmeiras,+480,+293,-169
+2021,20:00,Sport Recife,0,1,Internacional,+270,+209,+116
+2021,20:30,Fluminense,2,1,Sao Paulo,+221,+197,+145
+2021,18:15,Atletico GO,1,1,Corinthians,+208,+179,+170
+2021,16:00,Fortaleza,0,2,Atletico-MG,+225,+210,+139
+2021,16:00,Palmeiras,1,3,Flamengo RJ,+133,+249,+198
+2021,11:00,Gremio,2,0,Ceara,+110,+214,+287
+2021,21:00,Santos,0,0,Bahia,+129,+225,+225
+2021,19:00,Bragantino,1,2,Chapecoense-SC,-169,+293,+484
+2021,17:00,Juventude,1,2,Cuiaba,+140,+186,+249
+2021,16:00,America MG,2,0,Athletico-PR,+142,+216,+209
+2021,21:30,Chapecoense-SC,1,2,Fluminense,+319,+214,+100
+2021,21:30,Corinthians,1,1,Juventude,-161,+231,+612
+2021,18:15,Athletico-PR,0,0,Sport Recife,-154,+252,+488
+2021,21:00,Bahia,4,2,Fortaleza,+197,+213,+152
+2021,21:00,Cuiaba,2,1,Santos,+161,+200,+193
+2021,19:00,Fluminense,1,1,Juventude,-116,+214,+399
+2021,21:30,Fortaleza,0,0,Cuiaba,-164,+263,+530
+2021,19:00,Fluminense,2,0,Bahia,+110,+219,+276
+2021,20:30,Bragantino,1,1,Atletico-MG,+270,+233,+106
+2021,18:15,Atletico GO,0,0,Internacional,+274,+229,+106
+2021,16:00,Juventude,1,1,Sao Paulo,+344,+202,+102
+2021,11:00,America MG,2,0,Ceara,+154,+198,+210
+2021,21:00,Gremio,0,1,Corinthians,+123,+194,+279
+2021,21:00,Palmeiras,2,1,Athletico-PR,-159,+293,+434
+2021,19:00,Santos,0,4,Flamengo RJ,+478,+355,-196
+2021,17:00,Sport Recife,0,0,Chapecoense-SC,-102,+220,+326
+2021,20:00,America MG,0,2,Bragantino,+208,+221,+138
+2021,20:00,Fluminense,1,1,Atletico-MG,+329,+223,-104
+2021,20:30,Sport Recife,0,1,Sao Paulo,+376,+219,-114
+2021,18:15,Santos,2,2,Internacional,+250,+215,+123
+2021,16:00,Athletico-PR,0,1,Corinthians,+149,+202,+213
+2021,16:00,Ceara,1,1,Flamengo RJ,+330,+267,-123
+2021,11:00,Palmeiras,0,2,Cuiaba,-213,+313,+659
+2021,21:00,Juventude,1,1,Fortaleza,+284,+198,+118
+2021,19:00,Gremio,2,0,Bahia,-108,+231,+321
+2021,17:00,Atletico GO,1,1,Chapecoense-SC,-119,+229,+382
+2021,19:00,Cuiaba,0,1,Gremio,+231,+204,+134
+2021,20:00,Chapecoense-SC,1,1,America MG,+257,+221,+114
+2021,20:30,Internacional,4,2,Fluminense,-109,+222,+342
+2021,18:15,Bahia,1,2,Atletico GO,+102,+227,+283
+2021,18:15,Cuiaba,1,0,Athletico-PR,+127,+210,+244
+2021,18:15,Fortaleza,1,1,Santos,-122,+247,+362
+2021,16:00,Corinthians,3,1,Ceara,+124,+197,+268
+2021,16:00,Flamengo RJ,2,0,Sport Recife,-333,+448,+873
+2021,21:00,Sao Paulo,2,1,Gremio,+136,+195,+239
+2021,19:00,Atletico-MG,2,0,Palmeiras,+108,+227,+269
+2021,17:00,Bragantino,1,2,Juventude,-116,+227,+379
+2021,20:00,Gremio,2,1,Chapecoense-SC,-213,+293,+706
+2021,18:15,Ceara,0,0,Atletico GO,-130,+242,+399
+2021,18:15,Flamengo RJ,0,4,Internacional,-217,+334,+625
+2021,16:00,America MG,1,0,Fluminense,+186,+194,+173
+2021,16:00,Juventude,1,2,Atletico-MG,+322,+204,+104
+2021,16:00,Santos,0,0,Corinthians,+168,+195,+194
+2021,21:00,Cuiaba,1,1,Bahia,+148,+202,+211
+2021,21:00,Palmeiras,2,3,Fortaleza,-141,+250,+434
+2021,18:00,Athletico-PR,1,2,Sao Paulo,+181,+200,+171
+2021,19:00,Sport Recife,0,0,Bragantino,+248,+198,+133
+2021,20:30,Atletico GO,1,1,America MG,+152,+200,+208
+2021,20:30,Ceara,3,1,Fortaleza,+229,+188,+147
+2021,18:15,Bahia,0,1,Sport Recife,-119,+238,+361
+2021,18:15,Chapecoense-SC,0,1,Santos,+256,+225,+112
+2021,16:00,Atletico-MG,2,0,Athletico-PR,-147,+260,+451
+2021,16:00,Corinthians,1,3,Flamengo RJ,+398,+274,-141
+2021,21:00,Bragantino,1,0,Gremio,+102,+229,+294
+2021,20:00,Internacional,0,0,Cuiaba,-141,+238,+478
+2021,19:00,Sao Paulo,0,0,Palmeiras,+187,+197,+172
+2021,20:00,Cuiaba,1,2,Corinthians,+213,+179,+165
+2021,18:00,Juventude,1,0,Chapecoense-SC,+121,+195,+281
+2021,20:30,Sport Recife,0,0,Ceara,+249,+191,+136
+2021,18:15,Athletico-PR,2,1,Internacional,+147,+211,+202
+2021,18:15,Santos,0,1,Atletico GO,-123,+235,+390
+2021,16:00,Flamengo RJ,5,1,Sao Paulo,-164,+287,+476
+2021,16:00,Fortaleza,1,0,Bragantino,+172,+208,+177
+2021,11:00,Atletico-MG,3,0,Bahia,-154,+281,+445
+2021,19:00,Palmeiras,1,0,Fluminense,-169,+268,+547
+2021,17:00,Gremio,1,1,America MG,-110,+233,+333
+2021,19:00,Cuiaba,2,1,Atletico GO,+154,+193,+212
+2021,20:00,America MG,0,1,Sport Recife,-137,+231,+459
+2021,20:30,Bragantino,2,2,Santos,-115,+254,+322
+2021,20:30,Internacional,1,0,Juventude,-139,+235,+472
+2021,18:15,Bahia,0,5,Flamengo RJ,+417,+286,-154
+2021,16:00,Atletico GO,0,3,Palmeiras,+313,+239,-108
+2021,11:00,Chapecoense-SC,2,3,Cuiaba,+154,+195,+209
+2021,21:00,Fluminense,0,1,Gremio,+165,+198,+192
+2021,19:00,Corinthians,1,2,Atletico-MG,+168,+199,+191
+2021,17:00,Ceara,1,0,Athletico-PR,+102,+223,+298
+2021,17:00,Sao Paulo,0,1,Fortaleza,+112,+200,+292
+2021,20:30,Fortaleza,1,0,Corinthians,+134,+200,+244
+2021,18:15,Cuiaba,2,2,Ceara,+190,+186,+181
+2021,18:15,Flamengo RJ,2,1,Chapecoense-SC,-500,+544,+1544
+2021,11:00,Juventude,1,1,Atletico GO,+156,+190,+217
+2021,19:00,America MG,0,1,Atletico-MG,+305,+225,+100
+2021,19:00,Sao Paulo,1,0,Bahia,-112,+238,+336
+2021,19:00,Sport Recife,1,2,Fluminense,+175,+190,+192
+2021,17:30,Athletico-PR,2,2,Bragantino,+156,+222,+189
+2021,16:30,Gremio,0,0,Internacional,+133,+204,+242
+2021,16:30,Palmeiras,3,2,Santos,-185,+301,+576
+2021,21:00,Chapecoense-SC,0,1,Corinthians,+330,+213,-102
+2021,21:30,Fluminense,0,0,Ceara,+125,+200,+262
+2021,21:30,Internacional,0,2,Sao Paulo,+179,+204,+172
+2021,19:15,Atletico GO,1,1,Sport Recife,-109,+215,+359
+2021,19:00,Atletico-MG,2,1,Flamengo RJ,+197,+219,+147
+2021,19:00,Palmeiras,2,0,Gremio,-101,+235,+291
+2021,18:00,Bahia,1,0,Juventude,-135,+245,+417
+2021,18:00,Bragantino,1,1,Cuiaba,-159,+266,+492
+2021,18:00,Fortaleza,4,0,America MG,-119,+237,+363
+2021,19:30,Santos,2,1,Athletico-PR,+164,+202,+187
+2021,20:30,Gremio,0,1,Atletico GO,-189,+300,+558
+2021,18:15,Ceara,2,0,Juventude,-114,+225,+363
+2021,18:15,Cuiaba,0,1,Atletico-MG,+355,+224,-111
+2021,18:15,Sao Paulo,1,2,Bragantino,+127,+210,+241
+2021,16:00,Flamengo RJ,0,1,Fluminense,-132,+245,+405
+2021,16:00,Sport Recife,0,1,Palmeiras,+345,+239,-115
+2021,11:00,Chapecoense-SC,0,2,Bahia,+220,+223,+131
+2021,21:00,Corinthians,1,1,Internacional,+145,+197,+225
+2021,19:00,America MG,2,0,Santos,+121,+214,+250
+2021,19:00,Athletico-PR,2,1,Fortaleza,+108,+212,+290
+2021,20:00,Cuiaba,0,2,Flamengo RJ,+511,+278,-169
+2021,19:00,Atletico-MG,4,1,Atletico GO,-133,+242,+426
+2021,16:00,Bragantino,0,0,Ceara,-164,+281,+465
+2021,21:30,Corinthians,0,0,Sao Paulo,+213,+189,+158
+2021,21:30,Juventude,2,0,Gremio,+362,+220,-111
+2021,20:30,Santos,0,0,Sport Recife,-147,+241,+492
+2021,19:00,Bahia,3,4,America MG,+110,+214,+278
+2021,19:00,Internacional,1,2,Palmeiras,+160,+215,+184
+2021,16:00,Fluminense,1,4,Athletico-PR,+145,+194,+225
+2021,16:00,Fortaleza,3,2,Chapecoense-SC,-200,+305,+593
+2021,20:00,Atletico GO,0,1,Bragantino,+239,+223,+121
+2021,20:30,America MG,1,1,Internacional,+175,+198,+181
+2021,20:30,Ceara,1,1,Sao Paulo,+175,+210,+173
+2021,20:30,Santos,2,0,Atletico-MG,+189,+215,+154
+2021,20:30,Sport Recife,0,0,Cuiaba,+133,+195,+249
+2021,20:00,Athletico-PR,2,2,Chapecoense-SC,-175,+260,+615
+2021,20:00,Gremio,0,0,Fortaleza,-104,+219,+333
+2021,20:00,Palmeiras,3,2,Bahia,-161,+276,+471
+2021,16:00,Fluminense,1,1,Corinthians,+150,+186,+227
+2021,11:00,Juventude,1,0,Flamengo RJ,+629,+307,-208
+2021,21:30,Bahia,2,1,Athletico-PR,+162,+189,+206
+2021,21:30,Gremio,2,2,Santos,+102,+210,+315
+2021,19:00,Ceara,2,1,Atletico-MG,+229,+224,+125
+2021,19:00,Chapecoense-SC,1,2,Internacional,+325,+225,-105
+2021,19:00,Corinthians,2,1,Sport Recife,-137,+240,+442
+2021,16:00,America MG,1,1,Juventude,-130,+225,+434
+2021,19:00,Atletico GO,1,0,Fluminense,+175,+193,+185
+2021,19:00,Bragantino,3,1,Palmeiras,+156,+220,+183
+2021,19:00,Flamengo RJ,2,1,Fortaleza,-222,+322,+667
+2021,19:00,Sao Paulo,2,2,Cuiaba,-189,+287,+611
+2021,20:00,Atletico-MG,1,1,Chapecoense-SC,-357,+455,+942
+2021,20:30,Juventude,1,0,Sport Recife,+144,+196,+225
+2021,18:15,Athletico-PR,2,1,Atletico GO,+102,+202,+336
+2021,18:15,Fortaleza,1,1,Fluminense,+136,+196,+242
+2021,18:15,Santos,2,0,Sao Paulo,+209,+213,+143
+2021,16:00,Bahia,0,0,Corinthians,+134,+208,+229
+2021,16:00,Internacional,1,1,Ceara,-149,+256,+462
+2021,11:00,Palmeiras,2,1,America MG,-172,+280,+520
+2021,21:00,Flamengo RJ,2,3,Bragantino,-156,+281,+449
+2021,19:00,Atletico GO,0,0,Fortaleza,+152,+185,+225
+2021,19:00,Fluminense,1,0,Santos,+108,+216,+288
+2021,19:00,Sport Recife,1,0,Gremio,+346,+244,-118
+2021,16:00,America MG,0,0,Cuiaba,-104,+210,+346
+2021,16:00,Ceara,1,2,Bahia,+150,+204,+204
+2021,21:30,Juventude,0,3,Palmeiras,+417,+243,-133
+2021,20:30,Corinthians,1,2,Bragantino,+152,+199,+210
+2021,19:00,Internacional,0,1,Atletico-MG,+154,+216,+189
+2021,19:00,Sao Paulo,1,1,Chapecoense-SC,-286,+394,+788
+2021,20:30,Bahia,0,1,Internacional,+154,+223,+183
+2021,20:30,Bragantino,2,2,Fluminense,-102,+229,+308
+2021,20:30,Chapecoense-SC,0,0,Ceara,+222,+211,+138
+2021,20:30,Fortaleza,1,0,Sport Recife,-147,+254,+471
+2021,16:00,Atletico-MG,1,0,Sao Paulo,+112,+221,+267
+2021,16:00,Flamengo RJ,2,0,America MG,-200,+313,+582
+2021,16:00,Gremio,0,1,Athletico-PR,-122,+229,+393
+2021,19:00,Palmeiras,1,1,Corinthians,-112,+236,+337
+2021,19:00,Santos,0,0,Juventude,-159,+279,+461
+2021,20:30,Sport Recife,0,1,Atletico-MG,+324,+237,-109
+2021,18:15,Juventude,0,3,Athletico-PR,+183,+197,+171
+2021,18:15,Palmeiras,3,1,Chapecoense-SC,-270,+363,+791
+2021,16:00,America MG,0,1,Corinthians,+110,+210,+289
+2021,16:00,Fortaleza,5,1,Internacional,+164,+200,+193
+2021,11:00,Fluminense,1,0,Cuiaba,-141,+250,+440
+2021,21:00,Bragantino,3,3,Bahia,-106,+235,+305
+2021,21:00,Santos,3,1,Ceara,-104,+235,+303
+2021,19:00,Atletico GO,2,0,Sao Paulo,+242,+189,+140
+2021,20:30,Internacional,2,2,Sport Recife,-303,+409,+868
+2021,18:15,Athletico-PR,1,0,America MG,+143,+202,+220
+2021,18:15,Chapecoense-SC,0,3,Bragantino,+296,+225,+102
+2021,18:15,Corinthians,0,1,Atletico GO,+100,+227,+298
+2021,16:00,Ceara,3,2,Gremio,+267,+215,+117
+2021,16:00,Flamengo RJ,1,0,Palmeiras,-122,+257,+337
+2021,11:00,Atletico-MG,1,2,Fortaleza,-213,+318,+608
+2021,21:00,Sao Paulo,0,0,Fluminense,-111,+221,+363
+2021,20:00,Bahia,3,0,Santos,+137,+221,+212
+2021,19:00,Cuiaba,2,2,Juventude,+121,+211,+254
+2022,16:00,America MG,1,1,Atletico GO,-169,+330,+421
+2022,16:00,Athletico-PR,3,0,Botafogo RJ,+118,+227,+245
+2022,16:00,Bragantino,0,1,Fluminense,+144,+252,+179
+2022,16:00,Ceara,4,1,Juventude,-149,+289,+407
+2022,16:00,Corinthians,0,1,Atletico-MG,+204,+211,+148
+2022,16:00,Cuiaba,2,1,Coritiba,-106,+241,+307
+2022,16:00,Goias,0,4,Sao Paulo,+392,+283,-143
+2022,16:00,Internacional,3,0,Palmeiras,+152,+246,+174
+2022,16:00,Santos,0,2,Fortaleza,+229,+231,+124
+2022,16:00,Flamengo RJ,1,2,Avai,-588,+658,+1488
+2022,20:00,Atletico-MG,3,0,Cuiaba,-213,+320,+634
+2022,20:00,Botafogo RJ,3,0,Santos,+121,+227,+240
+2022,21:30,Atletico GO,1,1,Athletico-PR,+110,+243,+250
+2022,21:30,Juventude,2,2,Flamengo RJ,+455,+279,-156
+2022,21:30,Palmeiras,2,1,America MG,-192,+351,+465
+2022,20:30,Fortaleza,6,0,Bragantino,-123,+260,+347
+2022,19:00,Avai,2,0,Ceara,+308,+235,-104
+2022,19:00,Coritiba,2,2,Corinthians,+186,+196,+174
+2022,19:00,Fluminense,3,0,Goias,-270,+409,+683
+2022,21:30,Sao Paulo,0,1,Internacional,-116,+252,+329
+2022,20:00,Atletico-MG,0,2,Botafogo RJ,-161,+276,+498
+2022,18:30,Cuiaba,1,1,Palmeiras,+269,+242,+104
+2022,16:00,Coritiba,1,0,Flamengo RJ,+254,+231,+112
+2022,16:00,Fortaleza,1,1,Atletico GO,-152,+287,+426
+2022,21:00,Internacional,2,0,Athletico-PR,-114,+248,+334
+2022,20:30,Corinthians,1,0,Ceara,-115,+229,+362
+2022,19:00,Bragantino,1,4,America MG,+100,+250,+274
+2022,19:00,Goias,1,0,Juventude,-147,+279,+428
+2022,16:30,Fluminense,3,1,Sao Paulo,+106,+249,+263
+2022,16:30,Santos,1,1,Avai,-256,+358,+785
+2022,21:30,Flamengo RJ,1,2,Corinthians,-143,+268,+415
+2022,21:30,Palmeiras,4,0,Fortaleza,-222,+359,+591
+2022,19:00,Atletico GO,2,3,Santos,-103,+237,+301
+2022,19:00,Avai,1,2,Bragantino,+242,+227,+120
+2022,19:00,Juventude,0,1,Coritiba,+154,+218,+187
+2022,16:00,America MG,1,0,Internacional,+139,+222,+210
+2022,16:00,Athletico-PR,3,2,Goias,-169,+301,+480
+2022,21:30,Sao Paulo,2,2,Atletico-MG,+152,+197,+213
+2022,19:00,Botafogo RJ,0,2,Cuiaba,-116,+229,+373
+2022,20:00,Ceara,0,1,Fluminense,+236,+222,+125
+2022,19:30,Goias,0,0,Corinthians,+181,+200,+174
+2022,20:00,Cuiaba,1,0,Avai,-119,+239,+359
+2022,19:30,Atletico-MG,1,0,Juventude,-476,+550,+1330
+2022,19:00,Fortaleza,3,1,Coritiba,-213,+330,+600
+2022,19:00,Sao Paulo,2,1,Atletico GO,-154,+280,+440
+2022,21:45,Corinthians,0,2,Fluminense,+125,+209,+252
+2022,21:45,Goias,2,2,America MG,+198,+216,+150
+2022,21:45,Internacional,2,1,Ceara,-159,+273,+476
+2022,19:30,Botafogo RJ,2,1,Bragantino,+129,+219,+229
+2022,21:45,Flamengo RJ,3,2,Santos,-256,+371,+719
+2022,21:45,Athletico-PR,1,3,Palmeiras,+518,+281,-169
+2022,20:00,Fortaleza,0,0,Atletico-MG,+142,+199,+227
+2022,18:00,Atletico GO,1,0,Ceara,+127,+219,+229
+2022,18:00,Coritiba,1,1,Internacional,+307,+240,-105
+2022,18:00,Cuiaba,1,2,Goias,-139,+261,+409
+2022,16:00,Juventude,1,2,Sao Paulo,+351,+243,-118
+2022,16:00,Fluminense,2,2,Botafogo RJ,-118,+245,+349
+2022,21:00,Palmeiras,3,0,Avai,-625,+642,+1716
+2022,19:00,America MG,1,2,Flamengo RJ,+177,+225,+163
+2022,19:00,Santos,0,1,Corinthians,+160,+188,+215
+2022,16:30,Bragantino,4,2,Athletico-PR,+112,+231,+257
+2022,20:00,Sao Paulo,3,1,Coritiba,-250,+351,+751
+2022,20:00,Bragantino,0,2,Santos,-102,+221,+320
+2022,19:00,Athletico-PR,1,0,Coritiba,-149,+271,+440
+2022,19:00,Avai,0,3,Fluminense,+312,+231,-103
+2022,18:00,Botafogo RJ,0,1,Internacional,+167,+212,+179
+2022,18:00,Juventude,1,1,Atletico GO,+177,+215,+169
+2022,16:00,Ceara,1,1,Cuiaba,+102,+208,+332
+2022,16:00,Palmeiras,0,0,Sao Paulo,-156,+285,+444
+2022,20:30,America MG,1,2,Fortaleza,+114,+227,+258
+2022,20:30,Flamengo RJ,1,0,Atletico-MG,+159,+204,+196
+2022,20:00,Santos,4,1,Juventude,-217,+318,+678
+2022,18:30,Atletico GO,1,1,Palmeiras,+476,+292,-164
+2022,18:00,Atletico-MG,0,0,Ceara,-227,+329,+705
+2022,18:00,Coritiba,2,1,Bragantino,+152,+212,+199
+2022,18:00,Fluminense,0,2,America MG,-159,+292,+457
+2022,16:00,Fortaleza,2,0,Avai,-208,+305,+672
+2022,16:00,Sao Paulo,0,1,Botafogo RJ,-145,+273,+424
+2022,11:00,Internacional,4,2,Goias,-256,+367,+731
+2022,21:00,Corinthians,2,1,Athletico-PR,+114,+212,+283
+2022,19:00,Cuiaba,1,2,Flamengo RJ,+263,+219,+116
+2022,20:00,America MG,1,2,Sao Paulo,+168,+217,+175
+2022,20:00,Avai,1,2,Botafogo RJ,+160,+200,+199
+2022,19:00,Palmeiras,4,0,Coritiba,-435,+536,+1094
+2022,21:30,Flamengo RJ,0,0,Internacional,-256,+371,+705
+2022,21:30,Santos,1,2,Atletico-MG,+225,+206,+140
+2022,19:30,Athletico-PR,1,1,Fortaleza,+104,+225,+299
+2022,19:00,Atletico GO,3,2,Fluminense,+218,+224,+134
+2022,19:00,Bragantino,2,1,Cuiaba,-106,+222,+346
+2022,19:00,Ceara,1,1,Goias,-147,+267,+447
+2022,21:30,Juventude,2,2,Corinthians,+355,+229,-112
+2022,20:00,Botafogo RJ,1,3,Palmeiras,+405,+256,-133
+2022,21:00,Corinthians,2,0,Cuiaba,-149,+244,+514
+2022,19:00,Athletico-PR,2,0,Juventude,-217,+330,+620
+2022,19:00,Avai,1,2,Atletico GO,+120,+217,+252
+2022,19:00,Flamengo RJ,4,1,Bragantino,-233,+347,+638
+2022,19:00,Goias,0,1,Fortaleza,+185,+199,+170
+2022,15:00,Atletico-MG,2,0,Fluminense,-135,+250,+417
+2022,15:00,Ceara,1,2,America MG,+100,+224,+305
+2022,15:00,Internacional,1,0,Santos,-139,+254,+423
+2022,21:45,Atletico-MG,0,1,Palmeiras,-112,+234,+347
+2022,21:45,Goias,0,1,Botafogo RJ,+229,+212,+133
+2022,21:45,Internacional,0,0,Bragantino,-114,+249,+326
+2022,21:00,Cuiaba,2,1,America MG,+148,+197,+218
+2022,19:00,Corinthians,2,1,Atletico GO,-164,+277,+503
+2022,19:00,Coritiba,1,0,Ceara,+123,+220,+241
+2022,19:00,Fluminense,4,0,Juventude,-286,+416,+743
+2022,19:00,Fortaleza,3,2,Flamengo RJ,+202,+197,+160
+2022,21:00,Santos,2,0,Athletico-PR,+106,+225,+279
+2022,20:00,Sao Paulo,4,0,Avai,-250,+357,+742
+2022,20:00,Atletico GO,1,2,Internacional,+254,+217,+120
+2022,19:00,Athletico-PR,2,2,Cuiaba,-141,+233,+494
+2022,18:30,Palmeiras,1,0,Santos,-263,+359,+781
+2022,18:00,America MG,1,0,Corinthians,+120,+206,+266
+2022,18:00,Juventude,1,1,Fortaleza,+238,+212,+127
+2022,16:00,Ceara,0,2,Sao Paulo,+161,+202,+194
+2022,16:00,Flamengo RJ,1,2,Fluminense,-152,+273,+438
+2022,11:00,Bragantino,1,1,Goias,-222,+329,+640
+2022,19:00,Botafogo RJ,2,0,Coritiba,-182,+295,+547
+2022,16:30,Avai,1,0,Atletico-MG,+358,+236,-116
+2022,19:00,Goias,1,1,Flamengo RJ,+478,+297,-169
+2022,16:00,Coritiba,2,0,Atletico GO,+121,+212,+256
+2022,16:00,Sao Paulo,1,1,Corinthians,+148,+189,+229
+2022,11:00,Avai,1,1,Athletico-PR,+236,+204,+134
+2022,11:00,Botafogo RJ,0,0,America MG,+102,+225,+300
+2022,21:00,Palmeiras,2,1,Juventude,-556,+584,+1595
+2022,19:00,Fluminense,2,1,Fortaleza,-143,+258,+437
+2022,16:30,Ceara,2,1,Santos,+114,+204,+291
+2022,16:30,Internacional,1,0,Cuiaba,-167,+263,+553
+2022,17:00,Atletico-MG,1,1,Bragantino,-152,+270,+455
+2022,20:00,Santos,1,2,Goias,-169,+283,+494
+2022,19:00,Cuiaba,1,1,Sao Paulo,+129,+184,+274
+2022,18:00,Atletico GO,0,2,Atletico-MG,+332,+243,-114
+2022,16:00,Corinthians,2,2,Internacional,+140,+194,+240
+2022,16:00,Fortaleza,1,3,Botafogo RJ,-143,+248,+448
+2022,11:00,Flamengo RJ,1,1,Ceara,-278,+379,+802
+2022,20:30,America MG,2,0,Coritiba,-149,+260,+466
+2022,19:00,Athletico-PR,1,0,Fluminense,+218,+227,+131
+2022,19:00,Bragantino,2,2,Palmeiras,+165,+204,+188
+2022,16:30,Juventude,1,1,Avai,+125,+208,+252
+2022,21:30,Corinthians,1,0,Bragantino,+102,+208,+324
+2022,20:00,Internacional,4,0,Juventude,-233,+342,+676
+2022,18:00,Botafogo RJ,0,1,Flamengo RJ,+386,+264,-135
+2022,18:00,Cuiaba,0,0,Santos,+135,+188,+254
+2022,16:00,America MG,1,1,Atletico-MG,+451,+271,-152
+2022,16:00,Sao Paulo,0,1,Fortaleza,-106,+235,+320
+2022,21:00,Ceara,0,0,Athletico-PR,-128,+250,+383
+2022,19:00,Fluminense,1,1,Palmeiras,+202,+216,+146
+2022,16:30,Coritiba,1,0,Avai,-108,+238,+318
+2022,16:30,Goias,2,1,Atletico GO,+167,+202,+187
+2022,20:00,Avai,0,1,Internacional,+274,+218,+112
+2022,19:00,Santos,1,0,Sao Paulo,+139,+202,+223
+2022,18:00,Athletico-PR,1,1,America MG,-118,+248,+344
+2022,18:00,Atletico GO,1,1,Cuiaba,+121,+199,+276
+2022,18:00,Bragantino,1,1,Ceara,-118,+243,+355
+2022,18:00,Fortaleza,1,0,Corinthians,-106,+223,+342
+2022,16:00,Palmeiras,1,1,Flamengo RJ,+100,+239,+288
+2022,11:00,Juventude,2,2,Botafogo RJ,+143,+209,+212
+2022,19:00,Fluminense,5,2,Coritiba,-263,+379,+750
+2022,16:30,Atletico-MG,0,1,Goias,-435,+522,+1161
+2022,19:00,Internacional,3,0,Fluminense,+143,+213,+212
+2022,18:00,America MG,1,0,Santos,+135,+209,+231
+2022,16:00,Ceara,0,1,Fortaleza,+184,+196,+175
+2022,16:00,Flamengo RJ,5,0,Athletico-PR,-312,+421,+889
+2022,16:00,Sao Paulo,3,0,Bragantino,+114,+235,+250
+2022,11:00,Coritiba,0,1,Atletico-MG,+409,+268,-141
+2022,21:00,Botafogo RJ,0,0,Atletico GO,+102,+235,+285
+2022,20:30,Cuiaba,1,0,Juventude,+100,+206,+344
+2022,19:00,Corinthians,0,1,Palmeiras,+240,+204,+133
+2022,16:30,Goias,1,1,Avai,-105,+237,+317
+2022,20:00,Coritiba,1,2,Santos,+165,+204,+191
+2022,19:00,Atletico-MG,2,3,Athletico-PR,-200,+309,+598
+2022,18:00,Fortaleza,3,0,Internacional,-132,+262,+387
+2022,16:00,Fluminense,1,0,Cuiaba,-200,+286,+649
+2022,16:00,Palmeiras,3,0,Goias,-400,+508,+977
+2022,20:30,Sao Paulo,0,2,Flamengo RJ,+234,+221,+127
+2022,19:00,Atletico GO,2,1,Bragantino,+208,+219,+142
+2022,19:00,Avai,1,1,Corinthians,+219,+194,+152
+2022,16:30,Botafogo RJ,1,1,Ceara,+137,+204,+231
+2022,16:30,Juventude,0,1,America MG,+139,+215,+216
+2022,20:00,Santos,2,2,Fluminense,+204,+212,+147
+2022,19:00,Bragantino,1,0,Juventude,-182,+290,+545
+2022,18:00,America MG,3,1,Avai,-135,+249,+415
+2022,18:00,Cuiaba,0,1,Fortaleza,+163,+189,+206
+2022,16:00,Athletico-PR,1,0,Sao Paulo,+102,+225,+293
+2022,16:00,Internacional,3,0,Atletico-MG,+213,+198,+152
+2022,20:30,Flamengo RJ,4,1,Atletico GO,-222,+330,+632
+2022,19:00,Corinthians,1,0,Botafogo RJ,-123,+227,+404
+2022,16:30,Ceara,1,2,Palmeiras,+266,+225,+110
+2022,16:30,Goias,1,0,Coritiba,+146,+211,+206
+2022,20:00,Coritiba,1,0,Cuiaba,+112,+213,+280
+2022,19:00,Fortaleza,0,0,Santos,-118,+248,+351
+2022,18:00,Atletico GO,0,1,America MG,-115,+239,+354
+2022,18:00,Atletico-MG,1,2,Corinthians,-217,+313,+733
+2022,16:00,Juventude,1,0,Ceara,+212,+206,+148
+2022,16:00,Fluminense,2,1,Bragantino,-109,+252,+305
+2022,16:00,Palmeiras,2,1,Internacional,-222,+333,+686
+2022,11:00,Avai,1,2,Flamengo RJ,+455,+292,-161
+2022,21:00,Botafogo RJ,2,0,Athletico-PR,+138,+210,+219
+2022,19:00,Sao Paulo,3,3,Goias,-238,+328,+727
+2022,20:00,America MG,0,1,Palmeiras,+357,+252,-123
+2022,19:00,Cuiaba,1,1,Atletico-MG,+283,+198,+121
+2022,21:30,Corinthians,3,1,Coritiba,-152,+259,+487
+2022,21:30,Santos,2,0,Botafogo RJ,-115,+243,+349
+2022,20:30,Flamengo RJ,4,0,Juventude,-294,+421,+785
+2022,20:30,Internacional,3,3,Sao Paulo,-115,+235,+371
+2022,19:30,Athletico-PR,4,1,Atletico GO,-104,+231,+320
+2022,19:00,Bragantino,2,1,Fortaleza,-125,+242,+393
+2022,19:00,Goias,2,3,Fluminense,+326,+248,-111
+2022,21:30,Ceara,1,0,Avai,-286,+388,+871
+2022,20:00,Palmeiras,1,0,Cuiaba,-385,+466,+1158
+2022,19:00,America MG,0,3,Bragantino,+177,+211,+172
+2022,18:00,Atletico GO,0,1,Fortaleza,+106,+227,+280
+2022,18:00,Botafogo RJ,0,1,Atletico-MG,+399,+248,-130
+2022,16:00,Sao Paulo,2,2,Fluminense,+154,+202,+208
+2022,11:00,Juventude,0,0,Goias,+104,+215,+312
+2022,21:00,Ceara,3,1,Corinthians,-116,+218,+403
+2022,19:00,Avai,1,0,Santos,+204,+208,+150
+2022,19:00,Flamengo RJ,2,0,Coritiba,-208,+348,+545
+2022,16:30,Athletico-PR,0,0,Internacional,+121,+219,+254
+2022,20:00,Internacional,1,0,America MG,-156,+279,+454
+2022,19:00,Cuiaba,2,0,Botafogo RJ,+127,+195,+269
+2022,18:00,Atletico-MG,0,0,Sao Paulo,-172,+284,+536
+2022,18:00,Fortaleza,0,0,Palmeiras,+271,+239,+104
+2022,18:00,Santos,1,0,Atletico GO,-106,+233,+326
+2022,16:00,Corinthians,1,0,Flamengo RJ,+200,+195,+165
+2022,11:00,Coritiba,2,2,Juventude,-112,+236,+334
+2022,20:30,Goias,2,1,Athletico-PR,+177,+197,+181
+2022,19:00,Fluminense,2,1,Ceara,-139,+254,+423
+2022,16:30,Bragantino,4,0,Avai,-204,+318,+578
+2022,20:00,Bragantino,0,1,Botafogo RJ,-143,+254,+444
+2022,18:00,America MG,1,0,Goias,-125,+237,+384
+2022,18:00,Coritiba,2,1,Fortaleza,+139,+216,+210
+2022,16:00,Atletico GO,1,2,Sao Paulo,+167,+212,+177
+2022,11:00,Avai,1,2,Cuiaba,+123,+199,+266
+2022,21:00,Palmeiras,0,2,Athletico-PR,-294,+428,+768
+2022,19:00,Ceara,1,1,Internacional,+112,+215,+278
+2022,19:00,Santos,1,2,Flamengo RJ,+194,+213,+152
+2022,16:30,Juventude,1,2,Atletico-MG,+359,+231,-116
+2022,16:30,Fluminense,4,0,Corinthians,-164,+250,+579
+2022,18:00,Ceara,1,1,Atletico GO,-102,+227,+313
+2022,18:00,Goias,1,0,Cuiaba,+144,+193,+235
+2022,18:00,Sao Paulo,0,0,Juventude,-179,+277,+586
+2022,16:00,Avai,2,2,Palmeiras,+397,+227,-120
+2022,16:00,Botafogo RJ,0,1,Fluminense,+206,+204,+150
+2022,21:00,Atletico-MG,3,2,Fortaleza,-122,+229,+411
+2022,19:00,Corinthians,0,0,Santos,+125,+197,+270
+2022,19:00,Flamengo RJ,3,0,America MG,-196,+321,+555
+2022,16:30,Athletico-PR,4,2,Bragantino,+219,+209,+141
+2022,21:30,Internacional,3,0,Coritiba,-132,+258,+382
+2022,20:00,Sao Paulo,1,2,Palmeiras,+204,+206,+150
+2022,19:00,Fluminense,2,0,Avai,-152,+259,+474
+2022,18:00,Atletico GO,3,1,Juventude,-135,+265,+413
+2022,18:00,Fortaleza,1,0,America MG,-135,+264,+398
+2022,18:00,Internacional,2,3,Botafogo RJ,-182,+290,+562
+2022,16:00,Atletico-MG,2,0,Flamengo RJ,-102,+250,+287
+2022,16:00,Corinthians,1,0,Goias,-189,+288,+596
+2022,16:00,Coritiba,0,1,Athletico-PR,+163,+192,+202
+2022,21:00,Santos,2,2,Bragantino,+114,+219,+270
+2022,19:00,Cuiaba,0,0,Ceara,+181,+192,+185
+2022,19:00,Avai,3,2,Fortaleza,+215,+212,+140
+2022,18:00,Palmeiras,4,2,Atletico GO,-238,+357,+670
+2022,16:00,Botafogo RJ,1,0,Sao Paulo,+240,+200,+133
+2022,21:30,America MG,0,0,Fluminense,+133,+204,+243
+2022,21:30,Athletico-PR,1,1,Corinthians,+137,+202,+234
+2022,20:30,Flamengo RJ,2,0,Cuiaba,-312,+426,+834
+2022,20:30,Goias,1,2,Internacional,+252,+210,+125
+2022,19:00,Bragantino,4,2,Coritiba,-185,+285,+593
+2022,19:00,Ceara,0,0,Atletico-MG,+254,+214,+122
+2022,21:30,Juventude,1,2,Santos,+131,+198,+246
+2022,19:00,Botafogo RJ,0,1,Avai,-118,+238,+363
+2022,19:00,Fortaleza,0,0,Athletico-PR,-159,+283,+463
+2022,18:00,Coritiba,0,2,Palmeiras,+409,+276,-145
+2022,16:00,Goias,1,1,Ceara,+184,+200,+172
+2022,16:00,Sao Paulo,1,0,America MG,-139,+252,+438
+2022,21:00,Internacional,3,1,Flamengo RJ,+221,+216,+136
+2022,19:00,Atletico-MG,1,1,Santos,-222,+333,+663
+2022,19:00,Cuiaba,1,1,Bragantino,+250,+192,+135
+2022,19:00,Fluminense,0,2,Atletico GO,-114,+234,+354
+2022,16:30,Corinthians,2,0,Juventude,-128,+225,+443
+2022,20:00,Coritiba,1,1,Sao Paulo,+234,+204,+136
+2022,20:00,Fortaleza,1,1,Goias,-196,+304,+608
+2022,19:00,Palmeiras,4,0,Botafogo RJ,-250,+384,+659
+2022,21:30,Fluminense,5,3,Atletico-MG,+276,+199,+123
+2022,21:30,Santos,1,1,Internacional,+122,+199,+273
+2022,20:30,Atletico GO,2,1,Avai,-154,+263,+479
+2022,20:30,Bragantino,1,0,Flamengo RJ,+144,+216,+211
+2022,19:00,America MG,0,2,Ceara,+124,+199,+271
+2022,19:00,Juventude,1,3,Athletico-PR,+174,+189,+195
+2022,21:30,Cuiaba,1,0,Corinthians,+200,+183,+175
+2022,20:00,Botafogo RJ,1,2,Goias,-141,+240,+479
+2022,19:00,Bragantino,0,2,Internacional,+131,+206,+243
+2022,16:00,Flamengo RJ,1,2,Fortaleza,-196,+317,+570
+2022,16:00,Palmeiras,0,0,Atletico-MG,+114,+229,+252
+2022,11:00,Juventude,1,0,Fluminense,+168,+196,+192
+2022,20:30,Atletico GO,0,1,Corinthians,+144,+206,+215
+2022,19:00,Athletico-PR,2,2,Santos,+108,+222,+277
+2022,19:00,Avai,1,1,Sao Paulo,+316,+206,+106
+2022,19:00,Ceara,1,1,Coritiba,-169,+288,+495
+2022,16:30,America MG,2,1,Cuiaba,-123,+219,+430
+2022,20:30,Fortaleza,0,1,Ceara,+148,+193,+221
+2022,20:00,Internacional,1,1,Atletico GO,-167,+275,+516
+2022,19:00,Atletico-MG,2,1,Avai,-476,+526,+1359
+2022,18:00,Corinthians,1,1,America MG,-159,+266,+495
+2022,18:00,Cuiaba,0,1,Athletico-PR,+159,+179,+225
+2022,18:00,Fluminense,1,2,Flamengo RJ,+320,+237,-106
+2022,16:00,Coritiba,1,0,Botafogo RJ,+177,+200,+177
+2022,16:00,Santos,0,1,Palmeiras,+312,+237,-105
+2022,20:30,Fortaleza,1,1,Juventude,-172,+280,+535
+2022,19:00,Sao Paulo,2,2,Ceara,-139,+248,+448
+2022,16:30,Goias,1,1,Bragantino,+191,+192,+173
+2022,19:00,Athletico-PR,2,1,Avai,-167,+272,+531
+2022,16:00,Corinthians,1,1,Sao Paulo,+149,+187,+231
+2022,16:00,Fortaleza,0,1,Fluminense,+102,+223,+303
+2022,21:00,America MG,1,1,Botafogo RJ,+166,+204,+184
+2022,21:00,Cuiaba,1,1,Internacional,+192,+190,+173
+2022,19:00,Juventude,0,3,Palmeiras,+376,+237,-120
+2022,18:30,Santos,0,0,Ceara,+131,+211,+234
+2022,16:30,Atletico GO,2,0,Coritiba,+112,+224,+268
+2022,16:30,Flamengo RJ,1,0,Goias,-588,+617,+1548
+2022,19:00,Goias,1,0,Santos,+210,+208,+147
+2022,18:00,Avai,1,2,Juventude,+129,+202,+250
+2022,18:00,Botafogo RJ,3,1,Fortaleza,+127,+210,+240
+2022,17:30,Coritiba,1,0,America MG,+118,+213,+263
+2022,16:00,Sao Paulo,2,1,Cuiaba,-213,+307,+686
+2022,21:00,Fluminense,2,1,Athletico-PR,+106,+212,+305
+2022,19:00,Atletico-MG,2,0,Atletico GO,-385,+499,+964
+2022,19:00,Internacional,2,2,Corinthians,+124,+215,+252
+2022,16:30,Ceara,2,2,Flamengo RJ,+291,+248,-103
+2022,16:30,Palmeiras,2,0,Bragantino,-294,+424,+778
+2022,20:30,Bragantino,1,1,Atletico-MG,+248,+212,+125
+2022,20:00,Avai,2,1,Coritiba,+135,+211,+229
+2022,19:00,Juventude,1,1,Internacional,+179,+195,+184
+2022,19:00,Fortaleza,1,1,Sao Paulo,+145,+208,+218
+2022,18:00,Bragantino,0,1,Corinthians,+158,+206,+197
+2022,18:00,Santos,4,1,Cuiaba,-115,+220,+405
+2022,16:00,Atletico GO,0,1,Goias,-130,+242,+426
+2022,16:00,Palmeiras,1,1,Fluminense,-213,+334,+650
+2022,11:00,Flamengo RJ,0,1,Botafogo RJ,-208,+337,+587
+2022,20:30,Athletico-PR,1,0,Ceara,+112,+221,+279
+2022,16:30,Atletico-MG,1,2,America MG,-227,+357,+632
+2022,20:00,Sao Paulo,2,1,Santos,-159,+275,+498
+2022,19:00,Internacional,0,0,Avai,-189,+293,+612
+2022,16:00,Corinthians,1,0,Fortaleza,-123,+242,+392
+2022,16:00,Coritiba,3,2,Fluminense,+152,+196,+218
+2022,11:00,Botafogo RJ,1,1,Juventude,-110,+231,+342
+2022,19:00,Cuiaba,1,1,Atletico GO,+127,+197,+261
+2022,18:30,Goias,2,2,Atletico-MG,+625,+323,-208
+2022,16:30,America MG,1,0,Athletico-PR,-102,+222,+330
+2022,16:30,Ceara,0,1,Bragantino,+104,+229,+298
+2022,20:00,Avai,3,2,Goias,+125,+194,+280
+2022,18:30,Atletico GO,1,1,Botafogo RJ,+125,+233,+229
+2022,18:00,Juventude,0,1,Cuiaba,+106,+204,+326
+2022,16:00,Santos,3,0,America MG,+124,+208,+259
+2022,21:00,Atletico-MG,2,2,Coritiba,-417,+479,+1334
+2022,19:00,Fluminense,0,1,Internacional,-118,+229,+387
+2022,19:00,Palmeiras,3,0,Corinthians,-111,+234,+354
+2022,16:30,Athletico-PR,1,0,Flamengo RJ,+264,+240,+108
+2022,16:30,Bragantino,1,1,Sao Paulo,+231,+214,+136
+2022,19:30,Flamengo RJ,0,0,Palmeiras,+106,+242,+268
+2022,19:00,Ceara,1,3,Botafogo RJ,-133,+267,+401
+2022,18:00,Athletico-PR,0,1,Atletico-MG,+271,+220,+117
+2022,18:00,Bragantino,4,0,Atletico GO,-118,+249,+357
+2022,18:00,Internacional,2,1,Fortaleza,+135,+217,+238
+2022,16:00,Flamengo RJ,3,1,Sao Paulo,-133,+277,+380
+2022,11:00,Santos,2,1,Coritiba,-101,+237,+308
+2022,21:00,Cuiaba,0,1,Fluminense,+200,+191,+169
+2022,19:00,America MG,4,1,Juventude,+104,+204,+337
+2022,19:00,Corinthians,3,0,Avai,-200,+292,+702
+2022,16:30,Goias,1,1,Palmeiras,+532,+293,-175
+2022,20:00,Juventude,2,2,Bragantino,+146,+212,+216
+2022,19:00,Avai,1,0,America MG,+196,+191,+172
+2022,19:00,Sao Paulo,4,0,Athletico-PR,-156,+260,+524
+2022,18:00,Fortaleza,0,1,Cuiaba,-115,+220,+400
+2022,16:00,Atletico-MG,2,0,Internacional,-208,+330,+631
+2022,16:00,Botafogo RJ,1,3,Corinthians,+172,+204,+189
+2022,11:00,Coritiba,3,0,Goias,-114,+229,+365
+2022,21:00,Palmeiras,2,3,Ceara,-233,+340,+719
+2022,19:00,Atletico GO,1,1,Flamengo RJ,+312,+242,-104
+2022,16:30,Fluminense,0,0,Santos,-132,+243,+437
+2023,21:30,Bahia,4,1,Atletico-MG,+152,+252,+170
+2023,21:30,Coritiba,0,2,Corinthians,+227,+223,+131
+2023,21:30,Cruzeiro,1,1,Palmeiras,+293,+186,+125
+2023,21:30,Cuiaba,3,0,Athletico-PR,+131,+211,+239
+2023,21:30,Fluminense,2,3,Gremio,+108,+279,+227
+2023,21:30,Internacional,3,1,Botafogo RJ,+108,+236,+266
+2023,21:30,Santos,1,2,Fortaleza,-106,+229,+337
+2023,21:30,Sao Paulo,1,0,Flamengo RJ,+237,+231,+122
+2023,21:30,Vasco,2,1,Bragantino,+118,+233,+245
+2023,19:00,Goias,1,0,America MG,-139,+299,+355
+2023,18:30,America MG,3,2,Bahia,+274,+268,-104
+2023,18:30,Athletico-PR,3,0,Santos,-103,+238,+308
+2023,18:30,Botafogo RJ,0,0,Cruzeiro,-109,+244,+318
+2023,18:30,Bragantino,1,0,Coritiba,-500,+619,+1199
+2023,18:30,Fortaleza,1,0,Goias,-244,+353,+725
+2023,18:30,Gremio,1,0,Vasco,-119,+257,+342
+2023,16:00,Flamengo RJ,2,1,Cuiaba,-270,+369,+855
+2023,16:00,Palmeiras,1,0,Fluminense,-370,+484,+974
+2023,21:00,Atletico-MG,2,1,Sao Paulo,-152,+262,+503
+2023,18:00,Corinthians,1,2,Internacional,+154,+186,+231
+2023,20:30,Bragantino,1,2,Fortaleza,-125,+265,+358
+2023,20:00,Cruzeiro,1,1,Athletico-PR,+100,+237,+298
+2023,19:00,Gremio,2,1,Goias,-189,+336,+508
+2023,21:30,Coritiba,1,1,Botafogo RJ,+376,+270,-132
+2023,21:30,Palmeiras,4,0,America MG,-526,+636,+1269
+2023,20:00,Bahia,0,1,Sao Paulo,+127,+212,+248
+2023,20:00,Cuiaba,0,2,Internacional,+209,+184,+170
+2023,19:30,Flamengo RJ,0,3,Atletico-MG,-135,+264,+413
+2023,19:00,Santos,0,3,Fluminense,+143,+221,+206
+2023,21:30,Vasco,2,4,Corinthians,-101,+215,+334
+2023,21:00,Goias,0,1,Cruzeiro,+184,+209,+170
+2023,18:30,America MG,0,3,Flamengo RJ,+674,+384,-250
+2023,18:30,Fortaleza,2,2,Palmeiras,+221,+216,+138
+2023,18:30,Internacional,1,0,Bragantino,+149,+231,+190
+2023,18:30,Sao Paulo,0,0,Cuiaba,-152,+250,+535
+2023,16:00,Atletico-MG,3,0,Gremio,-133,+267,+388
+2023,16:00,Botafogo RJ,1,1,Santos,-122,+246,+373
+2023,21:00,Fluminense,2,1,Coritiba,-294,+411,+841
+2023,19:30,Athletico-PR,0,0,Vasco,-105,+240,+315
+2023,21:00,Corinthians,1,5,Bahia,+106,+221,+295
+2023,21:30,Flamengo RJ,1,0,Bragantino,+110,+243,+254
+2023,19:00,Fortaleza,2,2,Botafogo RJ,+116,+239,+244
+2023,21:30,Fluminense,1,0,Sao Paulo,+119,+216,+260
+2023,19:00,Cruzeiro,2,2,Vasco,+114,+206,+291
+2023,18:30,Fortaleza,0,1,Cruzeiro,-104,+218,+346
+2023,18:30,Atletico-MG,2,1,Goias,-175,+286,+550
+2023,18:30,Bahia,1,1,Athletico-PR,+129,+227,+223
+2023,18:30,Cuiaba,2,1,Fortaleza,+177,+184,+196
+2023,18:30,Santos,0,0,Sao Paulo,+168,+200,+188
+2023,18:30,Vasco,2,1,America MG,-208,+333,+606
+2023,16:00,Bragantino,2,2,Botafogo RJ,-141,+280,+387
+2023,16:00,Gremio,0,1,Corinthians,-152,+276,+448
+2023,21:00,Palmeiras,3,0,Internacional,-161,+300,+461
+2023,18:30,Flamengo RJ,1,1,Fluminense,-105,+248,+297
+2023,16:00,Coritiba,1,0,Cruzeiro,+248,+231,+118
+2023,20:00,Bahia,0,3,Cuiaba,-118,+238,+365
+2023,20:00,Botafogo RJ,3,4,Gremio,-110,+265,+293
+2023,19:00,Corinthians,1,1,Atletico-MG,+183,+187,+186
+2023,19:00,Goias,0,1,Santos,+114,+225,+256
+2023,21:30,Flamengo RJ,3,0,Palmeiras,+141,+221,+206
+2023,20:00,Athletico-PR,1,1,Fortaleza,-103,+241,+301
+2023,20:00,Sao Paulo,1,0,Bragantino,+210,+227,+136
+2023,19:00,America MG,0,3,Coritiba,-137,+292,+361
+2023,19:00,Internacional,0,0,Fluminense,-118,+252,+342
+2023,21:00,Santos,0,0,Cuiaba,-123,+238,+401
+2023,19:00,Vasco,1,0,Botafogo RJ,+133,+227,+217
+2023,18:30,Coritiba,0,1,Goias,+163,+225,+174
+2023,16:00,Bragantino,1,0,Corinthians,-169,+309,+466
+2023,16:00,Cruzeiro,1,2,Internacional,+114,+210,+281
+2023,16:00,Fortaleza,0,2,Flamengo RJ,+152,+214,+197
+2023,21:30,Palmeiras,1,0,Athletico-PR,-149,+279,+432
+2023,19:30,America MG,1,1,Atletico-MG,+351,+265,-125
+2023,19:30,Gremio,1,0,Bahia,-135,+275,+384
+2023,20:00,Sao Paulo,1,0,Cruzeiro,-115,+231,+368
+2023,18:00,Goias,0,2,Bragantino,+222,+234,+125
+2023,17:00,Cuiaba,0,2,Vasco,+160,+198,+200
+2023,21:30,Atletico-MG,3,1,Fortaleza,-139,+258,+426
+2023,21:30,Botafogo RJ,3,4,Palmeiras,+199,+213,+150
+2023,20:00,Coritiba,1,2,Gremio,+213,+262,+119
+2023,20:00,Flamengo RJ,1,2,Santos,-217,+334,+614
+2023,19:00,Corinthians,1,0,Athletico-PR,+168,+197,+191
+2023,19:00,Internacional,1,1,America MG,-175,+325,+453
+2023,19:00,Bahia,1,0,Fluminense,-217,+347,+598
+2023,20:00,Botafogo RJ,0,1,Cuiaba,-156,+261,+484
+2023,18:30,Corinthians,1,1,Santos,+110,+225,+272
+2023,18:30,Internacional,3,4,Coritiba,-250,+372,+714
+2023,16:00,Athletico-PR,1,1,Sao Paulo,+104,+231,+285
+2023,16:00,Goias,1,1,Vasco,+145,+208,+214
+2023,21:00,Atletico-MG,2,0,Fluminense,-143,+265,+416
+2023,19:00,America MG,3,4,Gremio,+129,+246,+208
+2023,19:00,Palmeiras,1,0,Bahia,-278,+376,+811
+2023,21:30,Santos,2,1,Coritiba,-149,+298,+409
+2023,19:00,Vasco,1,2,Internacional,+120,+219,+258
+2023,21:30,Cuiaba,0,1,Corinthians,+119,+204,+279
+2023,21:30,Gremio,3,2,Flamengo RJ,+301,+231,+102
+2023,20:00,Cruzeiro,3,0,Bahia,-105,+227,+344
+2023,20:00,Palmeiras,5,0,Sao Paulo,+102,+220,+318
+2023,19:00,Athletico-PR,3,2,America MG,-182,+324,+498
+2023,19:00,Bragantino,1,2,Atletico-MG,-111,+238,+348
+2023,19:00,Fluminense,5,3,Goias,-169,+307,+473
+2023,18:30,Bragantino,1,0,Fluminense,-133,+279,+368
+2023,18:30,Corinthians,1,1,America MG,+102,+229,+296
+2023,18:30,Coritiba,0,2,Palmeiras,+369,+250,-122
+2023,16:00,Atletico-MG,0,1,Cruzeiro,-115,+218,+409
+2023,16:00,Flamengo RJ,1,0,Vasco,-149,+274,+449
+2023,16:00,Internacional,7,1,Santos,-179,+292,+568
+2023,15:00,Botafogo RJ,1,1,Athletico-PR,-118,+229,+375
+2023,18:30,Bahia,2,0,Fortaleza,+112,+235,+258
+2023,18:30,Cuiaba,1,1,Goias,-101,+218,+334
+2023,18:30,Sao Paulo,3,0,Gremio,-167,+294,+501
+2023,21:30,Fluminense,3,3,Corinthians,-159,+286,+475
+2023,20:00,Santos,1,3,Bragantino,+212,+231,+135
+2023,19:00,Cruzeiro,0,2,Flamengo RJ,+242,+218,+127
+2023,19:00,Palmeiras,0,2,Atletico-MG,-128,+243,+424
+2023,21:30,Bahia,1,0,Internacional,+106,+229,+289
+2023,21:30,Goias,2,0,Sao Paulo,+252,+211,+127
+2023,21:30,Vasco,1,0,Fortaleza,+129,+217,+237
+2023,20:00,America MG,1,2,Botafogo RJ,+192,+224,+152
+2023,20:00,Coritiba,0,3,Cuiaba,+150,+191,+227
+2023,19:00,Gremio,1,2,Athletico-PR,+106,+231,+288
+2023,21:00,Cuiaba,0,0,Cruzeiro,+140,+192,+247
+2023,18:30,Athletico-PR,1,1,Bragantino,+160,+216,+185
+2023,18:30,Atletico-MG,1,2,Coritiba,-278,+379,+844
+2023,18:30,Fortaleza,3,2,America MG,-192,+328,+518
+2023,16:00,Fluminense,0,2,Botafogo RJ,-102,+237,+303
+2023,16:00,Internacional,3,2,Gremio,+127,+221,+237
+2023,16:00,Palmeiras,1,2,Santos,-233,+334,+714
+2023,21:00,Corinthians,1,1,Flamengo RJ,+239,+210,+133
+2023,18:30,Vasco,0,0,Sao Paulo,+156,+213,+195
+2023,16:00,Goias,4,6,Bahia,+140,+212,+222
+2023,20:00,Botafogo RJ,1,1,Goias,-164,+269,+524
+2023,18:30,Bragantino,2,1,Palmeiras,-133,+279,+376
+2023,16:00,Coritiba,2,0,Athletico-PR,+254,+225,+118
+2023,16:00,Cruzeiro,1,1,America MG,-143,+281,+404
+2023,16:00,Santos,4,1,Vasco,+154,+211,+199
+2023,21:00,Internacional,0,2,Atletico-MG,+269,+204,+124
+2023,18:30,Cuiaba,3,0,Fluminense,+127,+206,+256
+2023,18:30,Sao Paulo,2,1,Corinthians,-192,+285,+668
+2023,16:00,Flamengo RJ,1,0,Bahia,-185,+321,+525
+2023,16:00,Fortaleza,1,1,Gremio,+159,+225,+181
+2023,19:00,Sao Paulo,2,1,Coritiba,-222,+348,+642
+2023,20:00,America MG,0,1,Vasco,+181,+225,+154
+2023,21:00,Atletico-MG,1,0,Cuiaba,-169,+254,+622
+2023,20:00,Corinthians,1,0,Botafogo RJ,+186,+200,+174
+2023,21:30,Gremio,1,0,Palmeiras,+206,+229,+139
+2023,19:30,Athletico-PR,2,1,Internacional,-152,+269,+472
+2023,19:00,Vasco,5,1,Coritiba,-172,+287,+536
+2023,21:30,Fluminense,1,0,Cruzeiro,-118,+247,+355
+2023,21:30,Sao Paulo,1,2,Fortaleza,+139,+220,+215
+2023,19:00,Goias,0,0,Flamengo RJ,+196,+213,+156
+2023,21:30,America MG,0,2,Bragantino,+198,+240,+140
+2023,21:00,Corinthians,4,4,Gremio,+150,+209,+204
+2023,20:00,Bahia,1,2,Santos,-149,+264,+455
+2023,21:00,Atletico-MG,1,0,Botafogo RJ,+125,+220,+252
+2023,16:00,Vasco,4,2,Fluminense,+247,+211,+129
+2023,21:30,Palmeiras,1,0,Goias,-357,+450,+1079
+2023,20:00,Cuiaba,2,2,America MG,-115,+241,+348
+2023,21:30,Bragantino,2,0,Gremio,-137,+284,+378
+2023,20:00,Coritiba,2,4,Bahia,+156,+219,+191
+2023,19:00,Fortaleza,2,1,Corinthians,-169,+280,+544
+2023,19:00,Santos,0,3,Cruzeiro,+136,+204,+237
+2023,21:30,Flamengo RJ,0,3,Athletico-PR,-130,+259,+396
+2023,21:30,Internacional,2,1,Sao Paulo,+156,+200,+208
+2023,18:30,America MG,2,0,Santos,+117,+214,+264
+2023,18:30,Bahia,1,1,Vasco,+106,+227,+281
+2023,18:30,Cruzeiro,0,0,Bragantino,+142,+209,+217
+2023,16:00,Corinthians,0,0,Palmeiras,+371,+217,-111
+2023,16:00,Fluminense,1,0,Fortaleza,-112,+240,+334
+2023,11:00,Gremio,2,0,Cuiaba,-152,+269,+472
+2023,21:00,Botafogo RJ,1,2,Flamengo RJ,+147,+220,+202
+2023,16:00,Athletico-PR,1,1,Atletico-MG,+138,+204,+236
+2023,16:00,Goias,0,0,Internacional,+181,+189,+190
+2023,19:00,Gremio,3,0,Cruzeiro,+100,+239,+298
+2023,18:30,Athletico-PR,2,2,Fluminense,-128,+256,+386
+2023,18:30,Fortaleza,3,1,Coritiba,-196,+311,+612
+2023,18:30,Palmeiras,1,0,Vasco,-270,+387,+827
+2023,16:00,America MG,2,1,Sao Paulo,+165,+223,+177
+2023,16:00,Atletico-MG,2,0,Santos,-175,+267,+601
+2023,16:00,Botafogo RJ,3,0,Bahia,-115,+254,+334
+2023,11:00,Bragantino,2,0,Cuiaba,-145,+257,+473
+2023,21:00,Corinthians,1,1,Goias,-101,+218,+332
+2023,18:30,Flamengo RJ,0,0,Internacional,-217,+330,+649
+2023,20:00,Goias,1,1,Athletico-PR,+195,+206,+159
+2023,16:00,Bahia,4,0,Bragantino,+148,+227,+199
+2023,16:00,Coritiba,2,3,Flamengo RJ,+291,+252,-105
+2023,16:00,Santos,2,1,Gremio,+166,+217,+181
+2023,11:00,Vasco,1,0,Atletico-MG,+179,+210,+177
+2023,21:00,Cruzeiro,1,1,Corinthians,-116,+246,+367
+2023,18:30,Cuiaba,0,2,Palmeiras,+254,+211,+123
+2023,18:30,Fluminense,3,1,America MG,-200,+321,+607
+2023,16:00,Internacional,0,1,Fortaleza,+137,+209,+225
+2023,16:00,Sao Paulo,0,0,Botafogo RJ,-103,+244,+304
+2023,20:00,Athletico-PR,2,0,Cuiaba,-114,+234,+367
+2023,21:00,Bragantino,1,1,Vasco,-164,+273,+504
+2023,19:00,Palmeiras,1,0,Cruzeiro,-175,+293,+501
+2023,18:30,Flamengo RJ,1,1,Sao Paulo,-128,+266,+369
+2023,18:30,Fortaleza,4,0,Santos,-185,+289,+608
+2023,16:00,America MG,0,1,Goias,-104,+245,+301
+2023,16:00,Corinthians,3,1,Coritiba,-139,+254,+438
+2023,16:00,Gremio,2,1,Fluminense,+125,+231,+229
+2023,11:00,Atletico-MG,1,0,Bahia,-169,+282,+539
+2023,21:00,Botafogo RJ,3,1,Internacional,+129,+206,+250
+2023,20:00,Cuiaba,3,0,Flamengo RJ,+196,+208,+160
+2023,18:30,Bahia,3,1,America MG,-110,+261,+304
+2023,18:30,Coritiba,0,1,Bragantino,+237,+227,+125
+2023,18:30,Cruzeiro,0,0,Botafogo RJ,+131,+219,+231
+2023,16:00,Sao Paulo,0,2,Atletico-MG,-108,+229,+345
+2023,16:00,Vasco,1,0,Gremio,+169,+215,+179
+2023,21:00,Fluminense,2,1,Palmeiras,+122,+231,+240
+2023,18:30,Goias,1,0,Fortaleza,+173,+204,+184
+2023,18:30,Internacional,2,2,Corinthians,+127,+195,+271
+2023,16:00,Santos,1,1,Athletico-PR,+129,+204,+252
+2023,18:30,Goias,1,1,Gremio,+175,+223,+167
+2023,16:00,America MG,1,4,Palmeiras,+254,+240,+112
+2023,16:00,Botafogo RJ,4,1,Coritiba,-152,+266,+474
+2023,11:00,Sao Paulo,0,0,Bahia,-159,+271,+501
+2023,21:00,Atletico-MG,1,2,Flamengo RJ,+120,+227,+250
+2023,18:30,Corinthians,3,1,Vasco,+100,+212,+334
+2023,18:30,Fortaleza,0,3,Bragantino,+124,+227,+239
+2023,16:00,Athletico-PR,3,3,Cruzeiro,-119,+243,+367
+2023,16:00,Fluminense,1,0,Santos,-185,+298,+591
+2023,16:00,Internacional,1,2,Cuiaba,-123,+236,+409
+2023,19:00,Coritiba,2,0,Fluminense,+236,+215,+129
+2023,18:30,Vasco,0,2,Athletico-PR,+179,+213,+171
+2023,16:00,Bragantino,0,0,Internacional,-133,+261,+405
+2023,16:00,Cruzeiro,0,1,Goias,-185,+295,+585
+2023,16:00,Santos,2,2,Botafogo RJ,+197,+195,+170
+2023,21:00,Gremio,1,0,Atletico-MG,+139,+220,+217
+2023,18:30,Bahia,0,0,Corinthians,+125,+209,+263
+2023,18:30,Cuiaba,2,1,Sao Paulo,+183,+202,+175
+2023,16:00,Flamengo RJ,1,1,America MG,-294,+416,+839
+2023,16:00,Palmeiras,3,1,Fortaleza,-192,+312,+586
+2023,20:00,Goias,0,0,Atletico-MG,+322,+240,-108
+2023,18:30,Athletico-PR,2,0,Bahia,-175,+305,+482
+2023,18:30,Internacional,0,0,Palmeiras,+181,+210,+168
+2023,16:00,Fluminense,0,0,Flamengo RJ,+181,+229,+156
+2023,16:00,Fortaleza,0,1,Cuiaba,-133,+254,+412
+2023,16:00,Sao Paulo,4,1,Santos,-161,+262,+557
+2023,11:00,Cruzeiro,0,0,Coritiba,-161,+284,+493
+2023,21:00,Botafogo RJ,2,0,Bragantino,+110,+231,+278
+2023,18:30,Fortaleza,1,0,Athletico-PR,-185,+294,+574
+2023,18:30,Gremio,0,2,Botafogo RJ,-123,+258,+355
+2023,16:00,Bragantino,0,0,Sao Paulo,-145,+274,+428
+2023,16:00,Fluminense,2,0,Internacional,-110,+241,+344
+2023,11:00,Santos,4,3,Goias,-109,+229,+351
+2023,21:00,Palmeiras,1,1,Flamengo RJ,-114,+271,+301
+2023,18:30,Atletico-MG,0,1,Corinthians,-130,+229,+444
+2023,18:30,Coritiba,3,1,America MG,+114,+236,+249
+2023,16:00,Cuiaba,1,1,Bahia,-128,+245,+411
+2023,16:00,Vasco,0,1,Cruzeiro,+189,+218,+158
+2023,20:00,Goias,1,2,Coritiba,+110,+222,+273
+2023,18:30,Cuiaba,3,0,Santos,-104,+213,+354
+2023,16:00,Athletico-PR,2,2,Palmeiras,+134,+216,+227
+2023,16:00,Atletico-MG,2,2,America MG,-200,+299,+631
+2023,16:00,Botafogo RJ,2,0,Vasco,-114,+240,+344
+2023,11:00,Corinthians,0,1,Bragantino,+185,+194,+183
+2023,21:00,Internacional,0,0,Cruzeiro,+108,+221,+283
+2023,18:30,Bahia,1,2,Gremio,+175,+235,+158
+2023,18:30,Flamengo RJ,2,0,Fortaleza,-169,+304,+463
+2023,16:00,Sao Paulo,1,0,Fluminense,+112,+240,+246
+2023,21:00,Vasco,1,0,Cuiaba,+121,+210,+265
+2023,18:30,America MG,1,2,Internacional,+100,+239,+294
+2023,18:30,Bragantino,2,0,Goias,-238,+361,+675
+2023,18:30,Santos,2,3,Flamengo RJ,+238,+216,+127
+2023,16:00,Gremio,5,1,Coritiba,-192,+326,+535
+2023,16:00,Palmeiras,0,1,Botafogo RJ,-222,+354,+585
+2023,21:00,Cruzeiro,1,0,Sao Paulo,+123,+222,+243
+2023,18:30,Fluminense,2,1,Bahia,-185,+311,+537
+2023,18:30,Fortaleza,2,1,Atletico-MG,+177,+206,+171
+2023,16:00,Athletico-PR,1,0,Corinthians,-105,+217,+345
+2023,21:30,Bragantino,4,0,Flamengo RJ,+208,+239,+134
+2023,20:00,Coritiba,0,1,Internacional,+174,+198,+188
+2023,20:00,Cuiaba,0,1,Botafogo RJ,+172,+200,+189
+2023,20:00,Vasco,0,1,Goias,-111,+240,+349
+2023,19:00,Gremio,3,1,America MG,-152,+295,+422
+2023,21:30,Bahia,1,0,Palmeiras,+268,+240,+106
+2023,21:30,Fluminense,1,1,Atletico-MG,+183,+215,+163
+2023,20:00,Santos,0,2,Corinthians,+125,+194,+273
+2023,19:00,Cruzeiro,0,1,Fortaleza,-108,+244,+311
+2023,19:00,Sao Paulo,2,1,Athletico-PR,-128,+248,+392
+2023,18:30,Flamengo RJ,3,0,Gremio,-167,+309,+450
+2023,18:30,Goias,2,2,Fluminense,+250,+225,+119
+2023,16:00,Internacional,2,1,Vasco,-122,+247,+375
+2023,16:00,Sao Paulo,0,2,Palmeiras,+211,+225,+139
+2023,11:00,America MG,2,2,Athletico-PR,+156,+223,+189
+2023,21:00,Botafogo RJ,2,0,Fortaleza,+121,+224,+250
+2023,18:30,Atletico-MG,1,1,Bragantino,-127,+240,+409
+2023,18:30,Bahia,2,2,Cruzeiro,+179,+223,+162
+2023,18:30,Corinthians,1,1,Cuiaba,-132,+227,+463
+2023,16:00,Coritiba,0,0,Santos,+154,+191,+220
+2023,20:00,Vasco,1,4,Flamengo RJ,+311,+261,-114
+2023,18:30,Goias,0,1,Cuiaba,+125,+202,+263
+2023,18:30,Palmeiras,3,1,Coritiba,-370,+461,+1102
+2023,16:00,Fluminense,2,1,Bragantino,-133,+271,+380
+2023,16:00,Gremio,2,1,Sao Paulo,+108,+227,+277
+2023,21:00,Santos,1,1,Internacional,+138,+192,+250
+2023,18:30,America MG,2,0,Corinthians,+179,+214,+167
+2023,18:30,Athletico-PR,1,0,Botafogo RJ,+104,+241,+278
+2023,18:30,Cruzeiro,0,1,Atletico-MG,+240,+209,+133
+2023,16:00,Fortaleza,0,0,Bahia,-161,+291,+473
+2023,19:00,Botafogo RJ,2,0,America MG,-128,+267,+368
+2023,18:30,Atletico-MG,1,1,Palmeiras,+127,+225,+229
+2023,18:30,Bragantino,2,0,Santos,-130,+245,+411
+2023,16:00,Corinthians,2,0,Fluminense,+174,+214,+173
+2023,16:00,Internacional,2,0,Bahia,+102,+250,+270
+2023,21:00,Sao Paulo,2,1,Goias,-182,+292,+581
+2023,18:30,Cuiaba,1,1,Coritiba,-118,+234,+372
+2023,18:30,Flamengo RJ,1,1,Cruzeiro,-147,+275,+424
+2023,16:00,Athletico-PR,1,2,Gremio,-152,+281,+453
+2023,16:00,Fortaleza,2,0,Vasco,-149,+295,+413
+2023,20:00,Cruzeiro,0,1,Cuiaba,-172,+280,+547
+2023,18:30,Gremio,3,1,Internacional,+104,+227,+293
+2023,16:00,Flamengo RJ,1,0,Corinthians,-238,+344,+742
+2023,21:00,Santos,0,0,Palmeiras,+418,+257,-133
+2023,18:30,America MG,2,1,Fortaleza,+190,+237,+148
+2023,18:30,Botafogo RJ,1,0,Fluminense,+175,+229,+163
+2023,18:30,Bragantino,2,0,Athletico-PR,-118,+261,+330
+2023,18:30,Coritiba,1,2,Atletico-MG,+372,+243,-119
+2023,18:30,Sao Paulo,4,2,Vasco,-119,+244,+366
+2023,16:00,Bahia,1,1,Goias,-143,+271,+426
+2023,18:30,America MG,0,4,Cruzeiro,+152,+238,+183
+2023,18:30,Athletico-PR,3,2,Coritiba,-161,+271,+538
+2023,18:30,Goias,2,1,Botafogo RJ,+221,+229,+131
+2023,16:00,Corinthians,1,1,Sao Paulo,+150,+202,+215
+2023,16:00,Gremio,0,0,Fortaleza,-109,+258,+311
+2023,16:00,Vasco,0,1,Santos,-109,+227,+355
+2023,21:00,Atletico-MG,2,0,Internacional,-172,+293,+529
+2023,18:30,Fluminense,2,0,Cuiaba,-244,+376,+665
+2023,18:30,Palmeiras,1,1,Bragantino,-172,+313,+486
+2023,16:00,Bahia,2,3,Flamengo RJ,+209,+243,+131
+2023,20:00,Fortaleza,0,0,Sao Paulo,-105,+237,+320
+2023,19:30,Botafogo RJ,3,0,Corinthians,-114,+246,+343
+2023,19:00,Coritiba,1,1,Vasco,+234,+208,+138
+2023,21:30,Cruzeiro,0,2,Fluminense,+167,+217,+179
+2023,21:30,Palmeiras,4,1,Gremio,-244,+368,+715
+2023,20:00,Cuiaba,0,4,Atletico-MG,+274,+221,+114
+2023,20:00,Flamengo RJ,2,0,Goias,-400,+500,+1064
+2023,19:00,Bragantino,2,2,America MG,-125,+269,+353
+2023,19:00,Internacional,0,2,Athletico-PR,-125,+250,+379
+2023,19:00,Santos,3,0,Bahia,+127,+213,+248
+2023,20:00,Corinthians,1,1,Fortaleza,+156,+208,+202
+2023,18:30,Botafogo RJ,2,0,Atletico-MG,+254,+227,+118
+2023,18:30,Goias,0,5,Palmeiras,+428,+292,-152
+2023,18:30,Gremio,3,3,Bragantino,-108,+252,+313
+2023,16:00,Athletico-PR,2,1,Flamengo RJ,+191,+221,+154
+2023,16:00,Bahia,3,1,Coritiba,-137,+268,+408
+2023,16:00,Sao Paulo,2,0,Internacional,+106,+243,+275
+2023,11:00,America MG,1,2,Cuiaba,-135,+272,+396
+2023,21:00,Fluminense,1,1,Vasco,-133,+275,+379
+2023,16:00,Cruzeiro,2,1,Santos,-139,+260,+434
+2023,20:00,Vasco,0,1,Bahia,-130,+270,+371
+2023,18:30,Cuiaba,1,2,Gremio,+175,+212,+177
+2023,18:30,Internacional,1,0,Goias,-164,+291,+483
+2023,16:00,Flamengo RJ,2,3,Botafogo RJ,-167,+298,+473
+2023,21:00,Atletico-MG,2,1,Athletico-PR,-161,+271,+533
+2023,18:30,Bragantino,0,3,Cruzeiro,-109,+248,+323
+2023,18:30,Palmeiras,2,1,Corinthians,-189,+295,+634
+2023,18:30,Santos,3,2,America MG,+133,+218,+231
+2023,16:30,Coritiba,1,1,Sao Paulo,+206,+213,+150
+2023,16:30,Fortaleza,4,2,Fluminense,+129,+229,+231
+2023,20:00,Bahia,1,2,Botafogo RJ,+108,+227,+279
+2023,19:00,Goias,3,1,Corinthians,+212,+196,+159
+2023,18:30,Coritiba,0,3,Fortaleza,+168,+217,+181
+2023,16:00,Santos,0,0,Atletico-MG,+229,+211,+138
+2023,16:00,Vasco,2,2,Palmeiras,+229,+217,+134
+2023,11:00,Internacional,2,1,Flamengo RJ,+175,+225,+167
+2023,21:00,Cruzeiro,1,0,Gremio,+141,+219,+216
+2023,18:30,Cuiaba,1,1,Bragantino,+156,+208,+199
+2023,18:30,Sao Paulo,3,0,America MG,-114,+245,+346
+2023,16:00,Fluminense,2,0,Athletico-PR,-200,+322,+603
+2023,18:30,Gremio,1,0,Santos,-128,+245,+408
+2023,16:00,Corinthians,2,1,Cruzeiro,-130,+248,+411
+2023,16:00,Flamengo RJ,3,0,Coritiba,-256,+383,+739
+2023,21:00,Atletico-MG,1,2,Vasco,-123,+254,+371
+2023,18:30,Athletico-PR,2,0,Goias,-159,+264,+532
+2023,18:30,Botafogo RJ,2,1,Sao Paulo,+141,+210,+220
+2023,18:30,Bragantino,2,1,Bahia,-118,+264,+330
+2023,18:30,Fortaleza,1,1,Internacional,-109,+252,+315
+2023,16:00,America MG,0,3,Fluminense,+152,+229,+188
+2023,16:00,Palmeiras,2,1,Cuiaba,-278,+408,+758
