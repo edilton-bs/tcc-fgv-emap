@@ -1,0 +1,3042 @@
+{
+    "001": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Juventude - RS",
+        "Result": "2 X 2",
+        "Odd home": 121,
+        "Odd X": 211,
+        "Odd away": 254
+    },
+    "002": {
+        "Home": "Bahia - BA",
+        "Away": "Santos - SP",
+        "Result": "3 X 0",
+        "Odd home": 137,
+        "Odd X": 221,
+        "Odd away": 212
+    },
+    "003": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Fluminense - RJ",
+        "Result": "0 X 0",
+        "Odd home": -111,
+        "Odd X": 221,
+        "Odd away": 363
+    },
+    "004": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Fortaleza - CE",
+        "Result": "1 X 2",
+        "Odd home": -213,
+        "Odd X": 318,
+        "Odd away": 608
+    },
+    "005": {
+        "Home": "Flamengo - RJ",
+        "Away": "Palmeiras - SP",
+        "Result": "1 X 0",
+        "Odd home": -122,
+        "Odd X": 257,
+        "Odd away": 337
+    },
+    "006": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "3 X 2",
+        "Odd home": 267,
+        "Odd X": 215,
+        "Odd away": 117
+    },
+    "007": {
+        "Home": "Chapecoense - SC",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "0 X 3",
+        "Odd home": 296,
+        "Odd X": 225,
+        "Odd away": 102
+    },
+    "008": {
+        "Home": "Corinthians - SP",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "0 X 1",
+        "Odd home": 100,
+        "Odd X": 227,
+        "Odd away": 298
+    },
+    "009": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "1 X 0",
+        "Odd home": 143,
+        "Odd X": 202,
+        "Odd away": 220
+    },
+    "010": {
+        "Home": "Internacional - RS",
+        "Away": "Sport - PE",
+        "Result": "2 X 2",
+        "Odd home": -303,
+        "Odd X": 409,
+        "Odd away": 868
+    },
+    "011": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "2 X 0",
+        "Odd home": 242,
+        "Odd X": 189,
+        "Odd away": 140
+    },
+    "012": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Bahia - BA",
+        "Result": "3 X 3",
+        "Odd home": -106,
+        "Odd X": 235,
+        "Odd away": 305
+    },
+    "013": {
+        "Home": "Santos - SP",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "3 X 1",
+        "Odd home": -104,
+        "Odd X": 235,
+        "Odd away": 303
+    },
+    "014": {
+        "Home": "Fluminense - RJ",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "1 X 0",
+        "Odd home": -141,
+        "Odd X": 250,
+        "Odd away": 440
+    },
+    "015": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Corinthians - SP",
+        "Result": "0 X 1",
+        "Odd home": 110,
+        "Odd X": 210,
+        "Odd away": 289
+    },
+    "016": {
+        "Home": "Fortaleza - CE",
+        "Away": "Internacional - RS",
+        "Result": "5 X 1",
+        "Odd home": 164,
+        "Odd X": 200,
+        "Odd away": 193
+    },
+    "017": {
+        "Home": "Palmeiras - SP",
+        "Away": "Chapecoense - SC",
+        "Result": "3 X 1",
+        "Odd home": -270,
+        "Odd X": 363,
+        "Odd away": 791
+    },
+    "018": {
+        "Home": "Juventude - RS",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "0 X 3",
+        "Odd home": 183,
+        "Odd X": 197,
+        "Odd away": 171
+    },
+    "019": {
+        "Home": "Sport - PE",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "0 X 1",
+        "Odd home": 324,
+        "Odd X": 237,
+        "Odd away": -109
+    },
+    "020": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Flamengo - RJ",
+        "Result": "2 X 2",
+        "Odd home": 102,
+        "Odd X": 256,
+        "Odd away": 254
+    },
+    "021": {
+        "Home": "Palmeiras - SP",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 1",
+        "Odd home": -112,
+        "Odd X": 236,
+        "Odd away": 337
+    },
+    "022": {
+        "Home": "Santos - SP",
+        "Away": "Juventude - RS",
+        "Result": "0 X 0",
+        "Odd home": -159,
+        "Odd X": 279,
+        "Odd away": 461
+    },
+    "023": {
+        "Home": "Flamengo - RJ",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "2 X 0",
+        "Odd home": -200,
+        "Odd X": 313,
+        "Odd away": 582
+    },
+    "024": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "1 X 0",
+        "Odd home": 112,
+        "Odd X": 221,
+        "Odd away": 267
+    },
+    "025": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "0 X 1",
+        "Odd home": -122,
+        "Odd X": 229,
+        "Odd away": 393
+    },
+    "026": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Fluminense - RJ",
+        "Result": "2 X 2",
+        "Odd home": -102,
+        "Odd X": 229,
+        "Odd away": 308
+    },
+    "027": {
+        "Home": "Chapecoense - SC",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "0 X 0",
+        "Odd home": 222,
+        "Odd X": 211,
+        "Odd away": 138
+    },
+    "028": {
+        "Home": "Bahia - BA",
+        "Away": "Internacional - RS",
+        "Result": "0 X 1",
+        "Odd home": 154,
+        "Odd X": 223,
+        "Odd away": 183
+    },
+    "029": {
+        "Home": "Fortaleza - CE",
+        "Away": "Sport - PE",
+        "Result": "1 X 0",
+        "Odd home": -147,
+        "Odd X": 254,
+        "Odd away": 471
+    },
+    "030": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "2 X 1",
+        "Odd home": 154,
+        "Odd X": 193,
+        "Odd away": 212
+    },
+    "031": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Chapecoense - SC",
+        "Result": "1 X 1",
+        "Odd home": -286,
+        "Odd X": 394,
+        "Odd away": 788
+    },
+    "032": {
+        "Home": "Internacional - RS",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "0 X 1",
+        "Odd home": 154,
+        "Odd X": 216,
+        "Odd away": 189
+    },
+    "033": {
+        "Home": "Corinthians - SP",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "1 X 2",
+        "Odd home": 152,
+        "Odd X": 199,
+        "Odd away": 210
+    },
+    "034": {
+        "Home": "Juventude - RS",
+        "Away": "Palmeiras - SP",
+        "Result": "0 X 3",
+        "Odd home": 417,
+        "Odd X": 243,
+        "Odd away": -133
+    },
+    "035": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Bahia - BA",
+        "Result": "1 X 2",
+        "Odd home": 150,
+        "Odd X": 204,
+        "Odd away": 204
+    },
+    "036": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "0 X 0",
+        "Odd home": -104,
+        "Odd X": 210,
+        "Odd away": 346
+    },
+    "037": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Fortaleza - CE",
+        "Result": "0 X 0",
+        "Odd home": 152,
+        "Odd X": 185,
+        "Odd away": 225
+    },
+    "038": {
+        "Home": "Fluminense - RJ",
+        "Away": "Santos - SP",
+        "Result": "1 X 0",
+        "Odd home": 108,
+        "Odd X": 216,
+        "Odd away": 288
+    },
+    "039": {
+        "Home": "Sport - PE",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "1 X 0",
+        "Odd home": 346,
+        "Odd X": 244,
+        "Odd away": -118
+    },
+    "040": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Flamengo - RJ",
+        "Result": "2 X 2",
+        "Odd home": 231,
+        "Odd X": 225,
+        "Odd away": 125
+    },
+    "041": {
+        "Home": "Flamengo - RJ",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "2 X 3",
+        "Odd home": -156,
+        "Odd X": 281,
+        "Odd away": 449
+    },
+    "042": {
+        "Home": "Palmeiras - SP",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "2 X 1",
+        "Odd home": -172,
+        "Odd X": 280,
+        "Odd away": 520
+    },
+    "043": {
+        "Home": "Internacional - RS",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "1 X 1",
+        "Odd home": -149,
+        "Odd X": 256,
+        "Odd away": 462
+    },
+    "044": {
+        "Home": "Bahia - BA",
+        "Away": "Corinthians - SP",
+        "Result": "0 X 0",
+        "Odd home": 134,
+        "Odd X": 208,
+        "Odd away": 229
+    },
+    "045": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "2 X 1",
+        "Odd home": 102,
+        "Odd X": 202,
+        "Odd away": 336
+    },
+    "046": {
+        "Home": "Santos - SP",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "2 X 0",
+        "Odd home": 209,
+        "Odd X": 213,
+        "Odd away": 143
+    },
+    "047": {
+        "Home": "Fortaleza - CE",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 1",
+        "Odd home": 136,
+        "Odd X": 196,
+        "Odd away": 242
+    },
+    "048": {
+        "Home": "Juventude - RS",
+        "Away": "Sport - PE",
+        "Result": "1 X 0",
+        "Odd home": 144,
+        "Odd X": 196,
+        "Odd away": 225
+    },
+    "049": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Chapecoense - SC",
+        "Result": "1 X 1",
+        "Odd home": -357,
+        "Odd X": 455,
+        "Odd away": 942
+    },
+    "050": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "0 X 1",
+        "Odd home": 231,
+        "Odd X": 204,
+        "Odd away": 134
+    },
+    "051": {
+        "Home": "Flamengo - RJ",
+        "Away": "Fortaleza - CE",
+        "Result": "2 X 1",
+        "Odd home": -222,
+        "Odd X": 322,
+        "Odd away": 667
+    },
+    "052": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "2 X 2",
+        "Odd home": -189,
+        "Odd X": 287,
+        "Odd away": 611
+    },
+    "053": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Palmeiras - SP",
+        "Result": "3 X 1",
+        "Odd home": 156,
+        "Odd X": 220,
+        "Odd away": 183
+    },
+    "054": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 0",
+        "Odd home": 175,
+        "Odd X": 193,
+        "Odd away": 185
+    },
+    "055": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Juventude - RS",
+        "Result": "1 X 1",
+        "Odd home": -130,
+        "Odd X": 225,
+        "Odd away": 434
+    },
+    "056": {
+        "Home": "Corinthians - SP",
+        "Away": "Sport - PE",
+        "Result": "2 X 1",
+        "Odd home": -137,
+        "Odd X": 240,
+        "Odd away": 442
+    },
+    "057": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "2 X 1",
+        "Odd home": 229,
+        "Odd X": 224,
+        "Odd away": 125
+    },
+    "058": {
+        "Home": "Chapecoense - SC",
+        "Away": "Internacional - RS",
+        "Result": "1 X 2",
+        "Odd home": 325,
+        "Odd X": 225,
+        "Odd away": -105
+    },
+    "059": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Santos - SP",
+        "Result": "2 X 2",
+        "Odd home": 102,
+        "Odd X": 210,
+        "Odd away": 315
+    },
+    "060": {
+        "Home": "Bahia - BA",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "2 X 1",
+        "Odd home": 162,
+        "Odd X": 189,
+        "Odd away": 206
+    },
+    "061": {
+        "Home": "Juventude - RS",
+        "Away": "Flamengo - RJ",
+        "Result": "1 X 0",
+        "Odd home": 629,
+        "Odd X": 307,
+        "Odd away": -208
+    },
+    "062": {
+        "Home": "Fluminense - RJ",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 1",
+        "Odd home": 150,
+        "Odd X": 186,
+        "Odd away": 227
+    },
+    "063": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Fortaleza - CE",
+        "Result": "0 X 0",
+        "Odd home": -104,
+        "Odd X": 219,
+        "Odd away": 333
+    },
+    "064": {
+        "Home": "Palmeiras - SP",
+        "Away": "Bahia - BA",
+        "Result": "3 X 2",
+        "Odd home": -161,
+        "Odd X": 276,
+        "Odd away": 471
+    },
+    "065": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Chapecoense - SC",
+        "Result": "2 X 2",
+        "Odd home": -175,
+        "Odd X": 260,
+        "Odd away": 615
+    },
+    "066": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Internacional - RS",
+        "Result": "1 X 1",
+        "Odd home": 175,
+        "Odd X": 198,
+        "Odd away": 181
+    },
+    "067": {
+        "Home": "Santos - SP",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "2 X 0",
+        "Odd home": 189,
+        "Odd X": 215,
+        "Odd away": 154
+    },
+    "068": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "1 X 1",
+        "Odd home": 175,
+        "Odd X": 210,
+        "Odd away": 173
+    },
+    "069": {
+        "Home": "Sport - PE",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "0 X 0",
+        "Odd home": 133,
+        "Odd X": 195,
+        "Odd away": 249
+    },
+    "070": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "0 X 1",
+        "Odd home": 239,
+        "Odd X": 223,
+        "Odd away": 121
+    },
+    "071": {
+        "Home": "Fortaleza - CE",
+        "Away": "Chapecoense - SC",
+        "Result": "3 X 2",
+        "Odd home": -200,
+        "Odd X": 305,
+        "Odd away": 593
+    },
+    "072": {
+        "Home": "Fluminense - RJ",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "1 X 4",
+        "Odd home": 145,
+        "Odd X": 194,
+        "Odd away": 225
+    },
+    "073": {
+        "Home": "Bahia - BA",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "3 X 4",
+        "Odd home": 110,
+        "Odd X": 214,
+        "Odd away": 278
+    },
+    "074": {
+        "Home": "Internacional - RS",
+        "Away": "Palmeiras - SP",
+        "Result": "1 X 2",
+        "Odd home": 160,
+        "Odd X": 215,
+        "Odd away": 184
+    },
+    "075": {
+        "Home": "Santos - SP",
+        "Away": "Sport - PE",
+        "Result": "0 X 0",
+        "Odd home": -147,
+        "Odd X": 241,
+        "Odd away": 492
+    },
+    "076": {
+        "Home": "Corinthians - SP",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "0 X 0",
+        "Odd home": 213,
+        "Odd X": 189,
+        "Odd away": 158
+    },
+    "077": {
+        "Home": "Juventude - RS",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "2 X 0",
+        "Odd home": 362,
+        "Odd X": 220,
+        "Odd away": -111
+    },
+    "078": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "0 X 0",
+        "Odd home": -164,
+        "Odd X": 281,
+        "Odd away": 465
+    },
+    "079": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "4 X 1",
+        "Odd home": -133,
+        "Odd X": 242,
+        "Odd away": 426
+    },
+    "080": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Flamengo - RJ",
+        "Result": "0 X 2",
+        "Odd home": 511,
+        "Odd X": 278,
+        "Odd away": -169
+    },
+    "081": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Santos - SP",
+        "Result": "2 X 0",
+        "Odd home": 121,
+        "Odd X": 214,
+        "Odd away": 250
+    },
+    "082": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Fortaleza - CE",
+        "Result": "2 X 1",
+        "Odd home": 108,
+        "Odd X": 212,
+        "Odd away": 290
+    },
+    "083": {
+        "Home": "Corinthians - SP",
+        "Away": "Internacional - RS",
+        "Result": "1 X 1",
+        "Odd home": 145,
+        "Odd X": 197,
+        "Odd away": 225
+    },
+    "084": {
+        "Home": "Chapecoense - SC",
+        "Away": "Bahia - BA",
+        "Result": "0 X 2",
+        "Odd home": 220,
+        "Odd X": 223,
+        "Odd away": 131
+    },
+    "085": {
+        "Home": "Sport - PE",
+        "Away": "Palmeiras - SP",
+        "Result": "0 X 1",
+        "Odd home": 345,
+        "Odd X": 239,
+        "Odd away": -115
+    },
+    "086": {
+        "Home": "Flamengo - RJ",
+        "Away": "Fluminense - RJ",
+        "Result": "0 X 1",
+        "Odd home": -132,
+        "Odd X": 245,
+        "Odd away": 405
+    },
+    "087": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "1 X 2",
+        "Odd home": 127,
+        "Odd X": 210,
+        "Odd away": 241
+    },
+    "088": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Juventude - RS",
+        "Result": "2 X 0",
+        "Odd home": -114,
+        "Odd X": 225,
+        "Odd away": 363
+    },
+    "089": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "0 X 1",
+        "Odd home": 355,
+        "Odd X": 224,
+        "Odd away": -111
+    },
+    "090": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "0 X 1",
+        "Odd home": -189,
+        "Odd X": 300,
+        "Odd away": 558
+    },
+    "091": {
+        "Home": "Santos - SP",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "2 X 1",
+        "Odd home": 164,
+        "Odd X": 202,
+        "Odd away": 187
+    },
+    "092": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "1 X 1",
+        "Odd home": -159,
+        "Odd X": 266,
+        "Odd away": 492
+    },
+    "093": {
+        "Home": "Bahia - BA",
+        "Away": "Juventude - RS",
+        "Result": "1 X 0",
+        "Odd home": -135,
+        "Odd X": 245,
+        "Odd away": 417
+    },
+    "094": {
+        "Home": "Fortaleza - CE",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "4 X 0",
+        "Odd home": -119,
+        "Odd X": 237,
+        "Odd away": 363
+    },
+    "095": {
+        "Home": "Palmeiras - SP",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "2 X 0",
+        "Odd home": -101,
+        "Odd X": 235,
+        "Odd away": 291
+    },
+    "096": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Flamengo - RJ",
+        "Result": "2 X 1",
+        "Odd home": 197,
+        "Odd X": 219,
+        "Odd away": 147
+    },
+    "097": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Sport - PE",
+        "Result": "1 X 1",
+        "Odd home": -109,
+        "Odd X": 215,
+        "Odd away": 359
+    },
+    "098": {
+        "Home": "Fluminense - RJ",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "0 X 0",
+        "Odd home": 125,
+        "Odd X": 200,
+        "Odd away": 262
+    },
+    "099": {
+        "Home": "Internacional - RS",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "0 X 2",
+        "Odd home": 179,
+        "Odd X": 204,
+        "Odd away": 172
+    },
+    "100": {
+        "Home": "Chapecoense - SC",
+        "Away": "Corinthians - SP",
+        "Result": "0 X 1",
+        "Odd home": 330,
+        "Odd X": 213,
+        "Odd away": -102
+    },
+    "101": {
+        "Home": "Palmeiras - SP",
+        "Away": "Santos - SP",
+        "Result": "3 X 2",
+        "Odd home": -185,
+        "Odd X": 301,
+        "Odd away": 576
+    },
+    "102": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Internacional - RS",
+        "Result": "0 X 0",
+        "Odd home": 133,
+        "Odd X": 204,
+        "Odd away": 242
+    },
+    "103": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "2 X 2",
+        "Odd home": 156,
+        "Odd X": 222,
+        "Odd away": 189
+    },
+    "104": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Bahia - BA",
+        "Result": "1 X 0",
+        "Odd home": -112,
+        "Odd X": 238,
+        "Odd away": 336
+    },
+    "105": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "0 X 1",
+        "Odd home": 305,
+        "Odd X": 225,
+        "Odd away": 100
+    },
+    "106": {
+        "Home": "Sport - PE",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 2",
+        "Odd home": 175,
+        "Odd X": 190,
+        "Odd away": 192
+    },
+    "107": {
+        "Home": "Juventude - RS",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "1 X 1",
+        "Odd home": 156,
+        "Odd X": 190,
+        "Odd away": 217
+    },
+    "108": {
+        "Home": "Flamengo - RJ",
+        "Away": "Chapecoense - SC",
+        "Result": "2 X 1",
+        "Odd home": -500,
+        "Odd X": 544,
+        "Odd away": 1544
+    },
+    "109": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "2 X 2",
+        "Odd home": 190,
+        "Odd X": 186,
+        "Odd away": 181
+    },
+    "110": {
+        "Home": "Fortaleza - CE",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 0",
+        "Odd home": 134,
+        "Odd X": 200,
+        "Odd away": 244
+    },
+    "111": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "1 X 0",
+        "Odd home": 102,
+        "Odd X": 223,
+        "Odd away": 298
+    },
+    "112": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Fortaleza - CE",
+        "Result": "0 X 1",
+        "Odd home": 112,
+        "Odd X": 200,
+        "Odd away": 292
+    },
+    "113": {
+        "Home": "Corinthians - SP",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "1 X 2",
+        "Odd home": 168,
+        "Odd X": 199,
+        "Odd away": 191
+    },
+    "114": {
+        "Home": "Fluminense - RJ",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "0 X 1",
+        "Odd home": 165,
+        "Odd X": 198,
+        "Odd away": 192
+    },
+    "115": {
+        "Home": "Chapecoense - SC",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "2 X 3",
+        "Odd home": 154,
+        "Odd X": 195,
+        "Odd away": 209
+    },
+    "116": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Palmeiras - SP",
+        "Result": "0 X 3",
+        "Odd home": 313,
+        "Odd X": 239,
+        "Odd away": -108
+    },
+    "117": {
+        "Home": "Bahia - BA",
+        "Away": "Flamengo - RJ",
+        "Result": "0 X 5",
+        "Odd home": 417,
+        "Odd X": 286,
+        "Odd away": -154
+    },
+    "118": {
+        "Home": "Internacional - RS",
+        "Away": "Juventude - RS",
+        "Result": "1 X 0",
+        "Odd home": -139,
+        "Odd X": 235,
+        "Odd away": 472
+    },
+    "119": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Santos - SP",
+        "Result": "2 X 2",
+        "Odd home": -115,
+        "Odd X": 254,
+        "Odd away": 322
+    },
+    "120": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Sport - PE",
+        "Result": "0 X 1",
+        "Odd home": -137,
+        "Odd X": 231,
+        "Odd away": 459
+    },
+    "121": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "1 X 1",
+        "Odd home": -110,
+        "Odd X": 233,
+        "Odd away": 333
+    },
+    "122": {
+        "Home": "Palmeiras - SP",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 0",
+        "Odd home": -169,
+        "Odd X": 268,
+        "Odd away": 547
+    },
+    "123": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Bahia - BA",
+        "Result": "3 X 0",
+        "Odd home": -154,
+        "Odd X": 281,
+        "Odd away": 445
+    },
+    "124": {
+        "Home": "Fortaleza - CE",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "1 X 0",
+        "Odd home": 172,
+        "Odd X": 208,
+        "Odd away": 177
+    },
+    "125": {
+        "Home": "Flamengo - RJ",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "5 X 1",
+        "Odd home": -164,
+        "Odd X": 287,
+        "Odd away": 476
+    },
+    "126": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Internacional - RS",
+        "Result": "2 X 1",
+        "Odd home": 147,
+        "Odd X": 211,
+        "Odd away": 202
+    },
+    "127": {
+        "Home": "Santos - SP",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "0 X 1",
+        "Odd home": -123,
+        "Odd X": 235,
+        "Odd away": 390
+    },
+    "128": {
+        "Home": "Sport - PE",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "0 X 0",
+        "Odd home": 249,
+        "Odd X": 191,
+        "Odd away": 136
+    },
+    "129": {
+        "Home": "Juventude - RS",
+        "Away": "Chapecoense - SC",
+        "Result": "1 X 0",
+        "Odd home": 121,
+        "Odd X": 195,
+        "Odd away": 281
+    },
+    "130": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 2",
+        "Odd home": 213,
+        "Odd X": 179,
+        "Odd away": 165
+    },
+    "131": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Palmeiras - SP",
+        "Result": "0 X 0",
+        "Odd home": 187,
+        "Odd X": 197,
+        "Odd away": 172
+    },
+    "132": {
+        "Home": "Internacional - RS",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "0 X 0",
+        "Odd home": -141,
+        "Odd X": 238,
+        "Odd away": 478
+    },
+    "133": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "1 X 0",
+        "Odd home": 102,
+        "Odd X": 229,
+        "Odd away": 294
+    },
+    "134": {
+        "Home": "Corinthians - SP",
+        "Away": "Flamengo - RJ",
+        "Result": "1 X 3",
+        "Odd home": 398,
+        "Odd X": 274,
+        "Odd away": -141
+    },
+    "135": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "2 X 0",
+        "Odd home": -147,
+        "Odd X": 260,
+        "Odd away": 451
+    },
+    "136": {
+        "Home": "Chapecoense - SC",
+        "Away": "Santos - SP",
+        "Result": "0 X 1",
+        "Odd home": 256,
+        "Odd X": 225,
+        "Odd away": 112
+    },
+    "137": {
+        "Home": "Bahia - BA",
+        "Away": "Sport - PE",
+        "Result": "0 X 1",
+        "Odd home": -119,
+        "Odd X": 238,
+        "Odd away": 361
+    },
+    "138": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "1 X 1",
+        "Odd home": 152,
+        "Odd X": 200,
+        "Odd away": 208
+    },
+    "139": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Fortaleza - CE",
+        "Result": "3 X 1",
+        "Odd home": 229,
+        "Odd X": 188,
+        "Odd away": 147
+    },
+    "140": {
+        "Home": "Fluminense - RJ",
+        "Away": "Juventude - RS",
+        "Result": "1 X 1",
+        "Odd home": -116,
+        "Odd X": 214,
+        "Odd away": 399
+    },
+    "141": {
+        "Home": "Sport - PE",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "0 X 0",
+        "Odd home": 248,
+        "Odd X": 198,
+        "Odd away": 133
+    },
+    "142": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "1 X 2",
+        "Odd home": 181,
+        "Odd X": 200,
+        "Odd away": 171
+    },
+    "143": {
+        "Home": "Palmeiras - SP",
+        "Away": "Fortaleza - CE",
+        "Result": "2 X 3",
+        "Odd home": -141,
+        "Odd X": 250,
+        "Odd away": 434
+    },
+    "144": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Bahia - BA",
+        "Result": "1 X 1",
+        "Odd home": 148,
+        "Odd X": 202,
+        "Odd away": 211
+    },
+    "145": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 0",
+        "Odd home": 186,
+        "Odd X": 194,
+        "Odd away": 173
+    },
+    "146": {
+        "Home": "Juventude - RS",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "1 X 2",
+        "Odd home": 322,
+        "Odd X": 204,
+        "Odd away": 104
+    },
+    "147": {
+        "Home": "Santos - SP",
+        "Away": "Corinthians - SP",
+        "Result": "0 X 0",
+        "Odd home": 168,
+        "Odd X": 195,
+        "Odd away": 194
+    },
+    "148": {
+        "Home": "Flamengo - RJ",
+        "Away": "Internacional - RS",
+        "Result": "0 X 4",
+        "Odd home": -217,
+        "Odd X": 334,
+        "Odd away": 625
+    },
+    "149": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "0 X 0",
+        "Odd home": -130,
+        "Odd X": 242,
+        "Odd away": 399
+    },
+    "150": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Chapecoense - SC",
+        "Result": "2 X 1",
+        "Odd home": -213,
+        "Odd X": 293,
+        "Odd away": 706
+    },
+    "151": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Juventude - RS",
+        "Result": "1 X 2",
+        "Odd home": -116,
+        "Odd X": 227,
+        "Odd away": 379
+    },
+    "152": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Palmeiras - SP",
+        "Result": "2 X 0",
+        "Odd home": 108,
+        "Odd X": 227,
+        "Odd away": 269
+    },
+    "153": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "2 X 1",
+        "Odd home": 136,
+        "Odd X": 195,
+        "Odd away": 239
+    },
+    "154": {
+        "Home": "Flamengo - RJ",
+        "Away": "Sport - PE",
+        "Result": "2 X 0",
+        "Odd home": -333,
+        "Odd X": 448,
+        "Odd away": 873
+    },
+    "155": {
+        "Home": "Corinthians - SP",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "3 X 1",
+        "Odd home": 124,
+        "Odd X": 197,
+        "Odd away": 268
+    },
+    "156": {
+        "Home": "Fortaleza - CE",
+        "Away": "Santos - SP",
+        "Result": "1 X 1",
+        "Odd home": -122,
+        "Odd X": 247,
+        "Odd away": 362
+    },
+    "157": {
+        "Home": "Bahia - BA",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "1 X 2",
+        "Odd home": 102,
+        "Odd X": 227,
+        "Odd away": 283
+    },
+    "158": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "1 X 0",
+        "Odd home": 127,
+        "Odd X": 210,
+        "Odd away": 244
+    },
+    "159": {
+        "Home": "Internacional - RS",
+        "Away": "Fluminense - RJ",
+        "Result": "4 X 2",
+        "Odd home": -109,
+        "Odd X": 222,
+        "Odd away": 342
+    },
+    "160": {
+        "Home": "Chapecoense - SC",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "1 X 1",
+        "Odd home": 257,
+        "Odd X": 221,
+        "Odd away": 114
+    },
+    "161": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Chapecoense - SC",
+        "Result": "1 X 1",
+        "Odd home": -119,
+        "Odd X": 229,
+        "Odd away": 382
+    },
+    "162": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Bahia - BA",
+        "Result": "2 X 0",
+        "Odd home": -108,
+        "Odd X": 231,
+        "Odd away": 321
+    },
+    "163": {
+        "Home": "Juventude - RS",
+        "Away": "Fortaleza - CE",
+        "Result": "1 X 1",
+        "Odd home": 284,
+        "Odd X": 198,
+        "Odd away": 118
+    },
+    "164": {
+        "Home": "Palmeiras - SP",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "0 X 2",
+        "Odd home": -213,
+        "Odd X": 313,
+        "Odd away": 659
+    },
+    "165": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Flamengo - RJ",
+        "Result": "1 X 1",
+        "Odd home": 330,
+        "Odd X": 267,
+        "Odd away": -123
+    },
+    "166": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Corinthians - SP",
+        "Result": "0 X 1",
+        "Odd home": 149,
+        "Odd X": 202,
+        "Odd away": 213
+    },
+    "167": {
+        "Home": "Santos - SP",
+        "Away": "Internacional - RS",
+        "Result": "2 X 2",
+        "Odd home": 250,
+        "Odd X": 215,
+        "Odd away": 123
+    },
+    "168": {
+        "Home": "Sport - PE",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "0 X 1",
+        "Odd home": 376,
+        "Odd X": 219,
+        "Odd away": -114
+    },
+    "169": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "0 X 2",
+        "Odd home": 208,
+        "Odd X": 221,
+        "Odd away": 138
+    },
+    "170": {
+        "Home": "Fluminense - RJ",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "1 X 1",
+        "Odd home": 329,
+        "Odd X": 223,
+        "Odd away": -104
+    },
+    "171": {
+        "Home": "Sport - PE",
+        "Away": "Chapecoense - SC",
+        "Result": "0 X 0",
+        "Odd home": -102,
+        "Odd X": 220,
+        "Odd away": 326
+    },
+    "172": {
+        "Home": "Santos - SP",
+        "Away": "Flamengo - RJ",
+        "Result": "0 X 4",
+        "Odd home": 478,
+        "Odd X": 355,
+        "Odd away": -196
+    },
+    "173": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Corinthians - SP",
+        "Result": "0 X 1",
+        "Odd home": 123,
+        "Odd X": 194,
+        "Odd away": 279
+    },
+    "174": {
+        "Home": "Palmeiras - SP",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "2 X 1",
+        "Odd home": -159,
+        "Odd X": 293,
+        "Odd away": 434
+    },
+    "175": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "2 X 0",
+        "Odd home": 154,
+        "Odd X": 198,
+        "Odd away": 210
+    },
+    "176": {
+        "Home": "Juventude - RS",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "1 X 1",
+        "Odd home": 344,
+        "Odd X": 202,
+        "Odd away": 102
+    },
+    "177": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Internacional - RS",
+        "Result": "0 X 0",
+        "Odd home": 274,
+        "Odd X": 229,
+        "Odd away": 106
+    },
+    "178": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "1 X 1",
+        "Odd home": 270,
+        "Odd X": 233,
+        "Odd away": 106
+    },
+    "179": {
+        "Home": "Fluminense - RJ",
+        "Away": "Bahia - BA",
+        "Result": "2 X 0",
+        "Odd home": 110,
+        "Odd X": 219,
+        "Odd away": 276
+    },
+    "180": {
+        "Home": "Fortaleza - CE",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "0 X 0",
+        "Odd home": -164,
+        "Odd X": 263,
+        "Odd away": 530
+    },
+    "181": {
+        "Home": "Bahia - BA",
+        "Away": "Fortaleza - CE",
+        "Result": "4 X 2",
+        "Odd home": 197,
+        "Odd X": 213,
+        "Odd away": 152
+    },
+    "182": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Santos - SP",
+        "Result": "2 X 1",
+        "Odd home": 161,
+        "Odd X": 200,
+        "Odd away": 193
+    },
+    "183": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Sport - PE",
+        "Result": "0 X 0",
+        "Odd home": -154,
+        "Odd X": 252,
+        "Odd away": 488
+    },
+    "184": {
+        "Home": "Corinthians - SP",
+        "Away": "Juventude - RS",
+        "Result": "1 X 1",
+        "Odd home": -161,
+        "Odd X": 231,
+        "Odd away": 612
+    },
+    "185": {
+        "Home": "Chapecoense - SC",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 2",
+        "Odd home": 319,
+        "Odd X": 214,
+        "Odd away": 100
+    },
+    "186": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "0 X 0",
+        "Odd home": 104,
+        "Odd X": 229,
+        "Odd away": 283
+    },
+    "187": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Palmeiras - SP",
+        "Result": "1 X 2",
+        "Odd home": 209,
+        "Odd X": 216,
+        "Odd away": 140
+    },
+    "188": {
+        "Home": "Internacional - RS",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "1 X 1",
+        "Odd home": -120,
+        "Odd X": 254,
+        "Odd away": 328
+    },
+    "189": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "2 X 1",
+        "Odd home": -238,
+        "Odd X": 348,
+        "Odd away": 667
+    },
+    "190": {
+        "Home": "Flamengo - RJ",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "2 X 0",
+        "Odd home": -294,
+        "Odd X": 424,
+        "Odd away": 811
+    },
+    "191": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "2 X 0",
+        "Odd home": 142,
+        "Odd X": 216,
+        "Odd away": 209
+    },
+    "192": {
+        "Home": "Juventude - RS",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "1 X 2",
+        "Odd home": 140,
+        "Odd X": 186,
+        "Odd away": 249
+    },
+    "193": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Chapecoense - SC",
+        "Result": "1 X 2",
+        "Odd home": -169,
+        "Odd X": 293,
+        "Odd away": 484
+    },
+    "194": {
+        "Home": "Santos - SP",
+        "Away": "Bahia - BA",
+        "Result": "0 X 0",
+        "Odd home": 129,
+        "Odd X": 225,
+        "Odd away": 225
+    },
+    "195": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "2 X 0",
+        "Odd home": 110,
+        "Odd X": 214,
+        "Odd away": 287
+    },
+    "196": {
+        "Home": "Fortaleza - CE",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "0 X 2",
+        "Odd home": 225,
+        "Odd X": 210,
+        "Odd away": 139
+    },
+    "197": {
+        "Home": "Palmeiras - SP",
+        "Away": "Flamengo - RJ",
+        "Result": "1 X 3",
+        "Odd home": 133,
+        "Odd X": 249,
+        "Odd away": 198
+    },
+    "198": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 1",
+        "Odd home": 208,
+        "Odd X": 179,
+        "Odd away": 170
+    },
+    "199": {
+        "Home": "Fluminense - RJ",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "2 X 1",
+        "Odd home": 221,
+        "Odd X": 197,
+        "Odd away": 145
+    },
+    "200": {
+        "Home": "Sport - PE",
+        "Away": "Internacional - RS",
+        "Result": "0 X 1",
+        "Odd home": 270,
+        "Odd X": 209,
+        "Odd away": 116
+    },
+    "201": {
+        "Home": "Chapecoense - SC",
+        "Away": "Palmeiras - SP",
+        "Result": "0 X 2",
+        "Odd home": 480,
+        "Odd X": 293,
+        "Odd away": -169
+    },
+    "202": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Juventude - RS",
+        "Result": "2 X 1",
+        "Odd home": 108,
+        "Odd X": 208,
+        "Odd away": 295
+    },
+    "203": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Sport - PE",
+        "Result": "3 X 0",
+        "Odd home": -385,
+        "Odd X": 434,
+        "Odd away": 1184
+    },
+    "204": {
+        "Home": "Bahia - BA",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "1 X 1",
+        "Odd home": 136,
+        "Odd X": 225,
+        "Odd away": 209
+    },
+    "205": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Santos - SP",
+        "Result": "0 X 0",
+        "Odd home": 129,
+        "Odd X": 204,
+        "Odd away": 245
+    },
+    "206": {
+        "Home": "Internacional - RS",
+        "Away": "Fortaleza - CE",
+        "Result": "1 X 0",
+        "Odd home": 102,
+        "Odd X": 236,
+        "Odd away": 279
+    },
+    "207": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "2 X 1",
+        "Odd home": -169,
+        "Odd X": 289,
+        "Odd away": 513
+    },
+    "208": {
+        "Home": "Corinthians - SP",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "1 X 1",
+        "Odd home": 100,
+        "Odd X": 216,
+        "Odd away": 316
+    },
+    "209": {
+        "Home": "Flamengo - RJ",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "0 X 1",
+        "Odd home": -217,
+        "Odd X": 330,
+        "Odd away": 601
+    },
+    "210": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Fluminense - RJ",
+        "Result": "2 X 2",
+        "Odd home": 237,
+        "Odd X": 184,
+        "Odd away": 148
+    },
+    "211": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Chapecoense - SC",
+        "Result": "1 X 0",
+        "Odd home": -125,
+        "Odd X": 243,
+        "Odd away": 391
+    },
+    "212": {
+        "Home": "Corinthians - SP",
+        "Away": "Palmeiras - SP",
+        "Result": "2 X 1",
+        "Odd home": 217,
+        "Odd X": 198,
+        "Odd away": 150
+    },
+    "213": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "0 X 0",
+        "Odd home": 242,
+        "Odd X": 206,
+        "Odd away": 129
+    },
+    "214": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Flamengo - RJ",
+        "Result": "1 X 1",
+        "Odd home": 273,
+        "Odd X": 246,
+        "Odd away": 100
+    },
+    "215": {
+        "Home": "Juventude - RS",
+        "Away": "Santos - SP",
+        "Result": "3 X 0",
+        "Odd home": 190,
+        "Odd X": 196,
+        "Odd away": 168
+    },
+    "216": {
+        "Home": "Fluminense - RJ",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "2 X 1",
+        "Odd home": -135,
+        "Odd X": 250,
+        "Odd away": 405
+    },
+    "217": {
+        "Home": "Internacional - RS",
+        "Away": "Bahia - BA",
+        "Result": "2 X 0",
+        "Odd home": -135,
+        "Odd X": 263,
+        "Odd away": 382
+    },
+    "218": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "4 X 2",
+        "Odd home": 204,
+        "Odd X": 200,
+        "Odd away": 152
+    },
+    "219": {
+        "Home": "Sport - PE",
+        "Away": "Fortaleza - CE",
+        "Result": "0 X 1",
+        "Odd home": 291,
+        "Odd X": 213,
+        "Odd away": 108
+    },
+    "220": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "0 X 0",
+        "Odd home": 134,
+        "Odd X": 189,
+        "Odd away": 250
+    },
+    "221": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "0 X 2",
+        "Odd home": 187,
+        "Odd X": 198,
+        "Odd away": 170
+    },
+    "222": {
+        "Home": "Fortaleza - CE",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "0 X 3",
+        "Odd home": -161,
+        "Odd X": 280,
+        "Odd away": 480
+    },
+    "223": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Corinthians - SP",
+        "Result": "2 X 2",
+        "Odd home": 189,
+        "Odd X": 200,
+        "Odd away": 168
+    },
+    "224": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Internacional - RS",
+        "Result": "1 X 0",
+        "Odd home": -172,
+        "Odd X": 299,
+        "Odd away": 491
+    },
+    "225": {
+        "Home": "Chapecoense - SC",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "1 X 1",
+        "Odd home": 333,
+        "Odd X": 236,
+        "Odd away": -111
+    },
+    "226": {
+        "Home": "Flamengo - RJ",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "3 X 0",
+        "Odd home": -500,
+        "Odd X": 571,
+        "Odd away": 1139
+    },
+    "227": {
+        "Home": "Palmeiras - SP",
+        "Away": "Juventude - RS",
+        "Result": "1 X 1",
+        "Odd home": -244,
+        "Odd X": 336,
+        "Odd away": 721
+    },
+    "228": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Sport - PE",
+        "Result": "1 X 2",
+        "Odd home": -227,
+        "Odd X": 313,
+        "Odd away": 727
+    },
+    "229": {
+        "Home": "Bahia - BA",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "1 X 1",
+        "Odd home": 104,
+        "Odd X": 224,
+        "Odd away": 277
+    },
+    "230": {
+        "Home": "Santos - SP",
+        "Away": "Fluminense - RJ",
+        "Result": "2 X 0",
+        "Odd home": 154,
+        "Odd X": 199,
+        "Odd away": 202
+    },
+    "231": {
+        "Home": "Corinthians - SP",
+        "Away": "Bahia - BA",
+        "Result": "3 X 1",
+        "Odd home": -159,
+        "Odd X": 256,
+        "Odd away": 512
+    },
+    "232": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Internacional - RS",
+        "Result": "0 X 0",
+        "Odd home": 142,
+        "Odd X": 195,
+        "Odd away": 224
+    },
+    "233": {
+        "Home": "Sport - PE",
+        "Away": "Juventude - RS",
+        "Result": "3 X 1",
+        "Odd home": 150,
+        "Odd X": 177,
+        "Odd away": 237
+    },
+    "234": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "0 X 2",
+        "Odd home": 167,
+        "Odd X": 192,
+        "Odd away": 191
+    },
+    "235": {
+        "Home": "Chapecoense - SC",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "2 X 2",
+        "Odd home": 632,
+        "Odd X": 321,
+        "Odd away": -217
+    },
+    "236": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Flamengo - RJ",
+        "Result": "1 X 1",
+        "Odd home": 215,
+        "Odd X": 234,
+        "Odd away": 127
+    },
+    "237": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Palmeiras - SP",
+        "Result": "2 X 1",
+        "Odd home": 169,
+        "Odd X": 208,
+        "Odd away": 177
+    },
+    "238": {
+        "Home": "Fluminense - RJ",
+        "Away": "Fortaleza - CE",
+        "Result": "0 X 2",
+        "Odd home": 138,
+        "Odd X": 208,
+        "Odd away": 218
+    },
+    "239": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "2 X 2",
+        "Odd home": -189,
+        "Odd X": 273,
+        "Odd away": 613
+    },
+    "240": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Santos - SP",
+        "Result": "1 X 1",
+        "Odd home": -141,
+        "Odd X": 257,
+        "Odd away": 433
+    },
+    "241": {
+        "Home": "Fluminense - RJ",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "0 X 0",
+        "Odd home": -109,
+        "Odd X": 215,
+        "Odd away": 362
+    },
+    "242": {
+        "Home": "Sport - PE",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 0",
+        "Odd home": 308,
+        "Odd X": 187,
+        "Odd away": 117
+    },
+    "243": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "3 X 1",
+        "Odd home": -204,
+        "Odd X": 299,
+        "Odd away": 637
+    },
+    "244": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Bahia - BA",
+        "Result": "0 X 2",
+        "Odd home": -149,
+        "Odd X": 268,
+        "Odd away": 437
+    },
+    "245": {
+        "Home": "Fortaleza - CE",
+        "Away": "Flamengo - RJ",
+        "Result": "0 X 3",
+        "Odd home": 202,
+        "Odd X": 216,
+        "Odd away": 146
+    },
+    "246": {
+        "Home": "Palmeiras - SP",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "2 X 4",
+        "Odd home": -122,
+        "Odd X": 259,
+        "Odd away": 349
+    },
+    "247": {
+        "Home": "Juventude - RS",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "1 X 1",
+        "Odd home": 204,
+        "Odd X": 183,
+        "Odd away": 168
+    },
+    "248": {
+        "Home": "Internacional - RS",
+        "Away": "Chapecoense - SC",
+        "Result": "5 X 2",
+        "Odd home": -250,
+        "Odd X": 359,
+        "Odd away": 708
+    },
+    "249": {
+        "Home": "Santos - SP",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "1 X 0",
+        "Odd home": 167,
+        "Odd X": 206,
+        "Odd away": 181
+    },
+    "250": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "0 X 0",
+        "Odd home": 272,
+        "Odd X": 200,
+        "Odd away": 121
+    },
+    "251": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "1 X 0",
+        "Odd home": -135,
+        "Odd X": 252,
+        "Odd away": 398
+    },
+    "252": {
+        "Home": "Bahia - BA",
+        "Away": "Palmeiras - SP",
+        "Result": "0 X 0",
+        "Odd home": 209,
+        "Odd X": 224,
+        "Odd away": 134
+    },
+    "253": {
+        "Home": "Chapecoense - SC",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "1 X 1",
+        "Odd home": 295,
+        "Odd X": 233,
+        "Odd away": -102
+    },
+    "254": {
+        "Home": "Flamengo - RJ",
+        "Away": "Juventude - RS",
+        "Result": "3 X 1",
+        "Odd home": -278,
+        "Odd X": 378,
+        "Odd away": 794
+    },
+    "255": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Santos - SP",
+        "Result": "3 X 1",
+        "Odd home": -227,
+        "Odd X": 333,
+        "Odd away": 666
+    },
+    "256": {
+        "Home": "Fortaleza - CE",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "1 X 0",
+        "Odd home": -118,
+        "Odd X": 240,
+        "Odd away": 349
+    },
+    "257": {
+        "Home": "Corinthians - SP",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 0",
+        "Odd home": -106,
+        "Odd X": 216,
+        "Odd away": 348
+    },
+    "258": {
+        "Home": "Internacional - RS",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "3 X 1",
+        "Odd home": -106,
+        "Odd X": 233,
+        "Odd away": 311
+    },
+    "259": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Sport - PE",
+        "Result": "1 X 0",
+        "Odd home": 112,
+        "Odd X": 196,
+        "Odd away": 308
+    },
+    "260": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "1 X 1",
+        "Odd home": -141,
+        "Odd X": 248,
+        "Odd away": 433
+    },
+    "261": {
+        "Home": "Chapecoense - SC",
+        "Away": "Fortaleza - CE",
+        "Result": "1 X 2",
+        "Odd home": 376,
+        "Odd X": 259,
+        "Odd away": -130
+    },
+    "262": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Bahia - BA",
+        "Result": "0 X 0",
+        "Odd home": -101,
+        "Odd X": 240,
+        "Odd away": 285
+    },
+    "263": {
+        "Home": "Palmeiras - SP",
+        "Away": "Internacional - RS",
+        "Result": "1 X 0",
+        "Odd home": -122,
+        "Odd X": 262,
+        "Odd away": 349
+    },
+    "264": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Fluminense - RJ",
+        "Result": "0 X 1",
+        "Odd home": 149,
+        "Odd X": 202,
+        "Odd away": 211
+    },
+    "265": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Juventude - RS",
+        "Result": "3 X 2",
+        "Odd home": -141,
+        "Odd X": 242,
+        "Odd away": 457
+    },
+    "266": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "2 X 1",
+        "Odd home": 417,
+        "Odd X": 250,
+        "Odd away": -137
+    },
+    "267": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "2 X 2",
+        "Odd home": 127,
+        "Odd X": 218,
+        "Odd away": 240
+    },
+    "268": {
+        "Home": "Sport - PE",
+        "Away": "Santos - SP",
+        "Result": "0 X 0",
+        "Odd home": 162,
+        "Odd X": 197,
+        "Odd away": 197
+    },
+    "269": {
+        "Home": "Flamengo - RJ",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "0 X 0",
+        "Odd home": -385,
+        "Odd X": 468,
+        "Odd away": 1057
+    },
+    "270": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 0",
+        "Odd home": 119,
+        "Odd X": 206,
+        "Odd away": 281
+    },
+    "271": {
+        "Home": "Santos - SP",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "0 X 2",
+        "Odd home": 135,
+        "Odd X": 211,
+        "Odd away": 222
+    },
+    "272": {
+        "Home": "Juventude - RS",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "0 X 0",
+        "Odd home": 175,
+        "Odd X": 190,
+        "Odd away": 184
+    },
+    "273": {
+        "Home": "Fluminense - RJ",
+        "Away": "Flamengo - RJ",
+        "Result": "3 X 1",
+        "Odd home": 374,
+        "Odd X": 229,
+        "Odd away": -119
+    },
+    "274": {
+        "Home": "Fortaleza - CE",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "3 X 0",
+        "Odd home": -179,
+        "Odd X": 279,
+        "Odd away": 551
+    },
+    "275": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "2 X 1",
+        "Odd home": -357,
+        "Odd X": 434,
+        "Odd away": 1046
+    },
+    "276": {
+        "Home": "Internacional - RS",
+        "Away": "Corinthians - SP",
+        "Result": "2 X 2",
+        "Odd home": 114,
+        "Odd X": 214,
+        "Odd away": 274
+    },
+    "277": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "1 X 0",
+        "Odd home": 169,
+        "Odd X": 211,
+        "Odd away": 169
+    },
+    "278": {
+        "Home": "Bahia - BA",
+        "Away": "Chapecoense - SC",
+        "Result": "3 X 0",
+        "Odd home": -217,
+        "Odd X": 323,
+        "Odd away": 604
+    },
+    "279": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "2 X 0",
+        "Odd home": 177,
+        "Odd X": 204,
+        "Odd away": 169
+    },
+    "280": {
+        "Home": "Palmeiras - SP",
+        "Away": "Sport - PE",
+        "Result": "2 X 1",
+        "Odd home": -278,
+        "Odd X": 366,
+        "Odd away": 778
+    },
+    "281": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Santos - SP",
+        "Result": "0 X 1",
+        "Odd home": -125,
+        "Odd X": 242,
+        "Odd away": 374
+    },
+    "282": {
+        "Home": "Flamengo - RJ",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "1 X 0",
+        "Odd home": 125,
+        "Odd X": 229,
+        "Odd away": 227
+    },
+    "283": {
+        "Home": "Juventude - RS",
+        "Away": "Bahia - BA",
+        "Result": "0 X 0",
+        "Odd home": 141,
+        "Odd X": 194,
+        "Odd away": 229
+    },
+    "284": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Fortaleza - CE",
+        "Result": "2 X 1",
+        "Odd home": 102,
+        "Odd X": 200,
+        "Odd away": 263
+    },
+    "285": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 0",
+        "Odd home": 131,
+        "Odd X": 206,
+        "Odd away": 244
+    },
+    "286": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Palmeiras - SP",
+        "Result": "1 X 3",
+        "Odd home": 184,
+        "Odd X": 225,
+        "Odd away": 152
+    },
+    "287": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Internacional - RS",
+        "Result": "1 X 0",
+        "Odd home": -130,
+        "Odd X": 254,
+        "Odd away": 397
+    },
+    "288": {
+        "Home": "Sport - PE",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "2 X 0",
+        "Odd home": 144,
+        "Odd X": 188,
+        "Odd away": 231
+    },
+    "289": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "1 X 0",
+        "Odd home": 150,
+        "Odd X": 202,
+        "Odd away": 202
+    },
+    "290": {
+        "Home": "Corinthians - SP",
+        "Away": "Chapecoense - SC",
+        "Result": "1 X 0",
+        "Odd home": -270,
+        "Odd X": 363,
+        "Odd away": 780
+    },
+    "291": {
+        "Home": "Corinthians - SP",
+        "Away": "Fortaleza - CE",
+        "Result": "1 X 0",
+        "Odd home": -120,
+        "Odd X": 241,
+        "Odd away": 399
+    },
+    "292": {
+        "Home": "Internacional - RS",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "1 X 0",
+        "Odd home": 131,
+        "Odd X": 204,
+        "Odd away": 250
+    },
+    "293": {
+        "Home": "Fluminense - RJ",
+        "Away": "Sport - PE",
+        "Result": "1 X 0",
+        "Odd home": -137,
+        "Odd X": 234,
+        "Odd away": 497
+    },
+    "294": {
+        "Home": "Santos - SP",
+        "Away": "Palmeiras - SP",
+        "Result": "0 X 2",
+        "Odd home": 278,
+        "Odd X": 229,
+        "Odd away": 108
+    },
+    "295": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "1 X 0",
+        "Odd home": -156,
+        "Odd X": 276,
+        "Odd away": 471
+    },
+    "296": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "0 X 2",
+        "Odd home": 114,
+        "Odd X": 220,
+        "Odd away": 269
+    },
+    "297": {
+        "Home": "Bahia - BA",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "1 X 0",
+        "Odd home": 199,
+        "Odd X": 209,
+        "Odd away": 154
+    },
+    "298": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "1 X 0",
+        "Odd home": -106,
+        "Odd X": 219,
+        "Odd away": 358
+    },
+    "299": {
+        "Home": "Chapecoense - SC",
+        "Away": "Flamengo - RJ",
+        "Result": "2 X 2",
+        "Odd home": 738,
+        "Odd X": 388,
+        "Odd away": -278
+    },
+    "300": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Juventude - RS",
+        "Result": "1 X 1",
+        "Odd home": 112,
+        "Odd X": 202,
+        "Odd away": 297
+    },
+    "301": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Chapecoense - SC",
+        "Result": "0 X 0",
+        "Odd home": -147,
+        "Odd X": 250,
+        "Odd away": 479
+    },
+    "302": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 0",
+        "Odd home": 135,
+        "Odd X": 193,
+        "Odd away": 247
+    },
+    "303": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "2 X 1",
+        "Odd home": -123,
+        "Odd X": 242,
+        "Odd away": 379
+    },
+    "304": {
+        "Home": "Santos - SP",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "2 X 0",
+        "Odd home": 154,
+        "Odd X": 216,
+        "Odd away": 192
+    },
+    "305": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Corinthians - SP",
+        "Result": "3 X 0",
+        "Odd home": -182,
+        "Odd X": 264,
+        "Odd away": 643
+    },
+    "306": {
+        "Home": "Palmeiras - SP",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "4 X 0",
+        "Odd home": -270,
+        "Odd X": 367,
+        "Odd away": 810
+    },
+    "307": {
+        "Home": "Fortaleza - CE",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "1 X 1",
+        "Odd home": 163,
+        "Odd X": 200,
+        "Odd away": 193
+    },
+    "308": {
+        "Home": "Sport - PE",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "2 X 3",
+        "Odd home": 198,
+        "Odd X": 206,
+        "Odd away": 154
+    },
+    "309": {
+        "Home": "Juventude - RS",
+        "Away": "Internacional - RS",
+        "Result": "2 X 1",
+        "Odd home": 168,
+        "Odd X": 184,
+        "Odd away": 204
+    },
+    "310": {
+        "Home": "Flamengo - RJ",
+        "Away": "Bahia - BA",
+        "Result": "3 X 0",
+        "Odd home": -175,
+        "Odd X": 307,
+        "Odd away": 463
+    },
+    "311": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Santos - SP",
+        "Result": "0 X 0",
+        "Odd home": 108,
+        "Odd X": 223,
+        "Odd away": 287
+    },
+    "312": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "3 X 1",
+        "Odd home": 110,
+        "Odd X": 225,
+        "Odd away": 276
+    },
+    "313": {
+        "Home": "Internacional - RS",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "2 X 1",
+        "Odd home": 114,
+        "Odd X": 215,
+        "Odd away": 280
+    },
+    "314": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Fortaleza - CE",
+        "Result": "3 X 0",
+        "Odd home": 104,
+        "Odd X": 229,
+        "Odd away": 289
+    },
+    "315": {
+        "Home": "Corinthians - SP",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "3 X 2",
+        "Odd home": -164,
+        "Odd X": 252,
+        "Odd away": 589
+    },
+    "316": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Flamengo - RJ",
+        "Result": "0 X 4",
+        "Odd home": 174,
+        "Odd X": 235,
+        "Odd away": 161
+    },
+    "317": {
+        "Home": "Fluminense - RJ",
+        "Away": "Palmeiras - SP",
+        "Result": "2 X 1",
+        "Odd home": 220,
+        "Odd X": 214,
+        "Odd away": 138
+    },
+    "318": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Sport - PE",
+        "Result": "2 X 1",
+        "Odd home": -128,
+        "Odd X": 239,
+        "Odd away": 405
+    },
+    "319": {
+        "Home": "Chapecoense - SC",
+        "Away": "Juventude - RS",
+        "Result": "0 X 2",
+        "Odd home": 234,
+        "Odd X": 213,
+        "Odd away": 131
+    },
+    "320": {
+        "Home": "Bahia - BA",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "2 X 3",
+        "Odd home": 319,
+        "Odd X": 220,
+        "Odd away": -101
+    },
+    "321": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "0 X 1",
+        "Odd home": 550,
+        "Odd X": 313,
+        "Odd away": -192
+    },
+    "322": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "3 X 0",
+        "Odd home": -185,
+        "Odd X": 324,
+        "Odd away": 480
+    },
+    "323": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Internacional - RS",
+        "Result": "1 X 0",
+        "Odd home": 161,
+        "Odd X": 202,
+        "Odd away": 197
+    },
+    "324": {
+        "Home": "Santos - SP",
+        "Away": "Chapecoense - SC",
+        "Result": "2 X 0",
+        "Odd home": -270,
+        "Odd X": 363,
+        "Odd away": 819
+    },
+    "325": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "0 X 0",
+        "Odd home": -164,
+        "Odd X": 290,
+        "Odd away": 471
+    },
+    "326": {
+        "Home": "Fortaleza - CE",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "0 X 4",
+        "Odd home": 143,
+        "Odd X": 200,
+        "Odd away": 223
+    },
+    "327": {
+        "Home": "Palmeiras - SP",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "0 X 2",
+        "Odd home": 114,
+        "Odd X": 231,
+        "Odd away": 256
+    },
+    "328": {
+        "Home": "Juventude - RS",
+        "Away": "Fluminense - RJ",
+        "Result": "1 X 0",
+        "Odd home": 179,
+        "Odd X": 174,
+        "Odd away": 206
+    },
+    "329": {
+        "Home": "Flamengo - RJ",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 0",
+        "Odd home": -111,
+        "Odd X": 238,
+        "Odd away": 336
+    },
+    "330": {
+        "Home": "Sport - PE",
+        "Away": "Bahia - BA",
+        "Result": "1 X 0",
+        "Odd home": 177,
+        "Odd X": 200,
+        "Odd away": 177
+    },
+    "331": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Sport - PE",
+        "Result": "3 X 0",
+        "Odd home": -213,
+        "Odd X": 319,
+        "Odd away": 615
+    },
+    "332": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Juventude - RS",
+        "Result": "2 X 0",
+        "Odd home": -312,
+        "Odd X": 405,
+        "Odd away": 913
+    },
+    "333": {
+        "Home": "Fortaleza - CE",
+        "Away": "Palmeiras - SP",
+        "Result": "1 X 0",
+        "Odd home": 163,
+        "Odd X": 215,
+        "Odd away": 183
+    },
+    "334": {
+        "Home": "Chapecoense - SC",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "1 X 3",
+        "Odd home": 494,
+        "Odd X": 313,
+        "Odd away": -179
+    },
+    "335": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "1 X 1",
+        "Odd home": 127,
+        "Odd X": 214,
+        "Odd away": 238
+    },
+    "336": {
+        "Home": "Internacional - RS",
+        "Away": "Flamengo - RJ",
+        "Result": "1 X 2",
+        "Odd home": 289,
+        "Odd X": 244,
+        "Odd away": 100
+    },
+    "337": {
+        "Home": "Corinthians - SP",
+        "Away": "Santos - SP",
+        "Result": "2 X 0",
+        "Odd home": -135,
+        "Odd X": 235,
+        "Odd away": 467
+    },
+    "338": {
+        "Home": "Fluminense - RJ",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "2 X 0",
+        "Odd home": 117,
+        "Odd X": 216,
+        "Odd away": 261
+    },
+    "339": {
+        "Home": "Bahia - BA",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "0 X 0",
+        "Odd home": -118,
+        "Odd X": 231,
+        "Odd away": 367
+    },
+    "340": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "0 X 0",
+        "Odd home": -119,
+        "Odd X": 225,
+        "Odd away": 384
+    },
+    "341": {
+        "Home": "Palmeiras - SP",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "2 X 2",
+        "Odd home": 363,
+        "Odd X": 258,
+        "Odd away": -127
+    },
+    "342": {
+        "Home": "Fluminense - RJ",
+        "Away": "Internacional - RS",
+        "Result": "1 X 0",
+        "Odd home": 139,
+        "Odd X": 204,
+        "Odd away": 225
+    },
+    "343": {
+        "Home": "Santos - SP",
+        "Away": "Fortaleza - CE",
+        "Result": "2 X 0",
+        "Odd home": 177,
+        "Odd X": 198,
+        "Odd away": 181
+    },
+    "344": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Corinthians - SP",
+        "Result": "2 X 1",
+        "Odd home": 136,
+        "Odd X": 209,
+        "Odd away": 229
+    },
+    "345": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Bahia - BA",
+        "Result": "2 X 1",
+        "Odd home": 154,
+        "Odd X": 204,
+        "Odd away": 200
+    },
+    "346": {
+        "Home": "Juventude - RS",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "1 X 0",
+        "Odd home": 143,
+        "Odd X": 199,
+        "Odd away": 225
+    },
+    "347": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "Chapecoense - SC",
+        "Result": "3 X 0",
+        "Odd home": -370,
+        "Odd X": 453,
+        "Odd away": 1036
+    },
+    "348": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "3 X 0",
+        "Odd home": 119,
+        "Odd X": 219,
+        "Odd away": 249
+    },
+    "349": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "1 X 0",
+        "Odd home": -137,
+        "Odd X": 222,
+        "Odd away": 498
+    },
+    "350": {
+        "Home": "Sport - PE",
+        "Away": "Flamengo - RJ",
+        "Result": "1 X 1",
+        "Odd home": 373,
+        "Odd X": 281,
+        "Odd away": -139
+    },
+    "351": {
+        "Home": "Bahia - BA",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "3 X 1",
+        "Odd home": 159,
+        "Odd X": 212,
+        "Odd away": 189
+    },
+    "352": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "1 X 1",
+        "Odd home": -104,
+        "Odd X": 241,
+        "Odd away": 309
+    },
+    "353": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Sport - PE",
+        "Result": "2 X 0",
+        "Odd home": -204,
+        "Odd X": 309,
+        "Odd away": 618
+    },
+    "354": {
+        "Home": "Corinthians - SP",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "1 X 0",
+        "Odd home": -101,
+        "Odd X": 212,
+        "Odd away": 330
+    },
+    "355": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Fluminense - RJ",
+        "Result": "2 X 1",
+        "Odd home": -263,
+        "Odd X": 363,
+        "Odd away": 808
+    },
+    "356": {
+        "Home": "Internacional - RS",
+        "Away": "Santos - SP",
+        "Result": "1 X 1",
+        "Odd home": -172,
+        "Odd X": 292,
+        "Odd away": 513
+    },
+    "357": {
+        "Home": "Flamengo - RJ",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "2 X 1",
+        "Odd home": -233,
+        "Odd X": 359,
+        "Odd away": 606
+    },
+    "358": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Palmeiras - SP",
+        "Result": "1 X 3",
+        "Odd home": -135,
+        "Odd X": 249,
+        "Odd away": 413
+    },
+    "359": {
+        "Home": "Chapecoense - SC",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "0 X 1",
+        "Odd home": 273,
+        "Odd X": 221,
+        "Odd away": 110
+    },
+    "360": {
+        "Home": "Fortaleza - CE",
+        "Away": "Juventude - RS",
+        "Result": "1 X 0",
+        "Odd home": -141,
+        "Odd X": 252,
+        "Odd away": 426
+    },
+    "361": {
+        "Home": "Corinthians - SP",
+        "Away": "Gr\u00eamio - RS",
+        "Result": "1 X 1",
+        "Odd home": 125,
+        "Odd X": 235,
+        "Odd away": 217
+    },
+    "362": {
+        "Home": "Atl\u00e9tico Mineiro Saf - MG",
+        "Away": "Red Bull Bragantino - SP",
+        "Result": "4 X 3",
+        "Odd home": -105,
+        "Odd X": 243,
+        "Odd away": 304
+    },
+    "363": {
+        "Home": "Bahia - BA",
+        "Away": "Fluminense - RJ",
+        "Result": "2 X 0",
+        "Odd home": 104,
+        "Odd X": 218,
+        "Odd away": 299
+    },
+    "364": {
+        "Home": "Cear\u00e1 - CE",
+        "Away": "Am\u00e9rica Fc Saf - MG",
+        "Result": "0 X 0",
+        "Odd home": 112,
+        "Odd X": 221,
+        "Odd away": 266
+    },
+    "365": {
+        "Home": "Athletico Paranaense - PR",
+        "Away": "Palmeiras - SP",
+        "Result": "0 X 0",
+        "Odd home": -238,
+        "Odd X": 345,
+        "Odd away": 686
+    },
+    "366": {
+        "Home": "S\u00e3o Paulo - SP",
+        "Away": "Juventude - RS",
+        "Result": "3 X 1",
+        "Odd home": -159,
+        "Odd X": 258,
+        "Odd away": 514
+    },
+    "367": {
+        "Home": "Cuiab\u00e1 Saf - MT",
+        "Away": "Fortaleza - CE",
+        "Result": "1 X 0",
+        "Odd home": 110,
+        "Odd X": 208,
+        "Odd away": 292
+    },
+    "368": {
+        "Home": "Flamengo - RJ",
+        "Away": "Santos - SP",
+        "Result": "0 X 1",
+        "Odd home": -192,
+        "Odd X": 355,
+        "Odd away": 480
+    },
+    "369": {
+        "Home": "Internacional - RS",
+        "Away": "Atl\u00e9tico - GO",
+        "Result": "1 X 2",
+        "Odd home": -182,
+        "Odd X": 300,
+        "Odd away": 516
+    },
+    "370": {
+        "Home": "Chapecoense - SC",
+        "Away": "Sport - PE",
+        "Result": "0 X 1",
+        "Odd home": 202,
+        "Odd X": 211,
+        "Odd away": 148
+    },
+    "371": {
+        "Home": "Fluminense - RJ",
+        "Away": "Chapecoense - SC",
+        "Result": "3 X 0",
+        "Odd home": -526,
+        "Odd X": 562,
+        "Odd away": 1482
+    },
+    "372": {
+        "Home": "Palmeiras - SP",
+        "Away": "Cear\u00e1 - CE",
+        "Result": "1 X 0",
+        "Odd home": 305,
+        "Odd X": 275,
+        "Odd away": -118
+    },
+    "373": {
+        "Home": "Santos - SP",
+        "Away": "Cuiab\u00e1 Saf - MT",
+        "Result": "1 X 1",
+        "Odd home": 108,
+        "Odd X": 204,
+        "Odd away": 311
+    },
+    "374": {
+        "Home": "Am\u00e9rica Fc Saf - MG",
+        "Away": "S\u00e3o Paulo - SP",
+        "Result": "2 X 0",
+        "Odd home": 100,
+        "Odd X": 231,
+        "Odd away": 298
+    },
+    "375": {
+        "Home": "Gr\u00eamio - RS",
+        "Away": "Atl\u00e9tico Mineiro Saf - MG",
+        "Result": "4 X 3",
+        "Odd home": -189,
+        "Odd X": 337,
+        "Odd away": 475
+    },
+    "376": {
+        "Home": "Fortaleza - CE",
+        "Away": "Bahia - BA",
+        "Result": "2 X 1",
+        "Odd home": 149,
+        "Odd X": 223,
+        "Odd away": 192
+    },
+    "377": {
+        "Home": "Sport - PE",
+        "Away": "Athletico Paranaense - PR",
+        "Result": "1 X 1",
+        "Odd home": -141,
+        "Odd X": 259,
+        "Odd away": 426
+    },
+    "378": {
+        "Home": "Red Bull Bragantino - SP",
+        "Away": "Internacional - RS",
+        "Result": "1 X 0",
+        "Odd home": -111,
+        "Odd X": 265,
+        "Odd away": 301
+    },
+    "379": {
+        "Home": "Juventude - RS",
+        "Away": "Corinthians - SP",
+        "Result": "1 X 0",
+        "Odd home": 125,
+        "Odd X": 210,
+        "Odd away": 252
+    },
+    "380": {
+        "Home": "Atl\u00e9tico - GO",
+        "Away": "Flamengo - RJ",
+        "Result": "2 X 0",
+        "Odd home": -139,
+        "Odd X": 289,
+        "Odd away": 357
+    }
+}
