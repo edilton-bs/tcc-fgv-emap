@@ -13,7 +13,7 @@ class PoissonModel:
         self.ignored_games = ignored_games
         self.gamma = gamma  # Fator casa inicial
         self.decay = decay  # Fator de esquecimento (xi)
-        self.filename_tag = f'{self.competition}_{self.year}_poisson_{self.max_games}_games_{40 + self.home_away_pars}_pars'
+        # self.filename_tag = f'{self.competition}_{self.year}_poisson_{self.max_games}_games_{40 + self.home_away_pars}_pars'
 
     # Função de verossimilhança com fator de esquecimento (xi) e fator casa (gamma)
     def likelihood(self, parameters, played_games, inx, times):
@@ -48,7 +48,7 @@ class PoissonModel:
 
     # Carregar e processar dados
     def preprocessing(self):
-        with open(f'{self.competition}_{self.year}_games.json', 'r') as f:
+        with open(f'{self.competition}', 'r') as f:
             data = json.load(f)
 
         inx = dict()
@@ -76,29 +76,29 @@ class PoissonModel:
             if home not in inx:
                 inx[home] = dict()
                 inx[home]['Atk'] = inx_count
-                bounds.append((0.01, None))
+                bounds.append((0, None))
                 inx_count += 1
                 inx[home]['Def'] = inx_count
-                bounds.append((0.01, None))
+                bounds.append((0, None))
                 inx_count += 1
 
             # Índices para ataque e defesa do time visitante (away)
             if away not in inx:
                 inx[away] = dict()
                 inx[away]['Atk'] = inx_count
-                bounds.append((0.01, None))
+                bounds.append((0, None))
                 inx_count += 1
                 inx[away]['Def'] = inx_count
-                bounds.append((0.01, None))
+                bounds.append((0, None))
                 inx_count += 1
 
-        bounds.pop(0)  # Remover limite inferior para o primeiro parâmetro, que é fixo em 1
+        # bounds.pop(0)  # Remover limite inferior para o primeiro parâmetro, que é fixo em 1
         return played_games, inx, bounds, times
 
     # Otimizar parâmetros com base nos jogos
     def optimize_parameters(self, verbose):
         played_games, inx, bounds, times = self.preprocessing()
-        parameters = np.random.random(2 * len(inx)-1) if self.x0 is None else self.x0
+        parameters = np.random.random(2 * len(inx)) if self.x0 is None else self.x0
         
         # Otimização usando a verossimilhança
         res = minimize(self.likelihood, parameters, args=(played_games, inx, times), bounds=bounds)
@@ -155,8 +155,7 @@ class PoissonModel:
 
       # Executar o modelo para um conjunto de jogos e prever placares
     def run_model(self, verbose=True):
-        success, parameters = self.optimize_parameters(verbose)
+        success, inx, gamma, parameters = self.optimize_parameters(verbose)
         if success and verbose:
             print(f'Parâmetros estimados com sucesso!')
         return parameters
-
